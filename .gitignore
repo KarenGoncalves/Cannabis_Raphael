@@ -1,0 +1,9 @@
+*/*fastq
+*/*bam
+genome/Cannabis_144
+genome/Cannabis_30/
+genome/Cannabis_70/
+genome/Cannabis_90/
+slurms/
+fastp.html
+alignments/*
