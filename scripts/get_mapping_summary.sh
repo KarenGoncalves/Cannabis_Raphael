@@ -24,7 +24,7 @@ for i in ${ALIGNMENT_SUMMARY[@]}; do
 			NR==34 || NR==37 { print $2}' ${i} |\
 			sed 's/%//g'))
 	
-	sampleName=$(basename ${i/Log.final.out})
+	sampleName=$(basename ${i/_Log.final.out})
 	
 	# Print the sample name and the stats columns to the alignment stats file
 	echo ${sampleName} ${STATS[@]} | tr ' ' '\t' >> $DIR/metadata/alignment_summary.txt
