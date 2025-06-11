@@ -1,6 +1,6 @@
 #!/bin/sh
 #SBATCH --cpus-per-task=8
-#SBATCH --account=def-laboidp
+#SBATCH --account=def-desgagne
 #SBATCH --time=3:00:00
 #SBATCH --mem=30G
 #SBATCH --output=/scratch/karencgs/Cannabis_sativa/slurms/STAR_idx-%j.out
