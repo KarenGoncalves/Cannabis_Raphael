@@ -1,10 +1,10 @@
 #!/bin/sh
 #SBATCH --cpus-per-task=8
-#SBATCH --account=def-laboidp
-#SBATCH --time=1:00:00
+#SBATCH --account=def-desgagne
+#SBATCH --time=2:00:00
 #SBATCH --mem=15G
 #SBATCH --output=/scratch/karencgs/Cannabis_sativa/slurms/STAR_map-%A-%a.out
-#SBATCH --array=1-123,125-130
+#SBATCH --array=1-130
 
 # Using STAR version star/2.7.11b
 module load StdEnv/2023 star/2.7.11b
@@ -31,7 +31,8 @@ outPrefix=${sample_info[0]}_
 STAR --genomeDir $indexDIR/\
  --runThreadN $NCPUS \
  --readFilesIn ${MYREADS[@]}\
- --outFileNamePrefix alignments/${outPrefix}\
+ --outFileNamePrefix alignment_STAR/${outPrefix}\
  --outSAMtype BAM SortedByCoordinate \
  --outSAMunmapped Within \
- --outSAMattributes Standard
+ --outSAMattributes Standard\
+ --quantMode GeneCounts
