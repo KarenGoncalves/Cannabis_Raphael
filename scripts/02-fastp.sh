@@ -1,10 +1,10 @@
 #!/bin/sh
-#SBATCH --account=def-laboidp
+#SBATCH --account=def-desgagne
 #SBATCH --mem-per-cpu=8G
 #SBATCH --time=0:20:00
 #SBATCH --cpus-per-task=8
 #SBATCH --output=/scratch/karencgs/Cannabis_sativa/slurms/fastp_%A-%a.out
-#SBATCH --array=124
+#SBATCH --array=66
 
 #go to 130
 
