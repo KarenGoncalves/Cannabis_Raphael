@@ -1,4 +1,4 @@
-Read files (list of runs and information about them is presented in [metadata/sRA_info.csv](./metadata/SRA_info.csv) were downloaded from NCBI’s Sequence Read Archive (SRA)\
+Read files (list of runs and information about them is presented in [metadata/SRA_info.csv](./metadata/SRA_info.csv) were downloaded from NCBI’s Sequence Read Archive (SRA)\
 and filtered and trimmed for quality control using fastp (version 0.23.4) with the following parameters:\
 ```
 --qualified_quality_phred 20 --unqualified_percent_limit 30\
