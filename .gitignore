@@ -1,5 +1,8 @@
 */*fastq
 */*bam
+RAW_DATA
+clean_reads
+genome
 genome/Cannabis_144
 genome/Cannabis_30/
 genome/Cannabis_70/
