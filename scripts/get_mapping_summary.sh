@@ -2,7 +2,20 @@
 
 # Folder name
 DIR=$SCRATCH/Cannabis_sativa
-alignment_folder=$1
+if [ $# -eq 0 ]
+  then
+    alignment_folder=$DIR/alignment
+  else
+    alignment_folder=$1
+fi
+
+if [ $# -gt 1 ]
+  then
+    resultSummary=$2
+  else
+    resultSummary=$DIR/metadata/alignment_summary.txt
+fi
+
 # List of alignment summaries
 ALIGNMENT_SUMMARY=($(ls $alignment_folder/*Log.final.out))
 
@@ -10,7 +23,7 @@ ALIGNMENT_SUMMARY=($(ls $alignment_folder/*Log.final.out))
 echo "Sample N_input_reads N_uniq_mapped pct_uniq_mapped\
  pct_map_multiple_loci pct_map_many_loci\
  pct_unmap_mismatch pct_unmap_short\
- pct_unmap_other pct_chimera" | tr ' ' '\t' > $DIR/metadata/alignment_summary.txt
+ pct_unmap_other pct_chimera" | tr ' ' '\t' > $resultSummary
 
 for i in ${ALIGNMENT_SUMMARY[@]}; do
 	# Get stats into a table
@@ -27,6 +40,6 @@ for i in ${ALIGNMENT_SUMMARY[@]}; do
 	sampleName=$(basename ${i/_Log.final.out})
 	
 	# Print the sample name and the stats columns to the alignment stats file
-	echo ${sampleName} ${STATS[@]} | tr ' ' '\t' >> $DIR/metadata/alignment_summary.txt
+	echo ${sampleName} ${STATS[@]} | tr ' ' '\t' >> $resultSummary
 	
 done
