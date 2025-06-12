@@ -2,9 +2,9 @@
 
 # Folder name
 DIR=$SCRATCH/Cannabis_sativa
-
+alignment_folder=$1
 # List of alignment summaries
-ALIGNMENT_SUMMARY=($(ls $DIR/alignments/*Log.final.out))
+ALIGNMENT_SUMMARY=($(ls $alignment_folder/*Log.final.out))
 
 # Names of columns of the alignment stats file
 echo "Sample N_input_reads N_uniq_mapped pct_uniq_mapped\
