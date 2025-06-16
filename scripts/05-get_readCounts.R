@@ -1,6 +1,10 @@
 suppressMessages(library(tidyverse))
 
-folderfiles <- list.files("alignment_STAR/", pattern="*ReadsPerGene.out.tab", full.names=T)
+args <- commandArgs(trailing.only = T)
+inputFolder = args[1]
+folderfiles <- list.files(inputFolder, pattern="*ReadsPerGene.out.tab", full.names=T)
+
+outputFile = args[2]
 
 data_csv <- folderfiles %>%
     set_names() %>%
@@ -25,4 +29,4 @@ counts = sapply(unique(data_csv$Run), simplify = F, \(run) {
         mutate(Gene_ID = levels(data_csv$Gene_ID),
         .before = everything())
 
-write_delim(counts, delim = "\t", file="alignment_STAR/read_counts.txt")
+write_delim(counts, delim = "\t", file=outputFile)
