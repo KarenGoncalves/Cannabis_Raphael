@@ -17,21 +17,21 @@ rm metadata/Stranded_data.txt
 for bam in alignment_STAR/*_Aligned.sortedByCoord.out.bam; do\
         run=$(basename ${bam/_Aligned.sortedByCoord.out.bam})
         out=alignment_STAR/${run}_strandness.txt
-#       infer_experiment.py\
-#        -i $bam\
-#        -r genome/Cannabis_sativa_female.cs10.61.bed >\
-#        ${out};
+       infer_experiment.py\
+        -i $bam\
+        -r genome/Cannabis_sativa_female.cs10.61.bed >\
+        ${out};
 
         layout=$(grep "This is " $out | sed -E 's/This is ([PS])[a-z]+(E)nd Data/\1\2/')
         failed=$(grep "reads failed" $out | sed -E 's/.+: //')
         fwd=$(grep "reads failed" $out -A1 | sed -E 's/.+: //' | tail -n 1)
         rev=$(grep "reads failed" $out -A2 | sed -E 's/.+: //' | tail -n 1)
 
-        echo 'layout = "'$layout'"
-fwd = '$fwd'
-rev = '$rev'
-fwd_percent = fwd / (fwd + rev)
-rev_percent = rev / (fwd + rev)
+        echo 'layout="'$layout'"
+fwd='$fwd'
+rev='$rev'
+fwd_percent=fwd / (fwd + rev)
+rev_percent=rev / (fwd + rev)
 
 # If there is more forward than reverse, the right-most read was sequenced first
 if (fwd_percent > 0.8) {
