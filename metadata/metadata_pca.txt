@@ -1,0 +1,131 @@
+Run	Project	Layout	Length_type	Tissue_group	Tissue
+SRR28955710	PRJNA1108719	PE	normal	Leaf	Leaf
+SRR28955709	PRJNA1108719	PE	normal	Leaf	Leaf
+SRR28955708	PRJNA1108719	PE	normal	Leaf	Leaf
+SRR29474897	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474898	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474899	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474900	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474904	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474901	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474902	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474903	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474905	PRJNA1126191	PE	normal	Meristem	Male apical meristem
+SRR29474906	PRJNA1126191	PE	normal	Meristem	Male apical meristem
+SRR29474907	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474908	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474912	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474909	PRJNA1126191	PE	normal	Meristem	Female apical meristem
+SRR29474910	PRJNA1126191	PE	normal	Meristem	Male apical meristem
+SRR29474911	PRJNA1126191	PE	normal	Meristem	Male apical meristem
+SRR29474913	PRJNA1126191	PE	normal	Meristem	Male apical meristem
+SRR29474914	PRJNA1126191	PE	normal	Meristem	Male apical meristem
+SRR29474915	PRJNA1126191	PE	normal	Meristem	Male apical meristem
+SRR29474916	PRJNA1126191	PE	normal	Meristem	Male apical meristem
+SRR33595210	PRJNA1173925	PE	normal	Leaf	Leaf
+SRR33595219	PRJNA1173925	PE	normal	Leaf	Leaf
+SRR33595218	PRJNA1173925	PE	normal	Leaf	Leaf
+SRR33595213	PRJNA1173925	PE	normal	Stem	Stem
+SRR33595212	PRJNA1173925	PE	normal	Stem	Stem
+SRR33595211	PRJNA1173925	PE	normal	Stem	Stem
+SRR33595216	PRJNA1173925	PE	normal	Root	Roots
+SRR33595215	PRJNA1173925	PE	normal	Root	Roots
+SRR33595214	PRJNA1173925	PE	normal	Root	Roots
+SRR33595221	PRJNA1173925	PE	normal	Flower	Female flower
+SRR33595220	PRJNA1173925	PE	normal	Flower	Female flower
+SRR33595217	PRJNA1173925	PE	normal	Flower	Female flower
+SRR306886	PRJNA80055	SE	short	Leaf	Leaf
+SRR306885	PRJNA80055	SE	short	Leaf	Leaf
+SRR306875	PRJNA80055	SE	short	Leaf	Leaf 
+SRR306884	PRJNA80055	SE	short	Flower	Flower
+SRR306877	PRJNA80055	SE	short	Stem	Primary stem
+SRR306871	PRJNA80055	SE	short	Leaf	Leaf
+SRR306872	PRJNA80055	SE	short	Leaf	Leaf
+SRR306874	PRJNA80055	SE	short	Leaf	Leaf
+SRR306870	PRJNA80055	SE	short	Flower	Flower
+SRR306869	PRJNA80055	SE	short	Flower	Flower
+SRR306868	PRJNA80055	SE	short	Flower	Flower
+SRR306867	PRJNA80055	SE	short	Flower	Flower
+SRR306866	PRJNA80055	SE	short	Flower	Flower
+SRR306865	PRJNA80055	SE	short	Leaf	Petiole
+SRR306864	PRJNA80055	SE	short	Leaf	Petiole
+SRR306863	PRJNA80055	SE	short	Root	Root
+SRR306862	PRJNA80055	SE	short	Root	Root
+SRR306861	PRJNA80055	SE	short	Root	Root
+SRR192373	PRJNA80055	PE	normal	Stem	Primary stem
+SRR192372	PRJNA80055	PE	normal	Root	Root
+SRR192371	PRJNA80055	PE	normal	Leaf	Leaf
+SRR192370	PRJNA80055	PE	normal	Flower	Flower
+SRR192369	PRJNA80055	PE	normal	Flower	Flower
+SRR352201	PRJNA73819	SE	normal	Stem	Stem
+SRR352202	PRJNA73819	SE	normal	Root	Root
+SRR352200	PRJNA73819	SE	normal	Stem	Shoot
+SRR352198	PRJNA73819	SE	normal	Flower	Flower
+SRR352196	PRJNA73819	SE	normal	Flower	Flower
+SRR352195	PRJNA73819	SE	normal	Flower	Flower
+SRR351933	PRJNA73819	SE	normal	Flower	Flower
+SRR351932	PRJNA73819	SE	short	Flower	Flower
+SRR10600944	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600943	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600932	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600921	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600910	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600899	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600888	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600877	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600875	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600874	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600942	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600941	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600940	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600939	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600938	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600937	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600936	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600935	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600934	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600933	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600931	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600930	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600929	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600928	PRJNA560453	PE	normal	Flower	Female flower
+SRR10600883	PRJNA560453	PE	normal	Flower	Male flower
+SRR10600882	PRJNA560453	PE	normal	Flower	Male flower
+SRR10600881	PRJNA560453	PE	normal	Flower	Male flower
+SRR10600880	PRJNA560453	PE	normal	Flower	Male flower
+SRR10600879	PRJNA560453	PE	normal	Flower	Male flower
+SRR10600878	PRJNA560453	PE	normal	Flower	Male flower
+SRR10600927	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600926	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600925	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600924	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600923	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600922	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600920	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600919	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600918	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600917	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600916	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600915	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600914	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600913	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600912	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600911	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600909	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600908	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600907	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600906	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600905	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600904	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600903	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600902	PRJNA560453	PE	normal	Trichome	Trichomes
+SRR10600885	PRJNA560453	PE	normal	Root	Female root-mid
+SRR10600884	PRJNA560453	PE	normal	Root	Female root-tip
+SRR10600901	PRJNA560453	PE	normal	Leaf	Vegetative leaf - fresh cutting
+SRR10600900	PRJNA560453	PE	normal	Leaf	Vegetative leaf - fresh cutting
+SRR10600889	PRJNA560453	PE	normal	Flower	Female reproductive bud
+SRR10600890	PRJNA560453	PE	normal	Leaf	Female reproductive leaf
+SRR10600892	PRJNA560453	PE	normal	Leaf	Female reproductive leaf
+SRR10600893	PRJNA560453	PE	normal	Flower	Female reproductive bud
+SRR10600894	PRJNA560453	PE	normal	Flower	Female reproductive bud
+SRR10600896	PRJNA560453	PE	normal	Flower	Female floral bud
