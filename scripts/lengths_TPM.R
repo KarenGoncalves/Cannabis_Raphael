@@ -1,13 +1,13 @@
 #!/usr/bin/env Rscript
 
-library(GenomicRanges)
-library(rtracklayer)
-library(tidyverse)
+for (i in c("GenomicRanges", "rtracklayer", "tidyverse") ) {
+ suppressMessages(library(i, character.only=T))
+}
 
 # Read command-line arguments
 args <- commandArgs(trailingOnly = TRUE)
-if ( (args[1] == "lengths" && length(args) != 3) ||
-	(toupper(args[1]) == "TPM" && length(args) != 4) ) {
+if ((args[1] == "lengths" & length(args) != 3) ||
+    (toupper(args[1]) == "TPM" & length(args) != 4)) {
   stop("Usage: 
 		Rscript lengths_TPM.R lengths input.gtf output.csv
 	OR
@@ -79,15 +79,15 @@ if ( args[1] == "length" ) {
 	cat("Gene lengths saved to:", output_file, "\n")
 	cat("Wrote lenths of", nrow(gene_lengths_df), "genes\n")
 	# Done with lengths
-} else ( toUpper(args[1]) == "TPM") {
+} else if ( toupper(args[1]) == "TPM") {
 	# Read inputs
 	## Prepare featureLength
-	lengths_table <- args[2] %>% read_delim()
+	lengths_table <- args[2] %>% read.csv(header=T)
 	featureLength <- lengths_table[[2]]
 	names(featureLength) <- lengths_table[[1]]
 	## Prepare counts
-	reads <- args[3] %>% read_delim()
-	counts <- reads %>% dplyr::select(-Gene_id) %>%
+	reads <- args[3] %>% read_delim(delim="\t")
+	counts <- reads %>% dplyr::select(-Gene_ID) %>%
 			as.data.frame
 	rownames(counts) <- reads$Gene_id
 
