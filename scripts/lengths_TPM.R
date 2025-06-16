@@ -59,7 +59,7 @@ Counts_to_tpm <- function(counts, featureLength) {
   # Copy the row and column names from the original matrix.
   colnames(tpm) <- colnames(counts_)
   return(
-    tpm %>% 
+    tpm %>% as.data.frame %>%
       mutate(Gene_id = rownames(counts)
     )
   )
