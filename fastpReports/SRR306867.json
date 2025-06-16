@@ -219,5 +219,5 @@
 		"overrepresented_sequences": {
 		}
 	},
-	"command": "fastp -i /scratch/karencgs/Cannabis_sativa/RAW_DATA/SRR306867.fastq.gz -o /scratch/karencgs/Cannabis_sativa/clean_reads/SRR306867.fastq --qualified_quality_phred 20 --unqualified_percent_limit 30 --cut_front --cut_front_window_size 5 --cut_right --cut_right_window_size 4 --cut_right_mean_quality 15 --length_required 30 --json /scratch/karencgs/Cannabis_sativa/fastpReports/SRR306867.json --thread 4 "
+	"command": "fastp -i /scratch/karencgs/Cannabis_sativa/RAW_DATA/SRR306867.fastq.gz -o /scratch/karencgs/Cannabis_sativa/clean_reads/SRR306867.fastq --qualified_quality_phred 20 --unqualified_percent_limit 30 --cut_front --cut_front_window_size 5 --cut_right --cut_right_window_size 4 --cut_right_mean_quality 15 --length_required 30 --json /scratch/karencgs/Cannabis_sativa/fastpReports/SRR306867.json --thread 8 "
 }
