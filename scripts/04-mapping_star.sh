@@ -1,8 +1,8 @@
 #!/bin/sh
 #SBATCH --cpus-per-task=8
 #SBATCH --account=def-desgagne
-#SBATCH --time=2:00:00
-#SBATCH --mem=15G
+#SBATCH --time=0:40:00
+#SBATCH --mem=10G
 #SBATCH --output=/scratch/karencgs/Cannabis_sativa/slurms/STAR_map-%A-%a.out
 #SBATCH --array=1-130
 
