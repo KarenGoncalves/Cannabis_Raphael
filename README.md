@@ -11,4 +11,6 @@ Reads were aligned to _C. sativa_’s female genome (downloaded from Ensembl Pla
 
 Given the difference in average read lengths between the datasets, the genome indexing step was taking using four different values for the `--sjdbOverhang` parameter: 30, 70, 90 and 144.
 
-The option `--quantMode` was added to STAR to obtain read counts. Subsequently, individual read count files were combined into a count matrix using R 4.3.1 and the tidyverse package.
+The option `--quantMode` was added to STAR to obtain read counts. Strandness was infered using RSeQC "infer_experiment.py" script, alignment BAM files and the genome annotation in BED format.
+
+Subsequently, read counts (for each replicate, according to their strandness) were combined into a count matrix using R 4.4.0 and the tidyverse package.
