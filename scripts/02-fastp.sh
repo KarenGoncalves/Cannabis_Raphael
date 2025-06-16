@@ -4,7 +4,7 @@
 #SBATCH --time=0:20:00
 #SBATCH --cpus-per-task=8
 #SBATCH --output=/scratch/karencgs/Cannabis_sativa/slurms/fastp_%A-%a.out
-#SBATCH --array=66
+#SBATCH --array=1-130
 
 #go to 130
 
