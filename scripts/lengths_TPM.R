@@ -42,7 +42,8 @@ Counts_to_tpm <- function(counts, featureLength) {
   # Raise a warning if some features are missing
   if (length(common_names) < nrow(counts)) {
     warning("Some features in 'counts' do not have matching lengths in 'featureLength'. ",
-            "Only processing matching features.")
+            paste0("Only processing matching features: ", length(common_names), ".")
+	)
   }
 
   # Subset data to only include matching features
@@ -60,7 +61,7 @@ Counts_to_tpm <- function(counts, featureLength) {
   colnames(tpm) <- colnames(counts_)
   return(
     tpm %>% as.data.frame %>%
-      mutate(Gene_id = rownames(counts)
+      mutate(Gene_ID = rownames(counts_), .before = everything()
     )
   )
 }
@@ -89,7 +90,7 @@ if ( args[1] == "length" ) {
 	reads <- args[3] %>% read_delim(delim="\t")
 	counts <- reads %>% dplyr::select(-Gene_ID) %>%
 			as.data.frame
-	rownames(counts) <- reads$Gene_id
+	rownames(counts) <- reads$Gene_ID
 
 	# Run function and output result
 	Counts_to_tpm(counts, featureLength) %>% 
