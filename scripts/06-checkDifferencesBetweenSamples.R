@@ -8,7 +8,7 @@ suppressMessages(library(scriptName))
 args <- commandArgs(trailingOnly=T)
 if (length(args) != 2) {
 	stop("Usage:
-	Rscript", current_filename(), "TPM_matrix metadata_pca"
+	Rscript ", current_filename(), " TPM_matrix metadata_pca"
 	)
 }
 
@@ -62,7 +62,7 @@ PCA_coord <- my_pca$x[, 1:10] %>%
 )
 dir.create("plots/MainAnalysis", recursive = T)
 ggsave("plots/MainAnalysis/PCA_project_tissue_layout.svg", 
-       height = 10, width=8, dpi=1200)
+       height = 10, width=12, dpi=1200)
 
 #### Repeat pca without PRJNA560453 ####
 remove_560453 <- 
@@ -105,4 +105,4 @@ shoot_sample <- PCA_coord %>%
              label = "Shoot")
 )
 ggsave("plots/MainAnalysis/PCA_without560453.svg",
-       height = 10, width=8, dpi=1200)
+       height = 10, width=12, dpi=1200)
