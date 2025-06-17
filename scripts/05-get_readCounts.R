@@ -1,6 +1,13 @@
-suppressMessages(library(tidyverse))
+#!/usr/bin/env Rscript
 
-args <- commandArgs(trailing.only = T)
+suppressMessages(library(tidyverse))
+suppressMessages(library(scriptName))
+
+args <- commandArgs(trailingOnly = T)
+if (length(args) != 2) {
+	stop("Usage: Rscript", current_filename(), "inputFolder outputFile")
+}
+
 inputFolder = args[1]
 folderfiles <- list.files(inputFolder, pattern="*ReadsPerGene.out.tab", full.names=T)
 

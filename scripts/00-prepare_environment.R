@@ -1,8 +1,10 @@
+#!/usr/bin/env Rscript
+
 # Prepare environment by creating right folders
 options(repos=c("https://packagemanager.rstudio.com/all/__linux__/focal/latest",
                 "https://cloud.r-project.org/"))
 
-folders = c("plots", "results", "rdata")
+folders = c("plots", "counts", "results", "rdata")
 
 for (folder in folders) dir.create(folder)
 
@@ -10,7 +12,7 @@ for (folder in folders) dir.create(folder)
 
 pkgs=c("devtools", "tidyverse", "igraph", "ggraph",
        "readxl", "patchwork", "RColorBrewer",
-       "viridis", "parallel", "doParallel",
+       "viridis", "parallel", "doParallel", "scriptName",
        "furrr", "future", "svglite", "BiocManager"
 )
 

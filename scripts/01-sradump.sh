@@ -1,4 +1,3 @@
-
 #!/bin/sh
 
 module load StdEnv/2020  gcc/9.3.0 sra-toolkit/3.0.0
