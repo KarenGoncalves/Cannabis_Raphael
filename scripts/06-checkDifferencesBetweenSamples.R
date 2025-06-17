@@ -2,12 +2,19 @@
 
 suppressMessages(library(tidyverse))
 suppressMessages(library(RColorBrewer))
-
+suppressMessages(library(scriptName))
 
 # Load inputs
-tpm_matrix = read_delim("counts/TPM.csv")
+args <- commandArgs(trailingOnly=T)
+if (length(args) != 2) {
+	stop("Usage:
+	Rscript", current_filename(), "TPM_matrix metadata_pca"
+	)
+}
 
-metadata = read_delim("metadata/metadata_pca.txt")
+tpm_matrix = read_delim(args[1])
+
+metadata = read_delim(args[2])
 
 # Transform tpm to log10(tpm+1)
 Exp_table_long <- tpm_matrix %>% 
@@ -38,15 +45,16 @@ PCA_coord <- my_pca$x[, 1:10] %>%
 (PCA_by_Tissue <- PCA_coord %>%
   ggplot(aes(x = PC1, y = PC2)) +
   geom_point(aes(fill = Tissue_group, color = Tissue_group,
-                 shape = paste(Project, "-", Layout)),  
-             size = 3) +
+                 shape = Layout),  
+               size = 3) +
   scale_color_manual(values = brewer.pal(length(PCA_coord$Tissue_group %>% unique), "Set1"),) +
-  labs(x = paste("PC1 (", pc_importance[1, 2] %>% signif(3)*100, "% of Variance)", sep = ""),
-       y = paste("PC2 (", pc_importance[2, 2] %>% signif(3)*100, "% of Variance)", "  ", sep = ""),
-       fill = NULL, color = NULL, shape = NULL) +
+    labs(x = paste("PC1 (", pc_importance[1, 2] %>% signif(3)*100, "% of Variance)", sep = ""),
+         y = paste("PC2 (", pc_importance[2, 2] %>% signif(3)*100, "% of Variance)", "  ", sep = ""),
+         fill = NULL, color = NULL, shape = NULL) +
+  facet_wrap(~Project) +
   theme_grey() +
   theme(
-    aspect.ratio = .4,
+#    aspect.ratio = .7,
     text = element_text(size= 14),
     axis.text = element_text(color = "black"),
     # legend.position = "bottom"
@@ -54,7 +62,7 @@ PCA_coord <- my_pca$x[, 1:10] %>%
 )
 dir.create("plots/MainAnalysis", recursive = T)
 ggsave("plots/MainAnalysis/PCA_project_tissue_layout.svg", 
-       height = 5, width=8, dpi=1200)
+       height = 10, width=8, dpi=1200)
 
 #### Repeat pca without PRJNA560453 ####
 remove_560453 <- 
@@ -77,15 +85,16 @@ shoot_sample <- PCA_coord %>%
 (PCA_by_Tissue <- PCA_coord %>%
     ggplot(aes(x = PC1, y = PC2)) +
   geom_point(aes(fill = Tissue_group, color = Tissue_group,
-                 shape = paste(Project, "-", Layout)),  
+                 shape = Layout),  
                size = 3) +
   scale_color_manual(values = brewer.pal(length(PCA_coord$Tissue_group %>% unique), "Set1"),) +
     labs(x = paste("PC1 (", pc_importance[1, 2] %>% signif(3)*100, "% of Variance)", sep = ""),
          y = paste("PC2 (", pc_importance[2, 2] %>% signif(3)*100, "% of Variance)", "  ", sep = ""),
          fill = NULL, color = NULL, shape = NULL) +
+  facet_wrap(~Project) +
     theme_grey() +
     theme(
-      aspect.ratio = .7,
+#      aspect.ratio = .7,
       text = element_text(size= 14),
       axis.text = element_text(color = "black"),
       # legend.position = "bottom"
@@ -96,4 +105,4 @@ shoot_sample <- PCA_coord %>%
              label = "Shoot")
 )
 ggsave("plots/MainAnalysis/PCA_without560453.svg",
-       height = 5, width=8, dpi=1200)
+       height = 10, width=8, dpi=1200)
