@@ -1,0 +1,36 @@
+gene_ID	Entrez	Description
+evm.TU.08.955	115694736	fatty acid desaturase 4, chloroplastic-like
+evm.TU.09.102	115697755	stearoyl-[acyl-carrier-protein] 9-desaturase, chloroplastic
+novel_gene_4016_5bd9a17a	115698723	stearoyl-[acyl-carrier-protein] 9-desaturase, chloroplastic
+evm.TU.10.481	115701196	delta(12)-fatty-acid desaturase FAD2
+evm.TU.ctgX21.2	115702099	delta(8)-fatty-acid desaturase 1
+evm.TU.01.1198	115707010	acyl-lipid (9-3)-desaturase
+evm.TU.06.2116	115718446	delta(12)-oleate desaturase-like
+evm.TU.06.2117	115719000	delta(12)-fatty-acid desaturase FAD2
+evm.TU.06.1677	115720710	acyl-lipid omega-3 desaturase (cytochrome b5), endoplasmic reticulum
+evm.TU.01.590		long_chain_acyl-CoA_synthetase_1-like
+evm.TU.01.2186		ornithine_decarboxylase
+evm.TU.02.783		phenylalanine_ammonia-lyase_1
+evm.TU.02.1106		glycylpeptide_N-tetradecanoyltransferase_1
+evm.TU.03.643		agmatine_deiminase
+evm.TU.03.658		Phenylalanine_ammonia_lyase_3
+evm.TU.03.789		Phenylalanine-amonialyase_5
+evm.TU.03.790		Phenylalanine_ammonia_lyase_4
+evm.TU.04.182		spermidine_synthase_1
+evm.TU.04.812		spermidine_hydroxycinnamoyl_transferase-like_3
+evm.TU.05.91		spermidine_hydroxycinnamoyl_transferase-like_2
+evm.TU.05.98		spermidine_hydroxycinnamoyl_transferase_1
+evm.TU.05.101		spermidine_hydroxycinnamoyl_transferase-like_1
+evm.TU.05.144		4-coumarate--CoA_ligase_2
+evm.TU.05.2034		long_chain_acyl-CoA_synthetase_4
+evm.TU.06.1713		trans-cinnamate_4-monooxygenase
+evm.TU.07.1592		tyrosine_decarboxylase_3
+evm.TU.07.1594		tyrosine_decarboxylase_1
+evm.TU.08.1195		spermidine_hydroxycinnamoyl_transferase_3
+evm.TU.08.1733		arginine_decarboxylase
+evm.TU.09.1425		tyrosine_decarboxylase_2
+evm.TU.09.1695		spermidine_hydroxycinnamoyl_transferase_2
+evm.TU.10.36		4-coumarate--CoA_ligase_1
+evm.TU.10.1035		long_chain_acyl-CoA_synthetase_8
+novel_gene_1348_5bd9a17a		Phenylalanine_ammonia_lyase_2
+novel_gene_2229_5bd9a17a		spermine_synthase

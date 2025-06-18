@@ -19,7 +19,7 @@ for (curPkg in pkgs) suppressMessages(library(curPkg, character.only = T) )
 DAFS_ran = T
 #### CustomSelection ####
 metadata <- read_delim("metadata/metadata_pca.txt", 
-		       col_names = c("replicateName", "BioProject", "Layout", "Length_type", "tissue", "part"),
+		       col_names = c("replicateName", "BioProject", "Layout", "Length_type", "tissue", "Part"),
 			skip = 1) %>%
 	dplyr::select(tissue, replicateName)
 

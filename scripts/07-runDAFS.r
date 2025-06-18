@@ -5,7 +5,7 @@
 pkgs = c("tidyverse", "DESeq2", "devtools", 
          "GenomicFeatures", "ggpubr", "CustomSelection")
 
-for (curPkg in pkgs) library(curPkg, character.only = T) 
+for (curPkg in pkgs) suppressMessages(library(curPkg, character.only = T))
 
 
 #### CustomSelection ####
@@ -16,9 +16,9 @@ Exp_table <- tpm_matrix %>%
 rownames(Exp_table) = Exp_table$Gene_ID
 Exp_table = Exp_table %>% dplyr::select(!Gene_ID)
 
-metadata <- read_delim("metadata/metadata_PCA", 
+metadata <- read_delim("metadata/metadata_pca.txt", 
                        col_names = T) |>
-  dplyr::select(TissueGroup, Run)
+  dplyr::select(Tissue_group, Run)
 
 cutv = DAFS(tpm = Exp_table)
 data.frame(Run = names(cutv),
