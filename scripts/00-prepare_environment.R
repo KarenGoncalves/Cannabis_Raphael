@@ -4,7 +4,7 @@
 options(repos=c("https://packagemanager.rstudio.com/all/__linux__/focal/latest",
                 "https://cloud.r-project.org/"))
 
-folders = c("plots", "counts", "results", "rdata")
+folders = c("plots", "counts", "results", "RDATA")
 
 for (folder in folders) dir.create(folder)
 

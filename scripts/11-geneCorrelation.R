@@ -1,11 +1,14 @@
 source("scripts/FUNCTIONS.R") # loads packages too
-Baits = read_delim("metadata/Baits_ensembl_ids.txt",
-                   col_names = c("Description", "gene_ID"))
-load("rdata/GeneSelection_objects.RData")
+Baits = read_delim("metadata/Baits_ensembl_ids.txt")
+load("RDATA/GeneSelection_objects.RData")
+
+args = commandArgs(trailingOnly=T)
+cores = ifelse(length(args) != 1, 1, as.numeric(args[1]))
 
 # Wide z-score table for selected genes
 
 z_score_wide <- Exp_table_long_averaged_z_high_var %>%
+  mutate(tissue = SampleName) %>%
   filter(gene_ID %in% high_var_genes_pct$gene_ID) %>%
   select(gene_ID, tissue, z.score.TPM) %>% 
   pivot_wider(names_from = tissue, values_from = z.score.TPM) %>% 
@@ -24,7 +27,7 @@ cor_matrix_upper_tri[lower.tri(cor_matrix_upper_tri)] <- NA
 #' t-distribution approximation
 #' For each correlation coefficient r, you approximate a t statistics.
 #' The equation is t = r * ( (n-2) / (1 - r^2) )^0.5
-furrr::plan( multisession, workers = detectCores() )
+future::plan( multisession, workers = cores )
 edge_table <- furrr::future_map(1:nrow(cor_matrix_upper_tri), \(i) {
   
     cor_matrix_upper_tri[i,] %>% 
