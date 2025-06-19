@@ -6,9 +6,7 @@ runPCA=T
 ## Input files ##
 Exp_table <- read.csv("results/Filtered_kallisto_TPM.csv",
                       header = T)
-metadata <- read_delim("metadata/metadata_pca.txt",
-                       col_names = c("replicateName", "BioProject", "Layout", "Length_type", "tissue", "Part"),
-                        skip = 1) %>%
+metadata <- read_delim("metadata/metadata_pca.txt") %>%
   filter(replicateName %in% names(Exp_table)) %>%
   mutate(SampleName = tissue)
 
@@ -41,7 +39,7 @@ if (runPCA){
 Exp_table_long_averaged_z <- Exp_table_long %>% 
   full_join(metadata, 
             by = "replicateName") %>% 
-  group_by(gene_ID, SampleName) %>%
+  group_by(gene_ID, SampleName, tissue) %>%
   summarise(mean.logTPM = mean(logTPM),
             mean.TPM = mean(tpm))  %>% 
   group_by(gene_ID) %>% 
@@ -107,7 +105,7 @@ high_var_genes_pct <-
 bait_var <- high_var_genes_pct %>% 
   filter(gene_ID %in% Baits$gene_ID) %>% 
   group_by(gene_ID)
-right_join(all_coefVar_and_ranks, Baits, by="gene_ID") %>% View
+right_join(all_coefVar_and_ranks, Baits, by="gene_ID")
 
 #### Coeficiente of variation distribution ####
 # Check where the bait genes fall along the variance distribution

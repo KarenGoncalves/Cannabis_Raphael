@@ -1,3 +1,5 @@
+#!/usr/bin/env Rscript
+
 #### Calculate minimum expression threshold
 #### Install and load packages ####
 #### All packages should be installed already if "prepare_environment.R" was run
@@ -18,7 +20,7 @@ Exp_table = Exp_table %>% dplyr::select(!Gene_ID)
 
 metadata <- read_delim("metadata/metadata_pca.txt", 
                        col_names = T) |>
-  dplyr::select(Tissue_group, Run)
+  dplyr::select(tissue, Run)
 
 cutv = DAFS(tpm = Exp_table)
 data.frame(Run = names(cutv),

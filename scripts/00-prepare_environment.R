@@ -18,7 +18,7 @@ pkgs=c("devtools", "tidyverse", "igraph", "ggraph",
 
 install.packages(pkgs)
 
-BiocManager::install(c("DESeq2", "GenomicFeatures"))
+BiocManager::install(c("DESeq2", "GenomicFeatures", "biomaRt", "GenomicRanges", "rtracklayer"))
 
 # CustomSelection has to be installed from github, so it cannot be grouped with the others yet
 if (! "CustomSelection" %in% installed.packages() ) {

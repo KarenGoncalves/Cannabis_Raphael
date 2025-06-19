@@ -1,3 +1,5 @@
+#!/usr/bin/env Rscript
+
 pkgs=c("tidyverse", "igraph", "ggraph",
        "readxl", "patchwork", "RColorBrewer",
        "viridis", "parallel", "doParallel",
@@ -5,7 +7,6 @@ pkgs=c("tidyverse", "igraph", "ggraph",
 )
 
 for (pkg in pkgs) suppressMessages(library(pkg, character.only = T))
-rm(list = ls())
 
 ### ggplot theme ###
 theme_optimization = 
@@ -43,7 +44,7 @@ relative.variation <-
 optimize_resolution <- function(network, resolution, minGenes){
   modules = network %>% 
     cluster_leiden(
-      resolution_parameter = resolution,
+      resolution = resolution,
       objective_function = "modularity")
   
   parsed_modules = data.frame(

@@ -8,11 +8,9 @@ args = commandArgs(trailingOnly=T)
 cores = ifelse(length(args) != 1, 1, as.numeric(args[1]))
 
 
-load("RDATA/GeneSelection_objects.RDATA")
+load("RDATA/GeneSelection_objects.RData")
 Baits = read_delim("metadata/Baits_ensembl_ids.txt")
-metadata <- read_delim("metadata/metadata_pca.txt",
-                       col_names = c("replicateName", "BioProject", "Layout", "Length_type", "tissue", "Part"),
-                        skip = 1) %>%
+metadata <- read_delim("metadata/metadata_pca.txt") %>%
   mutate(SampleName = tissue)
 
 ## Minimum number of genes to form a module ##
@@ -117,6 +115,12 @@ r_cutoff = edgeTableFiles[1] %>%
   gsub(pattern = ".+r(0.\\d+)_.+$", 
        replacement = "\\1")
 
+if (!"tissue" %in% names(Exp_table_long_averaged_z_high_var)) {
+	Exp_table_long_averaged_z_high_var <- 
+		Exp_table_long_averaged_z_high_var %>%
+		mutate(tissue=SampleName)
+}
+
 for (curResolution in resolutions) {
   modules_ <- cluster_leiden(
     my_network, 
@@ -162,6 +166,6 @@ for (curResolution in resolutions) {
        module_peak_exp, modules_mean_z, my_network_modules,
        file = paste0(
          "RDATA/MainAnalysis_Cor", r_cutoff, "/ModuleData_forPlot_res",
-         curResolution, ".RDATA")
+         curResolution, ".RData")
   )
 }

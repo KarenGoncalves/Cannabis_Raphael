@@ -1,4 +1,4 @@
-Run	Project	Layout	Length_type	Tissue_group	Tissue
+replicateName	BioProject	Layout	Length_type	tissue	Part
 SRR28955710	PRJNA1108719	PE	normal	Leaf	Leaf
 SRR28955709	PRJNA1108719	PE	normal	Leaf	Leaf
 SRR28955708	PRJNA1108719	PE	normal	Leaf	Leaf

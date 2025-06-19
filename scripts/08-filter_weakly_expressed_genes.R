@@ -1,17 +1,7 @@
+#!/usr/bin/env Rscript
+
 #### Install and load packages ####
-pkgs_bioconductor = c("DESeq2", "GenomicFeatures")
-pkgs.To.Install_bioconductor = 
-	pkgs_bioconductor[! pkgs_bioconductor %in% installed.packages()]
-pkgs = c("tidyverse", "devtools", "ggpubr")
-pkgs.To.Install = pkgs[! pkgs %in% installed.packages()]
-
-if (length(pkgs.To.Install) > 0) install.packages(pkgs.To.Install)
-if (length(pkgs.To.Install_bioconductor) > 0) {
-	BiocManager::install(pkgs.To.Install_bioconductor)
-}
-
-# CustomSelection has to be installed from github, so it cannot be grouped with the others yet
-pkgs = c(pkgs, pkgs_bioconductor)
+pkgs = c("tidyverse", "ggpubr", "DESeq2", "GenomicFeatures")
 
 for (curPkg in pkgs) suppressMessages(library(curPkg, character.only = T) )
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env Rscript
 ## run pca within script 10-geneSelection.R
 
 

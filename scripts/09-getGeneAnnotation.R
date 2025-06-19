@@ -2,9 +2,6 @@
 
 # Get annotation for expressed genes
 suppressMessages(library(tidyverse))
-if (!"biomaRt" %in% rownames(installed.packages()) ) {
-	BiocManager::install("biomaRt")
-}
 suppressMessages(library(biomaRt))
 
 ## Expressed genes
