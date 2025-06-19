@@ -1,5 +1,5 @@
 cut -f 1,2,3,5,10 metadata/metadata.txt |
- awk -F "\t" 'BEGIN {OFS="\t"; print "Run", "Project", "Layout", "Length_type", "Tissue_group", "Tissue"}
+ awk -F "\t" 'BEGIN {OFS="\t"; print "replicateName", "BioProject", "Layout", "Length_type", "tissue", "Part"}
 {
   if (tolower($5) ~ /flo/ || tolower($5) ~ /bud/) {tissue="Flower"}
   else if (tolower($5) ~ /meristem/) {tissue="Meristem"}
