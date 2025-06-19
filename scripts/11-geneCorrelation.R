@@ -1,3 +1,5 @@
+#!/usr/bin/env Rscript
+
 source("scripts/FUNCTIONS.R") # loads packages too
 Baits = read_delim("metadata/Baits_ensembl_ids.txt")
 load("RDATA/GeneSelection_objects.RData")
@@ -27,11 +29,13 @@ cor_matrix_upper_tri[lower.tri(cor_matrix_upper_tri)] <- NA
 #' t-distribution approximation
 #' For each correlation coefficient r, you approximate a t statistics.
 #' The equation is t = r * ( (n-2) / (1 - r^2) )^0.5
-future::plan( multisession, workers = cores )
-edge_table <- furrr::future_map(1:nrow(cor_matrix_upper_tri), \(i) {
+plan( multisession, workers = cores )
+print("")
+print("Calculate edge table")
+edge_table <- future_map(.progress = T, 1:nrow(cor_matrix_upper_tri), \(i) {
   
     cor_matrix_upper_tri[i,] %>% 
-    as.data.frame() %>% 
+    as.data.frame(colnames = colnames(cor_matrix_upper_tri)[i]) %>% 
     mutate(from = 
              row.names(cor_matrix)[i]) %>% 
     pivot_longer(cols = !from, 
@@ -66,14 +70,33 @@ edge_table <- furrr::future_map(1:nrow(cor_matrix_upper_tri), \(i) {
 
 # Plot the distribution of r values
 
+
 #### DECIDE r_cutoff ####
-# r_cutoff = min((edge_table %>%
-#                   mutate(r_bins = round(r, digits = 5)) %>%
-#                   group_by(r_bins) %>%
-#                   summarize(allSig = all(significant)) %>%
-#                   filter(allSig == T,
-#                          r_bins > 0))$r_bins)
-r_cutoff=.99
+r_bins = 
+    edge_table %>%
+    mutate(r_bins = round(r, digits = 5)) %>%
+	filter(r_bins > 0) %>%
+    select(r_bins, significant) %>%
+    group_by(r_bins, significant) %>%
+	count
+
+print("")
+print("Finding lowest possible r cutoff")
+plan( multisession, workers = cores )
+bins_cumul = 
+    future_map(.progress=T, 1:nrow(r_bins), \(curRow) {
+	r_value = r_bins$r_bins[curRow]
+	data.frame(r_value = r_value,
+               n_edges = (r_bins %>% filter(r_bins >= r_value))$n %>% sum,
+               significant_edges = (r_bins %>% filter(r_bins >= r_value, significant))$n %>% sum
+	) %>%
+	mutate(Prop_significant = significant_edges / n_edges)
+}) %>% list_rbind 
+
+r_cutoff = min((bins_cumul %>% filter(Prop_significant > .9))$r_value)
+
+print(paste0("Best r threshold = ", r_cutoff))
+
 edge_table %>% 
   ggplot() +
   geom_histogram(aes(x = r,
