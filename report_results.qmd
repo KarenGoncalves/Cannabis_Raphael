@@ -1,0 +1,127 @@
+---
+title: "Cannabis sativa SimpleTidy_GeneCoEx"
+author: "Karen Cristine Goncalves"
+date: "`r format(Sys.time(), '%A %d %B %Y')`"
+format: 
+  html:
+    toc: true
+    embed-resources: true
+    default-image-extension: svg
+    df-print: kable
+editor: source
+---
+
+## Initial data overview
+
+```{r, include=F, echo=F, warning=F, eval=T}
+suppressMessages(library(tidyverse))
+```
+
+
+```{r, include=F, eval=T, echo=F, results='asis'}
+metadata <- read_delim("metadata/metadata_pca.txt", 
+                       col_names = T, delim = "\t",
+                       show_col_types = F) 
+```
+
+```{r, include=T, eval=T, echo=F, results='asis'}
+nDataSets = nrow(metadata)
+bioprojects = unique(metadata$BioProject) %>% length
+tissues = unique(metadata$tissue) %>% length
+
+cat("
+We found a total of", nDataSets, "RNAseq datasets for _Cannabis sativa_ available in NCBI, belonging to", bioprojects, "different projects,", tissues, "different tissues/organs, and sequenced from both single- and paired-end libraries (with variable read sizes, from 35 to 150).\n
+    ")
+```
+::: {layout-ncol="3"}
+```{r, include=T, eval=T, echo=F, results='asis'}
+#| label: tbl-projects
+# samples_per_project <- 
+table(metadata$BioProject) %>%
+  as.data.frame() %>%
+  rename(BioProject = Var1,
+         `Number of Samples` = Freq) 
+```
+
+```{r, include=T, eval=T, echo=F, results='asis'}
+#| label: tbl-tissues
+# samples_per_tissue <- 
+table(metadata$tissue) %>%
+  as.data.frame() %>%
+  rename(Tissue = Var1,
+         `Number of Samples` = Freq) 
+```
+
+```{r, include=T, eval=T, echo=F, results='asis'}
+#| label: tbl-layouts
+
+# samples_per_layout <- 
+  table(metadata$Layout) %>%
+  as.data.frame() %>%
+  rename(`Sequencing layout` = Var1,
+         `Number of Samples` = Freq) 
+```
+:::
+
+
+Read trimming and filtering (fastp) was repeated to include the shorter-read samples:
+
+-   for samples with original average read length \< 40 bases, the minimum size allowed after trimming was 30 bases
+-   for samples with original average read length \> 40 bases, the minimum size allowed after trimming was 50 bases.
+
+## Read mapping, counting and TPM computation
+
+Reads were aligned to _C. sativa_’s female genome (downloaded from Ensembl Plants release 61: [genome](https://ftp.ensemblgenomes.ebi.ac.uk/pub/plants/release-59/fasta/cannabis_sativa_female/dna/Cannabis_sativa_female.cs10.dna.toplevel.fa.gz) and [GTF annotation](https://ftp.ensemblgenomes.ebi.ac.uk/pub/plants/release-61/gtf/cannabis_sativa_female/Cannabis_sativa_female.cs10.61.gtf.gz)) using STAR.
+
+Given the difference in average read lengths between the datasets, the genome indexing step was taking using four different values for the `--sjdbOverhang` parameter: 30, 70, 90 and 144.
+
+The option `--quantMode` was added to STAR to obtain read counts. Strandness was infered using RSeQC `infer_experiment.py` script, alignment BAM files and the genome annotation in BED format.
+
+Subsequently, read counts (for each replicate, according to their strandness) were combined into a count matrix using R 4.4.0 and the tidyverse package.
+
+For TPM computation, the GTF file was used to compute gene lengths (through exon overlap) (using R packages rtracklayer and GenomicRanges).
+
+## PCA and gene filtering
+
+
+### PCA
+
+Principal component analysis of all available RNAseq datasets in NCBI, based on gene expression levels (log~10~(TPM+1)), after removal of non-expressed genes (no reads detected in any sample of the dataset). Since no clear issues were visible, the analysis proceeded with all datasets.
+
+
+:::{layout-ncol="2"}
+::: {#fig-wholeData_tissue }
+![](plots/PCA06_tissue.svg){.lightbox width="100%"}
+:::
+
+:::{#fig-wholeData_project}
+
+![](plots/PCA06_BioProject.svg){.lightbox width="100%"}
+
+:::
+
+:::
+
+### Filtering
+
+```{r, include=T, eval=T, echo=F, results='asis'}
+ngenes = read_delim("counts/TPM.tsv", progress = F, show_col_types = F) %>% nrow()
+ngenes_kept = read_csv("results/Filtered_TPM.csv", progress = F, show_col_types = F) %>% nrow()
+filtered = ngenes - ngenes_kept
+proportion = (ngenes_kept*100)/ngenes 
+tmp = paste0("were kept (", signif(proportion, digits = 4), "% of all genes).")
+
+cat("After filtering weakly expressed genes,", filtered, 
+    "were removed from the dataset and", ngenes_kept, 
+    tmp, "
+    ")
+```
+
+### PCA post gene filtering
+
+No obvious difference was observed in the PCA before and after gene filtering, indicating that most of the genes removed from the dataset had TPM = 0 in all samples (as those genes were removed prior to the initial PCA).
+
+:::{#fig-filteredData}
+![](plots/PCA_filtered_data.svg){.lightbox width="75%"}
+:::
+
