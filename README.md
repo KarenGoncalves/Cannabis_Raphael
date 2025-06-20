@@ -1,10 +1,9 @@
 This readme file was generated on June 19th 2025 by Karen Cristine Goncalves dos Santos
 
-GENERAL INFORMATION
+## GENERAL INFORMATION
 
 Title of Dataset: Cannabis sativa tissue-wise gene co-expression
 
-<provide at least two contacts>
 Principal Investigator Information
 Name: Isabel Desgagne-Penix
 ORCID:
@@ -23,7 +22,6 @@ ORCID:
 Institution: Université du Québec à Trois-Rivieres
 Email: raphael.boucher@uqtr.ca
 
-
 Co-author (Data analysis) Contact Information
 Name: Karen Cristine Goncalves dos Santos
 ORCID:
@@ -32,22 +30,23 @@ Email: karen.cristine.goncalves.dos.santos@uqtr.ca
 
 Date of data download: June 2025
 
-
-SHARING/ACCESS INFORMATION
+## SHARING/ACCESS INFORMATION
 
 Licenses/restrictions placed on the data: 
 
-Links to other publicly accessible locations of the data: 
 Data downloaded online from NCBI SRA (list of SRA IDs provided in [metadata/SRA_info.csv](./metadata/SRA_info.csv)). The file also contains, when available, the DOI of the publication associated with it.
 
+## METHODOLOGICAL INFORMATION
 
-METHODOLOGICAL INFORMATION
+### Dependencies
 
 Softwares used and versions: sra-toolkit/3.0.0 fastp/0.23.4 star/2.7.11b r/4.4.0
 
 R packages used are listed in [metadata/Rsession.info](./metadata/Rsession.info).
 
 Python modules are listed in [metadata/requirements.txt](./metadata/requirements.txt).
+
+### Methodology
 
 Data was downloaded from SRA using sra-toolkit fasterq-dump and filtered and trimmed for quality control using fastp.
 
@@ -67,7 +66,9 @@ Filtering of weakly expressed genes was done using the DAFS method for computati
 
 Subsequently, gene co-expression was computed with the TidyGeneCoEx method, using TPM relative variance as proxy for variability and keeping the top 20% expressed genes most variable for network construction. 
 
-DATA-SPECIFIC INFORMATION FOR: [FILENAME]
+## DATA-SPECIFIC INFORMATION 
+
+### [FILENAME]
 <repeat this section for each dataset, folder or file, as appropriate>
 
 Number of variables: 
