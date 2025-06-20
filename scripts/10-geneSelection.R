@@ -4,8 +4,7 @@ source("scripts/FUNCTIONS.R") # loads packages too
 runPCA=T
 
 ## Input files ##
-Exp_table <- read.csv("results/Filtered_kallisto_TPM.csv",
-                      header = T)
+Exp_table <- read_delim("counts/TPM.tsv")
 metadata <- read_delim("metadata/metadata_pca.txt") %>%
   filter(replicateName %in% names(Exp_table)) %>%
   mutate(SampleName = tissue)
