@@ -17,7 +17,6 @@ replicatesPerTissue <- table(metadata$tissue)
 
 Exp_table <- 
   read_delim("counts/TPM.tsv", col_names = T, delim = " ") %>%
-  rename(Gene_ID = "gene_ID") %>%
   dplyr::select(all_of(metadata$replicateName), gene_ID) |>
   data.frame()
 
@@ -67,7 +66,7 @@ Exp_filtered = new_Exp_table[rowSums(new_Exp_table) != 0,]
 
 Exp_filtered %>% 
 	mutate(gene_ID = rownames(Exp_filtered)) %>%
-	write_csv("results/Filtered_kallisto_TPM.csv",
+	write_csv("results/Filtered_TPM.csv",
 		  quote = "none", append = F,
 		  col_names = T)
 	
