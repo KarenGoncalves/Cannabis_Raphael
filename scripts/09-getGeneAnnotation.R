@@ -5,7 +5,7 @@ suppressMessages(library(tidyverse))
 suppressMessages(library(biomaRt))
 
 ## Expressed genes
-genes_expressed <- read_delim("results/Filtered_kallisto_TPM.csv")[["gene_ID"]]
+genes_expressed <- read_delim("results/Filtered_TPM.csv")[["gene_ID"]]
 
 mart <- useMart(host="https://plants.ensembl.org", 
                 biomart="plants_mart",
