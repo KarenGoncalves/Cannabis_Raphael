@@ -88,7 +88,7 @@ all_coefVar_and_ranks <- Exp_table_long_averaged_z %>%
     rank.CVTPM = rank(coefVar.TPM, ties.method = "average"),
     rank.varTPM = rank(relVar.TPM, ties.method = "average"),
     rank.varlogTPM = rank(relVar.logTPM, ties.method = "average")
-    )
+  )
 
 write_delim(all_coefVar_and_ranks,
             "results//all_coefVar_and_ranks.tsv",
@@ -109,33 +109,33 @@ right_join(all_coefVar_and_ranks, Baits, by="gene_ID")
 #### Coeficiente of variation distribution ####
 # Check where the bait genes fall along the variance distribution
 (var_plot = all_coefVar_and_ranks %>% 
-  ggplot(aes(x = relVar.TPM, y = rank.varTPM))  +
+   ggplot(aes(x = relVar.TPM, y = rank.varTPM))  +
    geom_hline(yintercept = 
                 nrow(all_coefVar_and_ranks) - nrow(high_var_genes_pct)
-              ) +
-  geom_line(linewidth = 0.8) +
-  geom_vline(
-    data = bait_var, aes(xintercept = relVar.TPM), 
-    color = "tomato1", linewidth = 0.2, alpha = 1
-  ) + 
-  geom_rect( 
-    xmax = max(high_var_genes_pct$relVar.TPM), 
-    xmin = min(high_var_genes_pct$relVar.TPM),
-    ymax = nrow(all_coefVar_and_ranks),
-    ymin = nrow(all_coefVar_and_ranks) - nrow(high_var_genes_pct),
-    fill = "dodgerblue2", alpha = .01
-  )  +
-  labs(y = "Gene rank",
-       x = "TPM relative variance",
-       # caption = 
-       #   paste0("Blue box = top ", pct_genes, "% high var genes.\nRed lines = bait genes.")
-  ) +
-  theme_classic() +
-  theme(
-    text = element_text(size = 12),
-    axis.text = element_text(color = "black"),
-    plot.caption = element_text(hjust = 0)
-  ) 
+   ) +
+   geom_rect( 
+     xmax = max(high_var_genes_pct$relVar.TPM), 
+     xmin = min(high_var_genes_pct$relVar.TPM),
+     ymax = nrow(all_coefVar_and_ranks),
+     ymin = nrow(all_coefVar_and_ranks) - nrow(high_var_genes_pct),
+     fill = "dodgerblue2", alpha = .01
+   )  +
+   geom_line(linewidth = 0.8) + 
+   geom_vline(
+     data = bait_var, aes(xintercept = relVar.TPM), 
+     color = "tomato1", linewidth = 0.2, alpha = 1
+   ) +
+   labs(y = "Gene rank",
+        x = "TPM relative variance",
+        # caption = 
+        #   paste0("Blue box = top ", pct_genes, "% high var genes.\nRed lines = bait genes.")
+   ) +
+   theme_classic() +
+   theme(
+     text = element_text(size = 12),
+     axis.text = element_text(color = "black"),
+     plot.caption = element_text(hjust = 0)
+   ) 
 )
 
 # ggsave(plot = var_plot,
@@ -153,8 +153,6 @@ write_delim(high_var_genes_pct,
                           pct_genes, "pct.tsv"),
             col_names = T, delim = "\t", quote = "none"
 )
-
-
 
 Exp_table_long_averaged_z_high_var <- 
   Exp_table_long_averaged_z %>% 
