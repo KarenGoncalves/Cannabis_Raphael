@@ -151,7 +151,8 @@ if (dir.exists("results/Main_analysis_edge_table")) {
 
 filtered_edge_table <- 
   edge_table %>% 
-  filter(r > r_cutoff)
+  filter(r > r_cutoff) %>%
+  relocate(from, to)
 
 if (nrow(filtered_edge_table) < split_at) {
   fileName = paste0("results/Main_analysis_edge_table/edge_table_r",
