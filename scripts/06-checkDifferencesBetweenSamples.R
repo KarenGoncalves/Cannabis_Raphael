@@ -24,15 +24,15 @@ if (!all(colDistinct %in% names(metadata))) {
 
 # Transform tpm to log10(tpm+1)
 Exp_table_long <- tpm_matrix %>% 
-  pivot_longer(cols = !Gene_ID, names_to = "replicateName", values_to = "tpm") %>% 
+  pivot_longer(cols = !gene_ID, names_to = "replicateName", values_to = "tpm") %>% 
   mutate(logTPM = log10(tpm + 1)) 
 
 
 Exp_table_log_wide <- Exp_table_long %>% 
-  dplyr::select(Gene_ID, replicateName, logTPM) %>% 
+  dplyr::select(gene_ID, replicateName, logTPM) %>% 
   pivot_wider(names_from = replicateName, 
               values_from = logTPM, 
-              id_cols = Gene_ID)
+              id_cols = gene_ID)
 
 # Compute PCA
 # remove all-zero rows
@@ -74,9 +74,9 @@ plot_pca <- function(dataPCA, metadata, color_cols) {
 		#    aspect.ratio = .7,
 		    text = element_text(size= 14),
 		    axis.text = element_text(color = "black"),
-		    # legend.position = "bottom"
+		    legend.position = "bottom"
 		  )
-		ggsave(paste0("plots/MainAnalysis/PCA06_", col, ".svg"),
+		ggsave(paste0("plots/PCA06_", col, ".svg"),
 			height=6, width=6, dpi=1200)
 	}
 }
