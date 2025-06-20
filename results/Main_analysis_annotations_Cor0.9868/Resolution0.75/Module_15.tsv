@@ -1,0 +1,2221 @@
+gene_ID	SampleName	mean.TPM	z.score.logTPM	Part	module	description
+evm.TU.01.1449	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.01.1449	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.01.1449	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.01.1449	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.01.1449	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.01.1449	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.01.1449	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.01.1449	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.01.1449	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.01.1449	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.01.1449	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.01.1449	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.01.1449	Root	0	-0.408248290463863	Roots	15	
+evm.TU.01.1449	Root	0	-0.408248290463863	Root	15	
+evm.TU.01.1449	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.01.1449	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.01.1449	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.01.1449	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.01.1449	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.01.1449	Trichome	27.94711101755352	2.041241452319315	Trichomes	15	
+evm.TU.01.1534	Flower	0	-0.40824829046386296	Female flower	15	
+evm.TU.01.1534	Flower	0	-0.40824829046386296	Flower	15	
+evm.TU.01.1534	Flower	0	-0.40824829046386296	Male flower	15	
+evm.TU.01.1534	Flower	0	-0.40824829046386296	Female reproductive bud	15	
+evm.TU.01.1534	Flower	0	-0.40824829046386296	Female floral bud	15	
+evm.TU.01.1534	Leaf	0	-0.40824829046386296	Leaf	15	
+evm.TU.01.1534	Leaf	0	-0.40824829046386296	Leaf 	15	
+evm.TU.01.1534	Leaf	0	-0.40824829046386296	Petiole	15	
+evm.TU.01.1534	Leaf	0	-0.40824829046386296	Vegetative leaf - fresh cutting	15	
+evm.TU.01.1534	Leaf	0	-0.40824829046386296	Female reproductive leaf	15	
+evm.TU.01.1534	Meristem	0	-0.40824829046386296	Female apical meristem	15	
+evm.TU.01.1534	Meristem	0	-0.40824829046386296	Male apical meristem	15	
+evm.TU.01.1534	Root	0	-0.40824829046386296	Roots	15	
+evm.TU.01.1534	Root	0	-0.40824829046386296	Root	15	
+evm.TU.01.1534	Root	0	-0.40824829046386296	Female root-mid	15	
+evm.TU.01.1534	Root	0	-0.40824829046386296	Female root-tip	15	
+evm.TU.01.1534	Stem	0	-0.40824829046386296	Stem	15	
+evm.TU.01.1534	Stem	0	-0.40824829046386296	Primary stem	15	
+evm.TU.01.1534	Stem	0	-0.40824829046386296	Shoot	15	
+evm.TU.01.1534	Trichome	29.991438567150283	2.0412414523193148	Trichomes	15	
+evm.TU.01.2756	Flower	0	-0.6294651391722785	Female flower	15	
+evm.TU.01.2756	Flower	0	-0.6294651391722785	Flower	15	
+evm.TU.01.2756	Flower	0	-0.6294651391722785	Male flower	15	
+evm.TU.01.2756	Flower	0	-0.6294651391722785	Female reproductive bud	15	
+evm.TU.01.2756	Flower	0	-0.6294651391722785	Female floral bud	15	
+evm.TU.01.2756	Leaf	0	-0.6294651391722785	Leaf	15	
+evm.TU.01.2756	Leaf	0	-0.6294651391722785	Leaf 	15	
+evm.TU.01.2756	Leaf	0	-0.6294651391722785	Petiole	15	
+evm.TU.01.2756	Leaf	0	-0.6294651391722785	Vegetative leaf - fresh cutting	15	
+evm.TU.01.2756	Leaf	0	-0.6294651391722785	Female reproductive leaf	15	
+evm.TU.01.2756	Meristem	0	-0.6294651391722785	Female apical meristem	15	
+evm.TU.01.2756	Meristem	0	-0.6294651391722785	Male apical meristem	15	
+evm.TU.01.2756	Root	12.550409131670067	0.2236113433600371	Roots	15	
+evm.TU.01.2756	Root	12.550409131670067	0.2236113433600371	Root	15	
+evm.TU.01.2756	Root	12.550409131670067	0.2236113433600371	Female root-mid	15	
+evm.TU.01.2756	Root	12.550409131670067	0.2236113433600371	Female root-tip	15	
+evm.TU.01.2756	Stem	1.5047089654765888	-0.25746251194136277	Stem	15	
+evm.TU.01.2756	Stem	1.5047089654765888	-0.25746251194136277	Primary stem	15	
+evm.TU.01.2756	Stem	1.5047089654765888	-0.25746251194136277	Shoot	15	
+evm.TU.01.2756	Trichome	123.27251691251936	1.922246586098161	Trichomes	15	
+evm.TU.01.2861	Flower	0	-0.5103399990144778	Female flower	15	
+evm.TU.01.2861	Flower	0	-0.5103399990144778	Flower	15	
+evm.TU.01.2861	Flower	0	-0.5103399990144778	Male flower	15	
+evm.TU.01.2861	Flower	0	-0.5103399990144778	Female reproductive bud	15	
+evm.TU.01.2861	Flower	0	-0.5103399990144778	Female floral bud	15	
+evm.TU.01.2861	Leaf	0	-0.5103399990144778	Leaf	15	
+evm.TU.01.2861	Leaf	0	-0.5103399990144778	Leaf 	15	
+evm.TU.01.2861	Leaf	0	-0.5103399990144778	Petiole	15	
+evm.TU.01.2861	Leaf	0	-0.5103399990144778	Vegetative leaf - fresh cutting	15	
+evm.TU.01.2861	Leaf	0	-0.5103399990144778	Female reproductive leaf	15	
+evm.TU.01.2861	Meristem	0	-0.5103399990144778	Female apical meristem	15	
+evm.TU.01.2861	Meristem	0	-0.5103399990144778	Male apical meristem	15	
+evm.TU.01.2861	Root	1.5584288565067868	0.05252788578862338	Roots	15	
+evm.TU.01.2861	Root	1.5584288565067868	0.05252788578862338	Root	15	
+evm.TU.01.2861	Root	1.5584288565067868	0.05252788578862338	Female root-mid	15	
+evm.TU.01.2861	Root	1.5584288565067868	0.05252788578862338	Female root-tip	15	
+evm.TU.01.2861	Stem	0	-0.5103399990144778	Stem	15	
+evm.TU.01.2861	Stem	0	-0.5103399990144778	Primary stem	15	
+evm.TU.01.2861	Stem	0	-0.5103399990144778	Shoot	15	
+evm.TU.01.2861	Trichome	34.16734082405991	1.9888321102692876	Trichomes	15	
+evm.TU.01.360	Flower	0	-0.5202681987099627	Female flower	15	
+evm.TU.01.360	Flower	0	-0.5202681987099627	Flower	15	
+evm.TU.01.360	Flower	0	-0.5202681987099627	Male flower	15	
+evm.TU.01.360	Flower	0	-0.5202681987099627	Female reproductive bud	15	
+evm.TU.01.360	Flower	0	-0.5202681987099627	Female floral bud	15	
+evm.TU.01.360	Leaf	0	-0.5202681987099627	Leaf	15	
+evm.TU.01.360	Leaf	0	-0.5202681987099627	Leaf 	15	
+evm.TU.01.360	Leaf	0	-0.5202681987099627	Petiole	15	
+evm.TU.01.360	Leaf	0	-0.5202681987099627	Vegetative leaf - fresh cutting	15	
+evm.TU.01.360	Leaf	0	-0.5202681987099627	Female reproductive leaf	15	
+evm.TU.01.360	Meristem	0	-0.5202681987099627	Female apical meristem	15	
+evm.TU.01.360	Meristem	0	-0.5202681987099627	Male apical meristem	15	
+evm.TU.01.360	Root	7.890132213659124	0.10462720926834786	Roots	15	
+evm.TU.01.360	Root	7.890132213659124	0.10462720926834786	Root	15	
+evm.TU.01.360	Root	7.890132213659124	0.10462720926834786	Female root-mid	15	
+evm.TU.01.360	Root	7.890132213659124	0.10462720926834786	Female root-tip	15	
+evm.TU.01.360	Stem	0	-0.5202681987099627	Stem	15	
+evm.TU.01.360	Stem	0	-0.5202681987099627	Primary stem	15	
+evm.TU.01.360	Stem	0	-0.5202681987099627	Shoot	15	
+evm.TU.01.360	Trichome	57.55864673715338	1.9764455855715028	Trichomes	15	
+evm.TU.01.85	Flower	0	-0.6315065293404468	Female flower	15	
+evm.TU.01.85	Flower	0	-0.6315065293404468	Flower	15	
+evm.TU.01.85	Flower	0	-0.6315065293404468	Male flower	15	
+evm.TU.01.85	Flower	0	-0.6315065293404468	Female reproductive bud	15	
+evm.TU.01.85	Flower	0	-0.6315065293404468	Female floral bud	15	
+evm.TU.01.85	Leaf	0	-0.6315065293404468	Leaf	15	
+evm.TU.01.85	Leaf	0	-0.6315065293404468	Leaf 	15	
+evm.TU.01.85	Leaf	0	-0.6315065293404468	Petiole	15	
+evm.TU.01.85	Leaf	0	-0.6315065293404468	Vegetative leaf - fresh cutting	15	
+evm.TU.01.85	Leaf	0	-0.6315065293404468	Female reproductive leaf	15	
+evm.TU.01.85	Meristem	24.02083752396628	0.9356034980350572	Female apical meristem	15	
+evm.TU.01.85	Meristem	24.02083752396628	0.9356034980350572	Male apical meristem	15	
+evm.TU.01.85	Root	0	-0.6315065293404468	Roots	15	
+evm.TU.01.85	Root	0	-0.6315065293404468	Root	15	
+evm.TU.01.85	Root	0	-0.6315065293404468	Female root-mid	15	
+evm.TU.01.85	Root	0	-0.6315065293404468	Female root-tip	15	
+evm.TU.01.85	Stem	0	-0.6315065293404468	Stem	15	
+evm.TU.01.85	Stem	0	-0.6315065293404468	Primary stem	15	
+evm.TU.01.85	Stem	0	-0.6315065293404468	Shoot	15	
+evm.TU.01.85	Trichome	86.31551551559073	1.5904226193267303	Trichomes	15	
+evm.TU.02.1033	Flower	0	-0.40824829046386296	Female flower	15	
+evm.TU.02.1033	Flower	0	-0.40824829046386296	Flower	15	
+evm.TU.02.1033	Flower	0	-0.40824829046386296	Male flower	15	
+evm.TU.02.1033	Flower	0	-0.40824829046386296	Female reproductive bud	15	
+evm.TU.02.1033	Flower	0	-0.40824829046386296	Female floral bud	15	
+evm.TU.02.1033	Leaf	0	-0.40824829046386296	Leaf	15	
+evm.TU.02.1033	Leaf	0	-0.40824829046386296	Leaf 	15	
+evm.TU.02.1033	Leaf	0	-0.40824829046386296	Petiole	15	
+evm.TU.02.1033	Leaf	0	-0.40824829046386296	Vegetative leaf - fresh cutting	15	
+evm.TU.02.1033	Leaf	0	-0.40824829046386296	Female reproductive leaf	15	
+evm.TU.02.1033	Meristem	0	-0.40824829046386296	Female apical meristem	15	
+evm.TU.02.1033	Meristem	0	-0.40824829046386296	Male apical meristem	15	
+evm.TU.02.1033	Root	0	-0.40824829046386296	Roots	15	
+evm.TU.02.1033	Root	0	-0.40824829046386296	Root	15	
+evm.TU.02.1033	Root	0	-0.40824829046386296	Female root-mid	15	
+evm.TU.02.1033	Root	0	-0.40824829046386296	Female root-tip	15	
+evm.TU.02.1033	Stem	0	-0.40824829046386296	Stem	15	
+evm.TU.02.1033	Stem	0	-0.40824829046386296	Primary stem	15	
+evm.TU.02.1033	Stem	0	-0.40824829046386296	Shoot	15	
+evm.TU.02.1033	Trichome	37.13388710121711	2.041241452319315	Trichomes	15	
+evm.TU.02.1052	Flower	0	-0.5966852810274058	Female flower	15	
+evm.TU.02.1052	Flower	0	-0.5966852810274058	Flower	15	
+evm.TU.02.1052	Flower	0	-0.5966852810274058	Male flower	15	
+evm.TU.02.1052	Flower	0	-0.5966852810274058	Female reproductive bud	15	
+evm.TU.02.1052	Flower	0	-0.5966852810274058	Female floral bud	15	
+evm.TU.02.1052	Leaf	0	-0.5966852810274058	Leaf	15	
+evm.TU.02.1052	Leaf	0	-0.5966852810274058	Leaf 	15	
+evm.TU.02.1052	Leaf	0	-0.5966852810274058	Petiole	15	
+evm.TU.02.1052	Leaf	0	-0.5966852810274058	Vegetative leaf - fresh cutting	15	
+evm.TU.02.1052	Leaf	0	-0.5966852810274058	Female reproductive leaf	15	
+evm.TU.02.1052	Meristem	0	-0.5966852810274058	Female apical meristem	15	
+evm.TU.02.1052	Meristem	0	-0.5966852810274058	Male apical meristem	15	
+evm.TU.02.1052	Root	8.984538451796173	0.5902121645907004	Roots	15	
+evm.TU.02.1052	Root	8.984538451796173	0.5902121645907004	Root	15	
+evm.TU.02.1052	Root	8.984538451796173	0.5902121645907004	Female root-mid	15	
+evm.TU.02.1052	Root	8.984538451796173	0.5902121645907004	Female root-tip	15	
+evm.TU.02.1052	Stem	0	-0.5966852810274058	Stem	15	
+evm.TU.02.1052	Stem	0	-0.5966852810274058	Primary stem	15	
+evm.TU.02.1052	Stem	0	-0.5966852810274058	Shoot	15	
+evm.TU.02.1052	Trichome	86.09464205078922	1.7965289595189227	Trichomes	15	
+evm.TU.02.1136	Flower	0	-0.6433050226002365	Female flower	15	
+evm.TU.02.1136	Flower	0	-0.6433050226002365	Flower	15	
+evm.TU.02.1136	Flower	0	-0.6433050226002365	Male flower	15	
+evm.TU.02.1136	Flower	0	-0.6433050226002365	Female reproductive bud	15	
+evm.TU.02.1136	Flower	0	-0.6433050226002365	Female floral bud	15	
+evm.TU.02.1136	Leaf	0	-0.6433050226002365	Leaf	15	
+evm.TU.02.1136	Leaf	0	-0.6433050226002365	Leaf 	15	
+evm.TU.02.1136	Leaf	0	-0.6433050226002365	Petiole	15	
+evm.TU.02.1136	Leaf	0	-0.6433050226002365	Vegetative leaf - fresh cutting	15	
+evm.TU.02.1136	Leaf	0	-0.6433050226002365	Female reproductive leaf	15	
+evm.TU.02.1136	Meristem	31.742765378721167	1.1564106312852938	Female apical meristem	15	
+evm.TU.02.1136	Meristem	31.742765378721167	1.1564106312852938	Male apical meristem	15	
+evm.TU.02.1136	Root	0	-0.6433050226002365	Roots	15	
+evm.TU.02.1136	Root	0	-0.6433050226002365	Root	15	
+evm.TU.02.1136	Root	0	-0.6433050226002365	Female root-mid	15	
+evm.TU.02.1136	Root	0	-0.6433050226002365	Female root-tip	15	
+evm.TU.02.1136	Stem	0	-0.6433050226002365	Stem	15	
+evm.TU.02.1136	Stem	0	-0.6433050226002365	Primary stem	15	
+evm.TU.02.1136	Stem	0	-0.6433050226002365	Shoot	15	
+evm.TU.02.1136	Trichome	43.70379777592692	1.416809459115652	Trichomes	15	
+evm.TU.02.1168	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.02.1168	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.02.1168	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.02.1168	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.02.1168	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.02.1168	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.02.1168	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.02.1168	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.02.1168	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.02.1168	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.02.1168	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.02.1168	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.02.1168	Root	0	-0.408248290463863	Roots	15	
+evm.TU.02.1168	Root	0	-0.408248290463863	Root	15	
+evm.TU.02.1168	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.02.1168	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.02.1168	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.02.1168	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.02.1168	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.02.1168	Trichome	31.6123900809069	2.0412414523193148	Trichomes	15	
+evm.TU.02.1175	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.02.1175	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.02.1175	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.02.1175	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.02.1175	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.02.1175	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.02.1175	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.02.1175	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.02.1175	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.02.1175	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.02.1175	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.02.1175	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.02.1175	Root	0	-0.408248290463863	Roots	15	
+evm.TU.02.1175	Root	0	-0.408248290463863	Root	15	
+evm.TU.02.1175	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.02.1175	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.02.1175	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.02.1175	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.02.1175	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.02.1175	Trichome	24.141826522025696	2.0412414523193148	Trichomes	15	
+evm.TU.02.1260	Flower	0	-0.6434239094800147	Female flower	15	
+evm.TU.02.1260	Flower	0	-0.6434239094800147	Flower	15	
+evm.TU.02.1260	Flower	0	-0.6434239094800147	Male flower	15	
+evm.TU.02.1260	Flower	0	-0.6434239094800147	Female reproductive bud	15	
+evm.TU.02.1260	Flower	0	-0.6434239094800147	Female floral bud	15	
+evm.TU.02.1260	Leaf	0	-0.6434239094800147	Leaf	15	
+evm.TU.02.1260	Leaf	0	-0.6434239094800147	Leaf 	15	
+evm.TU.02.1260	Leaf	0	-0.6434239094800147	Petiole	15	
+evm.TU.02.1260	Leaf	0	-0.6434239094800147	Vegetative leaf - fresh cutting	15	
+evm.TU.02.1260	Leaf	0	-0.6434239094800147	Female reproductive leaf	15	
+evm.TU.02.1260	Meristem	23.61349581527822	1.1602222439101102	Female apical meristem	15	
+evm.TU.02.1260	Meristem	23.61349581527822	1.1602222439101102	Male apical meristem	15	
+evm.TU.02.1260	Root	0	-0.6434239094800147	Roots	15	
+evm.TU.02.1260	Root	0	-0.6434239094800147	Root	15	
+evm.TU.02.1260	Root	0	-0.6434239094800147	Female root-mid	15	
+evm.TU.02.1260	Root	0	-0.6434239094800147	Female root-tip	15	
+evm.TU.02.1260	Stem	0	-0.6434239094800147	Stem	15	
+evm.TU.02.1260	Stem	0	-0.6434239094800147	Primary stem	15	
+evm.TU.02.1260	Stem	0	-0.6434239094800147	Shoot	15	
+evm.TU.02.1260	Trichome	37.73227822943271	1.4134733940099486	Trichomes	15	
+evm.TU.02.1531	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.02.1531	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.02.1531	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.02.1531	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.02.1531	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.02.1531	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.02.1531	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.02.1531	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.02.1531	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.02.1531	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.02.1531	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.02.1531	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.02.1531	Root	0	-0.408248290463863	Roots	15	
+evm.TU.02.1531	Root	0	-0.408248290463863	Root	15	
+evm.TU.02.1531	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.02.1531	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.02.1531	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.02.1531	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.02.1531	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.02.1531	Trichome	132.49014952873242	2.041241452319315	Trichomes	15	
+evm.TU.02.1571	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.02.1571	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.02.1571	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.02.1571	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.02.1571	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.02.1571	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.02.1571	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.02.1571	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.02.1571	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.02.1571	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.02.1571	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.02.1571	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.02.1571	Root	0	-0.408248290463863	Roots	15	
+evm.TU.02.1571	Root	0	-0.408248290463863	Root	15	
+evm.TU.02.1571	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.02.1571	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.02.1571	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.02.1571	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.02.1571	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.02.1571	Trichome	105.04909397381728	2.041241452319315	Trichomes	15	
+evm.TU.02.181	Flower	0	-0.6088613819110458	Female flower	15	
+evm.TU.02.181	Flower	0	-0.6088613819110458	Flower	15	
+evm.TU.02.181	Flower	0	-0.6088613819110458	Male flower	15	
+evm.TU.02.181	Flower	0	-0.6088613819110458	Female reproductive bud	15	
+evm.TU.02.181	Flower	0	-0.6088613819110458	Female floral bud	15	
+evm.TU.02.181	Leaf	0	-0.6088613819110458	Leaf	15	
+evm.TU.02.181	Leaf	0	-0.6088613819110458	Leaf 	15	
+evm.TU.02.181	Leaf	0	-0.6088613819110458	Petiole	15	
+evm.TU.02.181	Leaf	0	-0.6088613819110458	Vegetative leaf - fresh cutting	15	
+evm.TU.02.181	Leaf	0	-0.6088613819110458	Female reproductive leaf	15	
+evm.TU.02.181	Meristem	17.232265195895007	0.6926257197395422	Female apical meristem	15	
+evm.TU.02.181	Meristem	17.232265195895007	0.6926257197395422	Male apical meristem	15	
+evm.TU.02.181	Root	0	-0.6088613819110458	Roots	15	
+evm.TU.02.181	Root	0	-0.6088613819110458	Root	15	
+evm.TU.02.181	Root	0	-0.6088613819110458	Female root-mid	15	
+evm.TU.02.181	Root	0	-0.6088613819110458	Female root-tip	15	
+evm.TU.02.181	Stem	0	-0.6088613819110458	Stem	15	
+evm.TU.02.181	Stem	0	-0.6088613819110458	Primary stem	15	
+evm.TU.02.181	Stem	0	-0.6088613819110458	Shoot	15	
+evm.TU.02.181	Trichome	42.313294172227025	1.7428198079046404	Trichomes	15	
+evm.TU.02.25	Flower	0	-0.5806089836330284	Female flower	15	
+evm.TU.02.25	Flower	0	-0.5806089836330284	Flower	15	
+evm.TU.02.25	Flower	0	-0.5806089836330284	Male flower	15	
+evm.TU.02.25	Flower	0	-0.5806089836330284	Female reproductive bud	15	
+evm.TU.02.25	Flower	0	-0.5806089836330284	Female floral bud	15	
+evm.TU.02.25	Leaf	0	-0.5806089836330284	Leaf	15	
+evm.TU.02.25	Leaf	0	-0.5806089836330284	Leaf 	15	
+evm.TU.02.25	Leaf	0	-0.5806089836330284	Petiole	15	
+evm.TU.02.25	Leaf	0	-0.5806089836330284	Vegetative leaf - fresh cutting	15	
+evm.TU.02.25	Leaf	0	-0.5806089836330284	Female reproductive leaf	15	
+evm.TU.02.25	Meristem	3.841198190057412	0.470306070749771	Female apical meristem	15	
+evm.TU.02.25	Meristem	3.841198190057412	0.470306070749771	Male apical meristem	15	
+evm.TU.02.25	Root	0	-0.5806089836330284	Roots	15	
+evm.TU.02.25	Root	0	-0.5806089836330284	Root	15	
+evm.TU.02.25	Root	0	-0.5806089836330284	Female root-mid	15	
+evm.TU.02.25	Root	0	-0.5806089836330284	Female root-tip	15	
+evm.TU.02.25	Stem	0	-0.5806089836330284	Stem	15	
+evm.TU.02.25	Stem	0	-0.5806089836330284	Primary stem	15	
+evm.TU.02.25	Stem	0	-0.5806089836330284	Shoot	15	
+evm.TU.02.25	Trichome	45.65458985662781	1.8521298637823425	Trichomes	15	
+evm.TU.02.308	Flower	0	-0.6193502947609947	Female flower	15	
+evm.TU.02.308	Flower	0	-0.6193502947609947	Flower	15	
+evm.TU.02.308	Flower	0	-0.6193502947609947	Male flower	15	
+evm.TU.02.308	Flower	0	-0.6193502947609947	Female reproductive bud	15	
+evm.TU.02.308	Flower	0	-0.6193502947609947	Female floral bud	15	
+evm.TU.02.308	Leaf	0	-0.6193502947609947	Leaf	15	
+evm.TU.02.308	Leaf	0	-0.6193502947609947	Leaf 	15	
+evm.TU.02.308	Leaf	0	-0.6193502947609947	Petiole	15	
+evm.TU.02.308	Leaf	0	-0.6193502947609947	Vegetative leaf - fresh cutting	15	
+evm.TU.02.308	Leaf	0	-0.6193502947609947	Female reproductive leaf	15	
+evm.TU.02.308	Meristem	9.983331091859842	0.793244335466875	Female apical meristem	15	
+evm.TU.02.308	Meristem	9.983331091859842	0.793244335466875	Male apical meristem	15	
+evm.TU.02.308	Root	0	-0.6193502947609947	Roots	15	
+evm.TU.02.308	Root	0	-0.6193502947609947	Root	15	
+evm.TU.02.308	Root	0	-0.6193502947609947	Female root-mid	15	
+evm.TU.02.308	Root	0	-0.6193502947609947	Female root-tip	15	
+evm.TU.02.308	Stem	0	-0.6193502947609947	Stem	15	
+evm.TU.02.308	Stem	0	-0.6193502947609947	Primary stem	15	
+evm.TU.02.308	Stem	0	-0.6193502947609947	Shoot	15	
+evm.TU.02.308	Trichome	42.79418575612533	1.6841568435771037	Trichomes	15	
+evm.TU.02.3111	Flower	0	-0.4749579760623069	Female flower	15	
+evm.TU.02.3111	Flower	0	-0.4749579760623069	Flower	15	
+evm.TU.02.3111	Flower	0	-0.4749579760623069	Male flower	15	
+evm.TU.02.3111	Flower	0	-0.4749579760623069	Female reproductive bud	15	
+evm.TU.02.3111	Flower	0	-0.4749579760623069	Female floral bud	15	
+evm.TU.02.3111	Leaf	0	-0.4749579760623069	Leaf	15	
+evm.TU.02.3111	Leaf	0	-0.4749579760623069	Leaf 	15	
+evm.TU.02.3111	Leaf	0	-0.4749579760623069	Petiole	15	
+evm.TU.02.3111	Leaf	0	-0.4749579760623069	Vegetative leaf - fresh cutting	15	
+evm.TU.02.3111	Leaf	0	-0.4749579760623069	Female reproductive leaf	15	
+evm.TU.02.3111	Meristem	0	-0.4749579760623069	Female apical meristem	15	
+evm.TU.02.3111	Meristem	0	-0.4749579760623069	Male apical meristem	15	
+evm.TU.02.3111	Root	0	-0.4749579760623069	Roots	15	
+evm.TU.02.3111	Root	0	-0.4749579760623069	Root	15	
+evm.TU.02.3111	Root	0	-0.4749579760623069	Female root-mid	15	
+evm.TU.02.3111	Root	0	-0.4749579760623069	Female root-tip	15	
+evm.TU.02.3111	Stem	0.7137807881626529	-0.1208265593359065	Stem	15	
+evm.TU.02.3111	Stem	0.7137807881626529	-0.1208265593359065	Primary stem	15	
+evm.TU.02.3111	Stem	0.7137807881626529	-0.1208265593359065	Shoot	15	
+evm.TU.02.3111	Trichome	47.579777619225666	2.0206584635851343	Trichomes	15	
+evm.TU.02.508	Flower	0	-0.4082482904638631	Female flower	15	
+evm.TU.02.508	Flower	0	-0.4082482904638631	Flower	15	
+evm.TU.02.508	Flower	0	-0.4082482904638631	Male flower	15	
+evm.TU.02.508	Flower	0	-0.4082482904638631	Female reproductive bud	15	
+evm.TU.02.508	Flower	0	-0.4082482904638631	Female floral bud	15	
+evm.TU.02.508	Leaf	0	-0.4082482904638631	Leaf	15	
+evm.TU.02.508	Leaf	0	-0.4082482904638631	Leaf 	15	
+evm.TU.02.508	Leaf	0	-0.4082482904638631	Petiole	15	
+evm.TU.02.508	Leaf	0	-0.4082482904638631	Vegetative leaf - fresh cutting	15	
+evm.TU.02.508	Leaf	0	-0.4082482904638631	Female reproductive leaf	15	
+evm.TU.02.508	Meristem	0	-0.4082482904638631	Female apical meristem	15	
+evm.TU.02.508	Meristem	0	-0.4082482904638631	Male apical meristem	15	
+evm.TU.02.508	Root	0	-0.4082482904638631	Roots	15	
+evm.TU.02.508	Root	0	-0.4082482904638631	Root	15	
+evm.TU.02.508	Root	0	-0.4082482904638631	Female root-mid	15	
+evm.TU.02.508	Root	0	-0.4082482904638631	Female root-tip	15	
+evm.TU.02.508	Stem	0	-0.4082482904638631	Stem	15	
+evm.TU.02.508	Stem	0	-0.4082482904638631	Primary stem	15	
+evm.TU.02.508	Stem	0	-0.4082482904638631	Shoot	15	
+evm.TU.02.508	Trichome	27.24407120167639	2.041241452319315	Trichomes	15	
+evm.TU.02.567	Flower	0	-0.5485136152025812	Female flower	15	
+evm.TU.02.567	Flower	0	-0.5485136152025812	Flower	15	
+evm.TU.02.567	Flower	0	-0.5485136152025812	Male flower	15	
+evm.TU.02.567	Flower	0	-0.5485136152025812	Female reproductive bud	15	
+evm.TU.02.567	Flower	0	-0.5485136152025812	Female floral bud	15	
+evm.TU.02.567	Leaf	0	-0.5485136152025812	Leaf	15	
+evm.TU.02.567	Leaf	0	-0.5485136152025812	Leaf 	15	
+evm.TU.02.567	Leaf	0	-0.5485136152025812	Petiole	15	
+evm.TU.02.567	Leaf	0	-0.5485136152025812	Vegetative leaf - fresh cutting	15	
+evm.TU.02.567	Leaf	0	-0.5485136152025812	Female reproductive leaf	15	
+evm.TU.02.567	Meristem	2.0631609058770057	0.26348246038715767	Female apical meristem	15	
+evm.TU.02.567	Meristem	2.0631609058770057	0.26348246038715767	Male apical meristem	15	
+evm.TU.02.567	Root	0	-0.5485136152025812	Roots	15	
+evm.TU.02.567	Root	0	-0.5485136152025812	Root	15	
+evm.TU.02.567	Root	0	-0.5485136152025812	Female root-mid	15	
+evm.TU.02.567	Root	0	-0.5485136152025812	Female root-tip	15	
+evm.TU.02.567	Stem	0	-0.5485136152025812	Stem	15	
+evm.TU.02.567	Stem	0	-0.5485136152025812	Primary stem	15	
+evm.TU.02.567	Stem	0	-0.5485136152025812	Shoot	15	
+evm.TU.02.567	Trichome	23.507590595089027	1.930572000423167	Trichomes	15	
+evm.TU.02.646	Flower	0	-0.4082482904638631	Female flower	15	
+evm.TU.02.646	Flower	0	-0.4082482904638631	Flower	15	
+evm.TU.02.646	Flower	0	-0.4082482904638631	Male flower	15	
+evm.TU.02.646	Flower	0	-0.4082482904638631	Female reproductive bud	15	
+evm.TU.02.646	Flower	0	-0.4082482904638631	Female floral bud	15	
+evm.TU.02.646	Leaf	0	-0.4082482904638631	Leaf	15	
+evm.TU.02.646	Leaf	0	-0.4082482904638631	Leaf 	15	
+evm.TU.02.646	Leaf	0	-0.4082482904638631	Petiole	15	
+evm.TU.02.646	Leaf	0	-0.4082482904638631	Vegetative leaf - fresh cutting	15	
+evm.TU.02.646	Leaf	0	-0.4082482904638631	Female reproductive leaf	15	
+evm.TU.02.646	Meristem	0	-0.4082482904638631	Female apical meristem	15	
+evm.TU.02.646	Meristem	0	-0.4082482904638631	Male apical meristem	15	
+evm.TU.02.646	Root	0	-0.4082482904638631	Roots	15	
+evm.TU.02.646	Root	0	-0.4082482904638631	Root	15	
+evm.TU.02.646	Root	0	-0.4082482904638631	Female root-mid	15	
+evm.TU.02.646	Root	0	-0.4082482904638631	Female root-tip	15	
+evm.TU.02.646	Stem	0	-0.4082482904638631	Stem	15	
+evm.TU.02.646	Stem	0	-0.4082482904638631	Primary stem	15	
+evm.TU.02.646	Stem	0	-0.4082482904638631	Shoot	15	
+evm.TU.02.646	Trichome	60.667132969467815	2.041241452319315	Trichomes	15	
+evm.TU.02.992	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.02.992	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.02.992	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.02.992	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.02.992	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.02.992	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.02.992	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.02.992	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.02.992	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.02.992	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.02.992	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.02.992	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.02.992	Root	0	-0.408248290463863	Roots	15	
+evm.TU.02.992	Root	0	-0.408248290463863	Root	15	
+evm.TU.02.992	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.02.992	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.02.992	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.02.992	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.02.992	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.02.992	Trichome	43.42874584728784	2.041241452319315	Trichomes	15	
+evm.TU.03.1530	Flower	0	-0.4082482904638631	Female flower	15	
+evm.TU.03.1530	Flower	0	-0.4082482904638631	Flower	15	
+evm.TU.03.1530	Flower	0	-0.4082482904638631	Male flower	15	
+evm.TU.03.1530	Flower	0	-0.4082482904638631	Female reproductive bud	15	
+evm.TU.03.1530	Flower	0	-0.4082482904638631	Female floral bud	15	
+evm.TU.03.1530	Leaf	0	-0.4082482904638631	Leaf	15	
+evm.TU.03.1530	Leaf	0	-0.4082482904638631	Leaf 	15	
+evm.TU.03.1530	Leaf	0	-0.4082482904638631	Petiole	15	
+evm.TU.03.1530	Leaf	0	-0.4082482904638631	Vegetative leaf - fresh cutting	15	
+evm.TU.03.1530	Leaf	0	-0.4082482904638631	Female reproductive leaf	15	
+evm.TU.03.1530	Meristem	0	-0.4082482904638631	Female apical meristem	15	
+evm.TU.03.1530	Meristem	0	-0.4082482904638631	Male apical meristem	15	
+evm.TU.03.1530	Root	0	-0.4082482904638631	Roots	15	
+evm.TU.03.1530	Root	0	-0.4082482904638631	Root	15	
+evm.TU.03.1530	Root	0	-0.4082482904638631	Female root-mid	15	
+evm.TU.03.1530	Root	0	-0.4082482904638631	Female root-tip	15	
+evm.TU.03.1530	Stem	0	-0.4082482904638631	Stem	15	
+evm.TU.03.1530	Stem	0	-0.4082482904638631	Primary stem	15	
+evm.TU.03.1530	Stem	0	-0.4082482904638631	Shoot	15	
+evm.TU.03.1530	Trichome	563.7277117121434	2.041241452319315	Trichomes	15	
+evm.TU.03.1725	Flower	0	-0.4820610580304471	Female flower	15	
+evm.TU.03.1725	Flower	0	-0.4820610580304471	Flower	15	
+evm.TU.03.1725	Flower	0	-0.4820610580304471	Male flower	15	
+evm.TU.03.1725	Flower	0	-0.4820610580304471	Female reproductive bud	15	
+evm.TU.03.1725	Flower	0	-0.4820610580304471	Female floral bud	15	
+evm.TU.03.1725	Leaf	0	-0.4820610580304471	Leaf	15	
+evm.TU.03.1725	Leaf	0	-0.4820610580304471	Leaf 	15	
+evm.TU.03.1725	Leaf	0	-0.4820610580304471	Petiole	15	
+evm.TU.03.1725	Leaf	0	-0.4820610580304471	Vegetative leaf - fresh cutting	15	
+evm.TU.03.1725	Leaf	0	-0.4820610580304471	Female reproductive leaf	15	
+evm.TU.03.1725	Meristem	0.629915628653641	-0.08740192930535211	Female apical meristem	15	
+evm.TU.03.1725	Meristem	0.629915628653641	-0.08740192930535211	Male apical meristem	15	
+evm.TU.03.1725	Root	0	-0.4820610580304471	Roots	15	
+evm.TU.03.1725	Root	0	-0.4820610580304471	Root	15	
+evm.TU.03.1725	Root	0	-0.4820610580304471	Female root-mid	15	
+evm.TU.03.1725	Root	0	-0.4820610580304471	Female root-tip	15	
+evm.TU.03.1725	Stem	0	-0.4820610580304471	Stem	15	
+evm.TU.03.1725	Stem	0	-0.4820610580304471	Primary stem	15	
+evm.TU.03.1725	Stem	0	-0.4820610580304471	Shoot	15	
+evm.TU.03.1725	Trichome	26.763467687062565	2.0156461614271404	Trichomes	15	
+evm.TU.03.247	Flower	0	-0.7304312146171262	Female flower	15	
+evm.TU.03.247	Flower	0	-0.7304312146171262	Flower	15	
+evm.TU.03.247	Flower	0	-0.7304312146171262	Male flower	15	
+evm.TU.03.247	Flower	0	-0.7304312146171262	Female reproductive bud	15	
+evm.TU.03.247	Flower	0	-0.7304312146171262	Female floral bud	15	
+evm.TU.03.247	Leaf	7.097585468566415	0.16332125350485477	Leaf	15	
+evm.TU.03.247	Leaf	7.097585468566415	0.16332125350485477	Leaf 	15	
+evm.TU.03.247	Leaf	7.097585468566415	0.16332125350485477	Petiole	15	
+evm.TU.03.247	Leaf	7.097585468566415	0.16332125350485477	Vegetative leaf - fresh cutting	15	
+evm.TU.03.247	Leaf	7.097585468566415	0.16332125350485477	Female reproductive leaf	15	
+evm.TU.03.247	Meristem	0	-0.7304312146171262	Female apical meristem	15	
+evm.TU.03.247	Meristem	0	-0.7304312146171262	Male apical meristem	15	
+evm.TU.03.247	Root	0	-0.7304312146171262	Roots	15	
+evm.TU.03.247	Root	0	-0.7304312146171262	Root	15	
+evm.TU.03.247	Root	0	-0.7304312146171262	Female root-mid	15	
+evm.TU.03.247	Root	0	-0.7304312146171262	Female root-tip	15	
+evm.TU.03.247	Stem	9.977561716001185	0.20269066261790625	Stem	15	
+evm.TU.03.247	Stem	9.977561716001185	0.20269066261790625	Primary stem	15	
+evm.TU.03.247	Stem	9.977561716001185	0.20269066261790625	Shoot	15	
+evm.TU.03.247	Trichome	62.24802667025202	1.8252817277286173	Trichomes	15	
+evm.TU.03.859	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.03.859	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.03.859	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.03.859	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.03.859	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.03.859	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.03.859	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.03.859	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.03.859	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.03.859	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.03.859	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.03.859	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.03.859	Root	0	-0.408248290463863	Roots	15	
+evm.TU.03.859	Root	0	-0.408248290463863	Root	15	
+evm.TU.03.859	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.03.859	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.03.859	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.03.859	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.03.859	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.03.859	Trichome	25.407066619111614	2.0412414523193148	Trichomes	15	
+evm.TU.04.59	Flower	0	-0.574374128418278	Female flower	15	
+evm.TU.04.59	Flower	0	-0.574374128418278	Flower	15	
+evm.TU.04.59	Flower	0	-0.574374128418278	Male flower	15	
+evm.TU.04.59	Flower	0	-0.574374128418278	Female reproductive bud	15	
+evm.TU.04.59	Flower	0	-0.574374128418278	Female floral bud	15	
+evm.TU.04.59	Leaf	0	-0.574374128418278	Leaf	15	
+evm.TU.04.59	Leaf	0	-0.574374128418278	Leaf 	15	
+evm.TU.04.59	Leaf	0	-0.574374128418278	Petiole	15	
+evm.TU.04.59	Leaf	0	-0.574374128418278	Vegetative leaf - fresh cutting	15	
+evm.TU.04.59	Leaf	0	-0.574374128418278	Female reproductive leaf	15	
+evm.TU.04.59	Meristem	0	-0.574374128418278	Female apical meristem	15	
+evm.TU.04.59	Meristem	0	-0.574374128418278	Male apical meristem	15	
+evm.TU.04.59	Root	3.442143059934772	0.4272455446985749	Roots	15	
+evm.TU.04.59	Root	3.442143059934772	0.4272455446985749	Root	15	
+evm.TU.04.59	Root	3.442143059934772	0.4272455446985749	Female root-mid	15	
+evm.TU.04.59	Root	3.442143059934772	0.4272455446985749	Female root-tip	15	
+evm.TU.04.59	Stem	0	-0.574374128418278	Stem	15	
+evm.TU.04.59	Stem	0	-0.574374128418278	Primary stem	15	
+evm.TU.04.59	Stem	0	-0.574374128418278	Shoot	15	
+evm.TU.04.59	Trichome	24.87003032524382	1.8702509689745368	Trichomes	15	
+evm.TU.04.853	Flower	0	-0.40824829046386296	Female flower	15	
+evm.TU.04.853	Flower	0	-0.40824829046386296	Flower	15	
+evm.TU.04.853	Flower	0	-0.40824829046386296	Male flower	15	
+evm.TU.04.853	Flower	0	-0.40824829046386296	Female reproductive bud	15	
+evm.TU.04.853	Flower	0	-0.40824829046386296	Female floral bud	15	
+evm.TU.04.853	Leaf	0	-0.40824829046386296	Leaf	15	
+evm.TU.04.853	Leaf	0	-0.40824829046386296	Leaf 	15	
+evm.TU.04.853	Leaf	0	-0.40824829046386296	Petiole	15	
+evm.TU.04.853	Leaf	0	-0.40824829046386296	Vegetative leaf - fresh cutting	15	
+evm.TU.04.853	Leaf	0	-0.40824829046386296	Female reproductive leaf	15	
+evm.TU.04.853	Meristem	0	-0.40824829046386296	Female apical meristem	15	
+evm.TU.04.853	Meristem	0	-0.40824829046386296	Male apical meristem	15	
+evm.TU.04.853	Root	0	-0.40824829046386296	Roots	15	
+evm.TU.04.853	Root	0	-0.40824829046386296	Root	15	
+evm.TU.04.853	Root	0	-0.40824829046386296	Female root-mid	15	
+evm.TU.04.853	Root	0	-0.40824829046386296	Female root-tip	15	
+evm.TU.04.853	Stem	0	-0.40824829046386296	Stem	15	
+evm.TU.04.853	Stem	0	-0.40824829046386296	Primary stem	15	
+evm.TU.04.853	Stem	0	-0.40824829046386296	Shoot	15	
+evm.TU.04.853	Trichome	45.52651396517656	2.0412414523193148	Trichomes	15	
+evm.TU.05.163	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.05.163	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.05.163	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.05.163	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.05.163	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.05.163	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.05.163	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.05.163	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.05.163	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.05.163	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.05.163	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.05.163	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.05.163	Root	0	-0.408248290463863	Roots	15	
+evm.TU.05.163	Root	0	-0.408248290463863	Root	15	
+evm.TU.05.163	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.05.163	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.05.163	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.05.163	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.05.163	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.05.163	Trichome	24.638809771834932	2.0412414523193148	Trichomes	15	
+evm.TU.05.247	Flower	0	-0.742766269511453	Female flower	15	
+evm.TU.05.247	Flower	0	-0.742766269511453	Flower	15	
+evm.TU.05.247	Flower	0	-0.742766269511453	Male flower	15	
+evm.TU.05.247	Flower	0	-0.742766269511453	Female reproductive bud	15	
+evm.TU.05.247	Flower	0	-0.742766269511453	Female floral bud	15	
+evm.TU.05.247	Leaf	0	-0.742766269511453	Leaf	15	
+evm.TU.05.247	Leaf	0	-0.742766269511453	Leaf 	15	
+evm.TU.05.247	Leaf	0	-0.742766269511453	Petiole	15	
+evm.TU.05.247	Leaf	0	-0.742766269511453	Vegetative leaf - fresh cutting	15	
+evm.TU.05.247	Leaf	0	-0.742766269511453	Female reproductive leaf	15	
+evm.TU.05.247	Meristem	19.777445845161225	0.3533111096908301	Female apical meristem	15	
+evm.TU.05.247	Meristem	19.777445845161225	0.3533111096908301	Male apical meristem	15	
+evm.TU.05.247	Root	0	-0.742766269511453	Roots	15	
+evm.TU.05.247	Root	0	-0.742766269511453	Root	15	
+evm.TU.05.247	Root	0	-0.742766269511453	Female root-mid	15	
+evm.TU.05.247	Root	0	-0.742766269511453	Female root-tip	15	
+evm.TU.05.247	Stem	14.422998562030939	0.0824275856182281	Stem	15	
+evm.TU.05.247	Stem	14.422998562030939	0.0824275856182281	Primary stem	15	
+evm.TU.05.247	Stem	14.422998562030939	0.0824275856182281	Shoot	15	
+evm.TU.05.247	Trichome	295.4542457519784	1.7925601132253008	Trichomes	15	
+evm.TU.05.294	Flower	0	-0.4813467012083442	Female flower	15	
+evm.TU.05.294	Flower	0	-0.4813467012083442	Flower	15	
+evm.TU.05.294	Flower	0	-0.4813467012083442	Male flower	15	
+evm.TU.05.294	Flower	0	-0.4813467012083442	Female reproductive bud	15	
+evm.TU.05.294	Flower	0	-0.4813467012083442	Female floral bud	15	
+evm.TU.05.294	Leaf	0	-0.4813467012083442	Leaf	15	
+evm.TU.05.294	Leaf	0	-0.4813467012083442	Leaf 	15	
+evm.TU.05.294	Leaf	0	-0.4813467012083442	Petiole	15	
+evm.TU.05.294	Leaf	0	-0.4813467012083442	Vegetative leaf - fresh cutting	15	
+evm.TU.05.294	Leaf	0	-0.4813467012083442	Female reproductive leaf	15	
+evm.TU.05.294	Meristem	0.8363922135279683	-0.09079229725610247	Female apical meristem	15	
+evm.TU.05.294	Meristem	0.8363922135279683	-0.09079229725610247	Male apical meristem	15	
+evm.TU.05.294	Root	0	-0.4813467012083442	Roots	15	
+evm.TU.05.294	Root	0	-0.4813467012083442	Root	15	
+evm.TU.05.294	Root	0	-0.4813467012083442	Female root-mid	15	
+evm.TU.05.294	Root	0	-0.4813467012083442	Female root-tip	15	
+evm.TU.05.294	Stem	0	-0.4813467012083442	Stem	15	
+evm.TU.05.294	Stem	0	-0.4813467012083442	Primary stem	15	
+evm.TU.05.294	Stem	0	-0.4813467012083442	Shoot	15	
+evm.TU.05.294	Trichome	34.45453810551528	2.0161791020894793	Trichomes	15	
+evm.TU.05.310	Flower	0	-0.45087224273687454	Female flower	15	
+evm.TU.05.310	Flower	0	-0.45087224273687454	Flower	15	
+evm.TU.05.310	Flower	0	-0.45087224273687454	Male flower	15	
+evm.TU.05.310	Flower	0	-0.45087224273687454	Female reproductive bud	15	
+evm.TU.05.310	Flower	0	-0.45087224273687454	Female floral bud	15	
+evm.TU.05.310	Leaf	0	-0.45087224273687454	Leaf	15	
+evm.TU.05.310	Leaf	0	-0.45087224273687454	Leaf 	15	
+evm.TU.05.310	Leaf	0	-0.45087224273687454	Petiole	15	
+evm.TU.05.310	Leaf	0	-0.45087224273687454	Vegetative leaf - fresh cutting	15	
+evm.TU.05.310	Leaf	0	-0.45087224273687454	Female reproductive leaf	15	
+evm.TU.05.310	Meristem	0.37987819353868535	-0.22975245414938802	Female apical meristem	15	
+evm.TU.05.310	Meristem	0.37987819353868535	-0.22975245414938802	Male apical meristem	15	
+evm.TU.05.310	Root	0	-0.45087224273687454	Roots	15	
+evm.TU.05.310	Root	0	-0.45087224273687454	Root	15	
+evm.TU.05.310	Root	0	-0.45087224273687454	Female root-mid	15	
+evm.TU.05.310	Root	0	-0.45087224273687454	Female root-tip	15	
+evm.TU.05.310	Stem	0	-0.45087224273687454	Stem	15	
+evm.TU.05.310	Stem	0	-0.45087224273687454	Primary stem	15	
+evm.TU.05.310	Stem	0	-0.45087224273687454	Shoot	15	
+evm.TU.05.310	Trichome	36.92291670590775	2.033241425096886	Trichomes	15	
+evm.TU.05.312	Flower	0	-0.4082482904638631	Female flower	15	
+evm.TU.05.312	Flower	0	-0.4082482904638631	Flower	15	
+evm.TU.05.312	Flower	0	-0.4082482904638631	Male flower	15	
+evm.TU.05.312	Flower	0	-0.4082482904638631	Female reproductive bud	15	
+evm.TU.05.312	Flower	0	-0.4082482904638631	Female floral bud	15	
+evm.TU.05.312	Leaf	0	-0.4082482904638631	Leaf	15	
+evm.TU.05.312	Leaf	0	-0.4082482904638631	Leaf 	15	
+evm.TU.05.312	Leaf	0	-0.4082482904638631	Petiole	15	
+evm.TU.05.312	Leaf	0	-0.4082482904638631	Vegetative leaf - fresh cutting	15	
+evm.TU.05.312	Leaf	0	-0.4082482904638631	Female reproductive leaf	15	
+evm.TU.05.312	Meristem	0	-0.4082482904638631	Female apical meristem	15	
+evm.TU.05.312	Meristem	0	-0.4082482904638631	Male apical meristem	15	
+evm.TU.05.312	Root	0	-0.4082482904638631	Roots	15	
+evm.TU.05.312	Root	0	-0.4082482904638631	Root	15	
+evm.TU.05.312	Root	0	-0.4082482904638631	Female root-mid	15	
+evm.TU.05.312	Root	0	-0.4082482904638631	Female root-tip	15	
+evm.TU.05.312	Stem	0	-0.4082482904638631	Stem	15	
+evm.TU.05.312	Stem	0	-0.4082482904638631	Primary stem	15	
+evm.TU.05.312	Stem	0	-0.4082482904638631	Shoot	15	
+evm.TU.05.312	Trichome	251.5647020469155	2.041241452319315	Trichomes	15	
+evm.TU.05.339	Flower	0	-0.5845514390483261	Female flower	15	
+evm.TU.05.339	Flower	0	-0.5845514390483261	Flower	15	
+evm.TU.05.339	Flower	0	-0.5845514390483261	Male flower	15	
+evm.TU.05.339	Flower	0	-0.5845514390483261	Female reproductive bud	15	
+evm.TU.05.339	Flower	0	-0.5845514390483261	Female floral bud	15	
+evm.TU.05.339	Leaf	0	-0.5845514390483261	Leaf	15	
+evm.TU.05.339	Leaf	0	-0.5845514390483261	Leaf 	15	
+evm.TU.05.339	Leaf	0	-0.5845514390483261	Petiole	15	
+evm.TU.05.339	Leaf	0	-0.5845514390483261	Vegetative leaf - fresh cutting	15	
+evm.TU.05.339	Leaf	0	-0.5845514390483261	Female reproductive leaf	15	
+evm.TU.05.339	Meristem	6.713626465318029	0.4984332942931322	Female apical meristem	15	
+evm.TU.05.339	Meristem	6.713626465318029	0.4984332942931322	Male apical meristem	15	
+evm.TU.05.339	Root	0	-0.5845514390483261	Roots	15	
+evm.TU.05.339	Root	0	-0.5845514390483261	Root	15	
+evm.TU.05.339	Root	0	-0.5845514390483261	Female root-mid	15	
+evm.TU.05.339	Root	0	-0.5845514390483261	Female root-tip	15	
+evm.TU.05.339	Stem	0	-0.5845514390483261	Stem	15	
+evm.TU.05.339	Stem	0	-0.5845514390483261	Primary stem	15	
+evm.TU.05.339	Stem	0	-0.5845514390483261	Shoot	15	
+evm.TU.05.339	Trichome	53.52516914500043	1.8397724619001723	Trichomes	15	
+evm.TU.05.482	Flower	0	-0.6164771995039078	Female flower	15	
+evm.TU.05.482	Flower	0	-0.6164771995039078	Flower	15	
+evm.TU.05.482	Flower	0	-0.6164771995039078	Male flower	15	
+evm.TU.05.482	Flower	0	-0.6164771995039078	Female reproductive bud	15	
+evm.TU.05.482	Flower	0	-0.6164771995039078	Female floral bud	15	
+evm.TU.05.482	Leaf	0	-0.6164771995039078	Leaf	15	
+evm.TU.05.482	Leaf	0	-0.6164771995039078	Leaf 	15	
+evm.TU.05.482	Leaf	0	-0.6164771995039078	Petiole	15	
+evm.TU.05.482	Leaf	0	-0.6164771995039078	Vegetative leaf - fresh cutting	15	
+evm.TU.05.482	Leaf	0	-0.6164771995039078	Female reproductive leaf	15	
+evm.TU.05.482	Meristem	13.594928139932716	0.7641952124835254	Female apical meristem	15	
+evm.TU.05.482	Meristem	13.594928139932716	0.7641952124835254	Male apical meristem	15	
+evm.TU.05.482	Root	0	-0.6164771995039078	Roots	15	
+evm.TU.05.482	Root	0	-0.6164771995039078	Root	15	
+evm.TU.05.482	Root	0	-0.6164771995039078	Female root-mid	15	
+evm.TU.05.482	Root	0	-0.6164771995039078	Female root-tip	15	
+evm.TU.05.482	Stem	0	-0.6164771995039078	Stem	15	
+evm.TU.05.482	Stem	0	-0.6164771995039078	Primary stem	15	
+evm.TU.05.482	Stem	0	-0.6164771995039078	Shoot	15	
+evm.TU.05.482	Trichome	73.22266268297062	1.701713585532106	Trichomes	15	
+evm.TU.06.1550	Flower	0	-0.5153160616130067	Female flower	15	
+evm.TU.06.1550	Flower	0	-0.5153160616130067	Flower	15	
+evm.TU.06.1550	Flower	0	-0.5153160616130067	Male flower	15	
+evm.TU.06.1550	Flower	0	-0.5153160616130067	Female reproductive bud	15	
+evm.TU.06.1550	Flower	0	-0.5153160616130067	Female floral bud	15	
+evm.TU.06.1550	Leaf	0	-0.5153160616130067	Leaf	15	
+evm.TU.06.1550	Leaf	0	-0.5153160616130067	Leaf 	15	
+evm.TU.06.1550	Leaf	0	-0.5153160616130067	Petiole	15	
+evm.TU.06.1550	Leaf	0	-0.5153160616130067	Vegetative leaf - fresh cutting	15	
+evm.TU.06.1550	Leaf	0	-0.5153160616130067	Female reproductive leaf	15	
+evm.TU.06.1550	Meristem	1.4010670739923903	0.07842618968959605	Female apical meristem	15	
+evm.TU.06.1550	Meristem	1.4010670739923903	0.07842618968959605	Male apical meristem	15	
+evm.TU.06.1550	Root	0	-0.5153160616130067	Roots	15	
+evm.TU.06.1550	Root	0	-0.5153160616130067	Root	15	
+evm.TU.06.1550	Root	0	-0.5153160616130067	Female root-mid	15	
+evm.TU.06.1550	Root	0	-0.5153160616130067	Female root-tip	15	
+evm.TU.06.1550	Stem	0	-0.5153160616130067	Stem	15	
+evm.TU.06.1550	Stem	0	-0.5153160616130067	Primary stem	15	
+evm.TU.06.1550	Stem	0	-0.5153160616130067	Shoot	15	
+evm.TU.06.1550	Trichome	46.17836246511896	1.9828380567624306	Trichomes	15	
+evm.TU.06.550	Flower	0	-0.643550780126149	Female flower	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Flower	0	-0.643550780126149	Flower	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Flower	0	-0.643550780126149	Male flower	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Flower	0	-0.643550780126149	Female reproductive bud	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Flower	0	-0.643550780126149	Female floral bud	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Leaf	0	-0.643550780126149	Leaf	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Leaf	0	-0.643550780126149	Leaf 	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Leaf	0	-0.643550780126149	Petiole	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Leaf	0	-0.643550780126149	Vegetative leaf - fresh cutting	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Leaf	0	-0.643550780126149	Female reproductive leaf	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Meristem	41.40622585948877	1.1644053484356753	Female apical meristem	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Meristem	41.40622585948877	1.1644053484356753	Male apical meristem	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Root	0	-0.643550780126149	Roots	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Root	0	-0.643550780126149	Root	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Root	0	-0.643550780126149	Female root-mid	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Root	0	-0.643550780126149	Female root-tip	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Stem	0	-0.643550780126149	Stem	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Stem	0	-0.643550780126149	Primary stem	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Stem	0	-0.643550780126149	Shoot	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.550	Trichome	66.21643617685773	1.4097977720689212	Trichomes	15	DNA damage-repair/toleration protein DRT102 [Source:Projected from Arabidopsis thaliana (AT3G04880) UniProtKB/Swiss-Prot;Acc:Q05212]
+evm.TU.06.60	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.06.60	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.06.60	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.06.60	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.06.60	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.06.60	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.06.60	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.06.60	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.06.60	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.06.60	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.06.60	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.06.60	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.06.60	Root	0	-0.408248290463863	Roots	15	
+evm.TU.06.60	Root	0	-0.408248290463863	Root	15	
+evm.TU.06.60	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.06.60	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.06.60	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.06.60	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.06.60	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.06.60	Trichome	22.474505926881807	2.041241452319315	Trichomes	15	
+evm.TU.07.122	Flower	0	-0.5907615140708671	Female flower	15	
+evm.TU.07.122	Flower	0	-0.5907615140708671	Flower	15	
+evm.TU.07.122	Flower	0	-0.5907615140708671	Male flower	15	
+evm.TU.07.122	Flower	0	-0.5907615140708671	Female reproductive bud	15	
+evm.TU.07.122	Flower	0	-0.5907615140708671	Female floral bud	15	
+evm.TU.07.122	Leaf	0	-0.5907615140708671	Leaf	15	
+evm.TU.07.122	Leaf	0	-0.5907615140708671	Leaf 	15	
+evm.TU.07.122	Leaf	0	-0.5907615140708671	Petiole	15	
+evm.TU.07.122	Leaf	0	-0.5907615140708671	Vegetative leaf - fresh cutting	15	
+evm.TU.07.122	Leaf	0	-0.5907615140708671	Female reproductive leaf	15	
+evm.TU.07.122	Meristem	5.628185748233167	0.5443378109904099	Female apical meristem	15	
+evm.TU.07.122	Meristem	5.628185748233167	0.5443378109904099	Male apical meristem	15	
+evm.TU.07.122	Root	0	-0.5907615140708671	Roots	15	
+evm.TU.07.122	Root	0	-0.5907615140708671	Root	15	
+evm.TU.07.122	Root	0	-0.5907615140708671	Female root-mid	15	
+evm.TU.07.122	Root	0	-0.5907615140708671	Female root-tip	15	
+evm.TU.07.122	Stem	0	-0.5907615140708671	Stem	15	
+evm.TU.07.122	Stem	0	-0.5907615140708671	Primary stem	15	
+evm.TU.07.122	Stem	0	-0.5907615140708671	Shoot	15	
+evm.TU.07.122	Trichome	42.921132537047626	1.8187082452930585	Trichomes	15	
+evm.TU.07.1303	Flower	0	-0.8045762940544904	Female flower	15	
+evm.TU.07.1303	Flower	0	-0.8045762940544904	Flower	15	
+evm.TU.07.1303	Flower	0	-0.8045762940544904	Male flower	15	
+evm.TU.07.1303	Flower	0	-0.8045762940544904	Female reproductive bud	15	
+evm.TU.07.1303	Flower	0	-0.8045762940544904	Female floral bud	15	
+evm.TU.07.1303	Leaf	0	-0.8045762940544904	Leaf	15	
+evm.TU.07.1303	Leaf	0	-0.8045762940544904	Leaf 	15	
+evm.TU.07.1303	Leaf	0	-0.8045762940544904	Petiole	15	
+evm.TU.07.1303	Leaf	0	-0.8045762940544904	Vegetative leaf - fresh cutting	15	
+evm.TU.07.1303	Leaf	0	-0.8045762940544904	Female reproductive leaf	15	
+evm.TU.07.1303	Meristem	0	-0.8045762940544904	Female apical meristem	15	
+evm.TU.07.1303	Meristem	0	-0.8045762940544904	Male apical meristem	15	
+evm.TU.07.1303	Root	105.18201666064965	0.9046636191380097	Roots	15	
+evm.TU.07.1303	Root	105.18201666064965	0.9046636191380097	Root	15	
+evm.TU.07.1303	Root	105.18201666064965	0.9046636191380097	Female root-mid	15	
+evm.TU.07.1303	Root	105.18201666064965	0.9046636191380097	Female root-tip	15	
+evm.TU.07.1303	Stem	17.503444901333694	0.012604160125599445	Stem	15	
+evm.TU.07.1303	Stem	17.503444901333694	0.012604160125599445	Primary stem	15	
+evm.TU.07.1303	Stem	17.503444901333694	0.012604160125599445	Shoot	15	
+evm.TU.07.1303	Trichome	310.3498708036491	1.4964611028998622	Trichomes	15	
+evm.TU.07.1601	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.07.1601	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.07.1601	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.07.1601	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.07.1601	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.07.1601	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.07.1601	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.07.1601	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.07.1601	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.07.1601	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.07.1601	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.07.1601	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.07.1601	Root	0	-0.408248290463863	Roots	15	
+evm.TU.07.1601	Root	0	-0.408248290463863	Root	15	
+evm.TU.07.1601	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.07.1601	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.07.1601	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.07.1601	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.07.1601	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.07.1601	Trichome	67.18925501421529	2.041241452319315	Trichomes	15	
+evm.TU.07.1704	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.07.1704	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.07.1704	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.07.1704	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.07.1704	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.07.1704	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.07.1704	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.07.1704	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.07.1704	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.07.1704	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.07.1704	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.07.1704	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.07.1704	Root	0	-0.408248290463863	Roots	15	
+evm.TU.07.1704	Root	0	-0.408248290463863	Root	15	
+evm.TU.07.1704	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.07.1704	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.07.1704	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.07.1704	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.07.1704	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.07.1704	Trichome	996.8488985921731	2.0412414523193148	Trichomes	15	
+evm.TU.07.1705	Flower	0	-0.5813632187807637	Female flower	15	
+evm.TU.07.1705	Flower	0	-0.5813632187807637	Flower	15	
+evm.TU.07.1705	Flower	0	-0.5813632187807637	Male flower	15	
+evm.TU.07.1705	Flower	0	-0.5813632187807637	Female reproductive bud	15	
+evm.TU.07.1705	Flower	0	-0.5813632187807637	Female floral bud	15	
+evm.TU.07.1705	Leaf	0	-0.5813632187807637	Leaf	15	
+evm.TU.07.1705	Leaf	0	-0.5813632187807637	Leaf 	15	
+evm.TU.07.1705	Leaf	0	-0.5813632187807637	Petiole	15	
+evm.TU.07.1705	Leaf	0	-0.5813632187807637	Vegetative leaf - fresh cutting	15	
+evm.TU.07.1705	Leaf	0	-0.5813632187807637	Female reproductive leaf	15	
+evm.TU.07.1705	Meristem	0	-0.5813632187807637	Female apical meristem	15	
+evm.TU.07.1705	Meristem	0	-0.5813632187807637	Male apical meristem	15	
+evm.TU.07.1705	Root	51.22789660267608	0.4756304856791004	Roots	15	
+evm.TU.07.1705	Root	51.22789660267608	0.4756304856791004	Root	15	
+evm.TU.07.1705	Root	51.22789660267608	0.4756304856791004	Female root-mid	15	
+evm.TU.07.1705	Root	51.22789660267608	0.4756304856791004	Female root-tip	15	
+evm.TU.07.1705	Stem	0	-0.5813632187807637	Stem	15	
+evm.TU.07.1705	Stem	0	-0.5813632187807637	Primary stem	15	
+evm.TU.07.1705	Stem	0	-0.5813632187807637	Shoot	15	
+evm.TU.07.1705	Trichome	163.74470670837547	1.849822389443955	Trichomes	15	
+evm.TU.07.1707	Flower	0	-0.6020928541148048	Female flower	15	
+evm.TU.07.1707	Flower	0	-0.6020928541148048	Flower	15	
+evm.TU.07.1707	Flower	0	-0.6020928541148048	Male flower	15	
+evm.TU.07.1707	Flower	0	-0.6020928541148048	Female reproductive bud	15	
+evm.TU.07.1707	Flower	0	-0.6020928541148048	Female floral bud	15	
+evm.TU.07.1707	Leaf	0	-0.6020928541148048	Leaf	15	
+evm.TU.07.1707	Leaf	0	-0.6020928541148048	Leaf 	15	
+evm.TU.07.1707	Leaf	0	-0.6020928541148048	Petiole	15	
+evm.TU.07.1707	Leaf	0	-0.6020928541148048	Vegetative leaf - fresh cutting	15	
+evm.TU.07.1707	Leaf	0	-0.6020928541148048	Female reproductive leaf	15	
+evm.TU.07.1707	Meristem	0	-0.6020928541148048	Female apical meristem	15	
+evm.TU.07.1707	Meristem	0	-0.6020928541148048	Male apical meristem	15	
+evm.TU.07.1707	Root	94.86454364349959	0.6341811730342043	Roots	15	
+evm.TU.07.1707	Root	94.86454364349959	0.6341811730342043	Root	15	
+evm.TU.07.1707	Root	94.86454364349959	0.6341811730342043	Female root-mid	15	
+evm.TU.07.1707	Root	94.86454364349959	0.6341811730342043	Female root-tip	15	
+evm.TU.07.1707	Stem	0	-0.6020928541148048	Stem	15	
+evm.TU.07.1707	Stem	0	-0.6020928541148048	Primary stem	15	
+evm.TU.07.1707	Stem	0	-0.6020928541148048	Shoot	15	
+evm.TU.07.1707	Trichome	1481.6789436506738	1.7741902434250147	Trichomes	15	
+evm.TU.07.1742	Flower	0	-0.40824829046386296	Female flower	15	
+evm.TU.07.1742	Flower	0	-0.40824829046386296	Flower	15	
+evm.TU.07.1742	Flower	0	-0.40824829046386296	Male flower	15	
+evm.TU.07.1742	Flower	0	-0.40824829046386296	Female reproductive bud	15	
+evm.TU.07.1742	Flower	0	-0.40824829046386296	Female floral bud	15	
+evm.TU.07.1742	Leaf	0	-0.40824829046386296	Leaf	15	
+evm.TU.07.1742	Leaf	0	-0.40824829046386296	Leaf 	15	
+evm.TU.07.1742	Leaf	0	-0.40824829046386296	Petiole	15	
+evm.TU.07.1742	Leaf	0	-0.40824829046386296	Vegetative leaf - fresh cutting	15	
+evm.TU.07.1742	Leaf	0	-0.40824829046386296	Female reproductive leaf	15	
+evm.TU.07.1742	Meristem	0	-0.40824829046386296	Female apical meristem	15	
+evm.TU.07.1742	Meristem	0	-0.40824829046386296	Male apical meristem	15	
+evm.TU.07.1742	Root	0	-0.40824829046386296	Roots	15	
+evm.TU.07.1742	Root	0	-0.40824829046386296	Root	15	
+evm.TU.07.1742	Root	0	-0.40824829046386296	Female root-mid	15	
+evm.TU.07.1742	Root	0	-0.40824829046386296	Female root-tip	15	
+evm.TU.07.1742	Stem	0	-0.40824829046386296	Stem	15	
+evm.TU.07.1742	Stem	0	-0.40824829046386296	Primary stem	15	
+evm.TU.07.1742	Stem	0	-0.40824829046386296	Shoot	15	
+evm.TU.07.1742	Trichome	105.8480304271414	2.041241452319315	Trichomes	15	
+evm.TU.07.1744	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.07.1744	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.07.1744	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.07.1744	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.07.1744	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.07.1744	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.07.1744	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.07.1744	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.07.1744	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.07.1744	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.07.1744	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.07.1744	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.07.1744	Root	0	-0.408248290463863	Roots	15	
+evm.TU.07.1744	Root	0	-0.408248290463863	Root	15	
+evm.TU.07.1744	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.07.1744	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.07.1744	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.07.1744	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.07.1744	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.07.1744	Trichome	45.05533294654904	2.041241452319315	Trichomes	15	
+evm.TU.07.66	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.07.66	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.07.66	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.07.66	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.07.66	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.07.66	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.07.66	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.07.66	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.07.66	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.07.66	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.07.66	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.07.66	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.07.66	Root	0	-0.408248290463863	Roots	15	
+evm.TU.07.66	Root	0	-0.408248290463863	Root	15	
+evm.TU.07.66	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.07.66	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.07.66	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.07.66	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.07.66	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.07.66	Trichome	45.18924858647988	2.041241452319315	Trichomes	15	
+evm.TU.07.69	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.07.69	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.07.69	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.07.69	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.07.69	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.07.69	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.07.69	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.07.69	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.07.69	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.07.69	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.07.69	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.07.69	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.07.69	Root	0	-0.408248290463863	Roots	15	
+evm.TU.07.69	Root	0	-0.408248290463863	Root	15	
+evm.TU.07.69	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.07.69	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.07.69	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.07.69	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.07.69	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.07.69	Trichome	95.1050602716011	2.041241452319315	Trichomes	15	
+evm.TU.07.70	Flower	0	-0.6060028631992553	Female flower	15	
+evm.TU.07.70	Flower	0	-0.6060028631992553	Flower	15	
+evm.TU.07.70	Flower	0	-0.6060028631992553	Male flower	15	
+evm.TU.07.70	Flower	0	-0.6060028631992553	Female reproductive bud	15	
+evm.TU.07.70	Flower	0	-0.6060028631992553	Female floral bud	15	
+evm.TU.07.70	Leaf	0	-0.6060028631992553	Leaf	15	
+evm.TU.07.70	Leaf	0	-0.6060028631992553	Leaf 	15	
+evm.TU.07.70	Leaf	0	-0.6060028631992553	Petiole	15	
+evm.TU.07.70	Leaf	0	-0.6060028631992553	Vegetative leaf - fresh cutting	15	
+evm.TU.07.70	Leaf	0	-0.6060028631992553	Female reproductive leaf	15	
+evm.TU.07.70	Meristem	8.251781638206364	0.6674295804227366	Female apical meristem	15	
+evm.TU.07.70	Meristem	8.251781638206364	0.6674295804227366	Male apical meristem	15	
+evm.TU.07.70	Root	0	-0.6060028631992553	Roots	15	
+evm.TU.07.70	Root	0	-0.6060028631992553	Root	15	
+evm.TU.07.70	Root	0	-0.6060028631992553	Female root-mid	15	
+evm.TU.07.70	Root	0	-0.6060028631992553	Female root-tip	15	
+evm.TU.07.70	Stem	0	-0.6060028631992553	Stem	15	
+evm.TU.07.70	Stem	0	-0.6060028631992553	Primary stem	15	
+evm.TU.07.70	Stem	0	-0.6060028631992553	Shoot	15	
+evm.TU.07.70	Trichome	51.907351005167214	1.7565818723742848	Trichomes	15	
+evm.TU.08.122	Flower	0	-0.5760993510653819	Female flower	15	
+evm.TU.08.122	Flower	0	-0.5760993510653819	Flower	15	
+evm.TU.08.122	Flower	0	-0.5760993510653819	Male flower	15	
+evm.TU.08.122	Flower	0	-0.5760993510653819	Female reproductive bud	15	
+evm.TU.08.122	Flower	0	-0.5760993510653819	Female floral bud	15	
+evm.TU.08.122	Leaf	0	-0.5760993510653819	Leaf	15	
+evm.TU.08.122	Leaf	0	-0.5760993510653819	Leaf 	15	
+evm.TU.08.122	Leaf	0	-0.5760993510653819	Petiole	15	
+evm.TU.08.122	Leaf	0	-0.5760993510653819	Vegetative leaf - fresh cutting	15	
+evm.TU.08.122	Leaf	0	-0.5760993510653819	Female reproductive leaf	15	
+evm.TU.08.122	Meristem	4.395414478666615	0.438996608603077	Female apical meristem	15	
+evm.TU.08.122	Meristem	4.395414478666615	0.438996608603077	Male apical meristem	15	
+evm.TU.08.122	Root	0	-0.5760993510653819	Roots	15	
+evm.TU.08.122	Root	0	-0.5760993510653819	Root	15	
+evm.TU.08.122	Root	0	-0.5760993510653819	Female root-mid	15	
+evm.TU.08.122	Root	0	-0.5760993510653819	Female root-tip	15	
+evm.TU.08.122	Stem	0	-0.5760993510653819	Stem	15	
+evm.TU.08.122	Stem	0	-0.5760993510653819	Primary stem	15	
+evm.TU.08.122	Stem	0	-0.5760993510653819	Shoot	15	
+evm.TU.08.122	Trichome	67.57938433683607	1.8654007956584508	Trichomes	15	
+evm.TU.08.129	Flower	0	-0.40824829046386296	Female flower	15	
+evm.TU.08.129	Flower	0	-0.40824829046386296	Flower	15	
+evm.TU.08.129	Flower	0	-0.40824829046386296	Male flower	15	
+evm.TU.08.129	Flower	0	-0.40824829046386296	Female reproductive bud	15	
+evm.TU.08.129	Flower	0	-0.40824829046386296	Female floral bud	15	
+evm.TU.08.129	Leaf	0	-0.40824829046386296	Leaf	15	
+evm.TU.08.129	Leaf	0	-0.40824829046386296	Leaf 	15	
+evm.TU.08.129	Leaf	0	-0.40824829046386296	Petiole	15	
+evm.TU.08.129	Leaf	0	-0.40824829046386296	Vegetative leaf - fresh cutting	15	
+evm.TU.08.129	Leaf	0	-0.40824829046386296	Female reproductive leaf	15	
+evm.TU.08.129	Meristem	0	-0.40824829046386296	Female apical meristem	15	
+evm.TU.08.129	Meristem	0	-0.40824829046386296	Male apical meristem	15	
+evm.TU.08.129	Root	0	-0.40824829046386296	Roots	15	
+evm.TU.08.129	Root	0	-0.40824829046386296	Root	15	
+evm.TU.08.129	Root	0	-0.40824829046386296	Female root-mid	15	
+evm.TU.08.129	Root	0	-0.40824829046386296	Female root-tip	15	
+evm.TU.08.129	Stem	0	-0.40824829046386296	Stem	15	
+evm.TU.08.129	Stem	0	-0.40824829046386296	Primary stem	15	
+evm.TU.08.129	Stem	0	-0.40824829046386296	Shoot	15	
+evm.TU.08.129	Trichome	119.16356511815042	2.041241452319315	Trichomes	15	
+evm.TU.08.1943	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.08.1943	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.08.1943	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.08.1943	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.08.1943	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.08.1943	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.08.1943	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.08.1943	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.08.1943	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.08.1943	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.08.1943	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.08.1943	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.08.1943	Root	0	-0.408248290463863	Roots	15	
+evm.TU.08.1943	Root	0	-0.408248290463863	Root	15	
+evm.TU.08.1943	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.08.1943	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.08.1943	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.08.1943	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.08.1943	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.08.1943	Trichome	55.153774305048785	2.041241452319315	Trichomes	15	
+evm.TU.08.214	Flower	0	-0.408248290463863	Female flower	15	
+evm.TU.08.214	Flower	0	-0.408248290463863	Flower	15	
+evm.TU.08.214	Flower	0	-0.408248290463863	Male flower	15	
+evm.TU.08.214	Flower	0	-0.408248290463863	Female reproductive bud	15	
+evm.TU.08.214	Flower	0	-0.408248290463863	Female floral bud	15	
+evm.TU.08.214	Leaf	0	-0.408248290463863	Leaf	15	
+evm.TU.08.214	Leaf	0	-0.408248290463863	Leaf 	15	
+evm.TU.08.214	Leaf	0	-0.408248290463863	Petiole	15	
+evm.TU.08.214	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+evm.TU.08.214	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+evm.TU.08.214	Meristem	0	-0.408248290463863	Female apical meristem	15	
+evm.TU.08.214	Meristem	0	-0.408248290463863	Male apical meristem	15	
+evm.TU.08.214	Root	0	-0.408248290463863	Roots	15	
+evm.TU.08.214	Root	0	-0.408248290463863	Root	15	
+evm.TU.08.214	Root	0	-0.408248290463863	Female root-mid	15	
+evm.TU.08.214	Root	0	-0.408248290463863	Female root-tip	15	
+evm.TU.08.214	Stem	0	-0.408248290463863	Stem	15	
+evm.TU.08.214	Stem	0	-0.408248290463863	Primary stem	15	
+evm.TU.08.214	Stem	0	-0.408248290463863	Shoot	15	
+evm.TU.08.214	Trichome	235.9820463871666	2.0412414523193148	Trichomes	15	
+evm.TU.08.5	Flower	0	-0.6408770114897215	Female flower	15	
+evm.TU.08.5	Flower	0	-0.6408770114897215	Flower	15	
+evm.TU.08.5	Flower	0	-0.6408770114897215	Male flower	15	
+evm.TU.08.5	Flower	0	-0.6408770114897215	Female reproductive bud	15	
+evm.TU.08.5	Flower	0	-0.6408770114897215	Female floral bud	15	
+evm.TU.08.5	Leaf	0	-0.6408770114897215	Leaf	15	
+evm.TU.08.5	Leaf	0	-0.6408770114897215	Leaf 	15	
+evm.TU.08.5	Leaf	0	-0.6408770114897215	Petiole	15	
+evm.TU.08.5	Leaf	0	-0.6408770114897215	Vegetative leaf - fresh cutting	15	
+evm.TU.08.5	Leaf	0	-0.6408770114897215	Female reproductive leaf	15	
+evm.TU.08.5	Meristem	17.114291483334068	1.0929156347634346	Female apical meristem	15	
+evm.TU.08.5	Meristem	17.114291483334068	1.0929156347634346	Male apical meristem	15	
+evm.TU.08.5	Root	0	-0.6408770114897215	Roots	15	
+evm.TU.08.5	Root	0	-0.6408770114897215	Root	15	
+evm.TU.08.5	Root	0	-0.6408770114897215	Female root-mid	15	
+evm.TU.08.5	Root	0	-0.6408770114897215	Female root-tip	15	
+evm.TU.08.5	Stem	0	-0.6408770114897215	Stem	15	
+evm.TU.08.5	Stem	0	-0.6408770114897215	Primary stem	15	
+evm.TU.08.5	Stem	0	-0.6408770114897215	Shoot	15	
+evm.TU.08.5	Trichome	33.03286076146932	1.4705924111954518	Trichomes	15	
+evm.TU.08.661	Flower	0	-0.519119700310647	Female flower	15	
+evm.TU.08.661	Flower	0	-0.519119700310647	Flower	15	
+evm.TU.08.661	Flower	0	-0.519119700310647	Male flower	15	
+evm.TU.08.661	Flower	0	-0.519119700310647	Female reproductive bud	15	
+evm.TU.08.661	Flower	0	-0.519119700310647	Female floral bud	15	
+evm.TU.08.661	Leaf	0	-0.519119700310647	Leaf	15	
+evm.TU.08.661	Leaf	0	-0.519119700310647	Leaf 	15	
+evm.TU.08.661	Leaf	0	-0.519119700310647	Petiole	15	
+evm.TU.08.661	Leaf	0	-0.519119700310647	Vegetative leaf - fresh cutting	15	
+evm.TU.08.661	Leaf	0	-0.519119700310647	Female reproductive leaf	15	
+evm.TU.08.661	Meristem	2.8237930548146215	0.09851155677696904	Female apical meristem	15	
+evm.TU.08.661	Meristem	2.8237930548146215	0.09851155677696904	Male apical meristem	15	
+evm.TU.08.661	Root	0	-0.519119700310647	Roots	15	
+evm.TU.08.661	Root	0	-0.519119700310647	Root	15	
+evm.TU.08.661	Root	0	-0.519119700310647	Female root-mid	15	
+evm.TU.08.661	Root	0	-0.519119700310647	Female root-tip	15	
+evm.TU.08.661	Stem	0	-0.519119700310647	Stem	15	
+evm.TU.08.661	Stem	0	-0.519119700310647	Primary stem	15	
+evm.TU.08.661	Stem	0	-0.519119700310647	Shoot	15	
+evm.TU.08.661	Trichome	102.38401524052374	1.9779672444656191	Trichomes	15	
+evm.TU.09.1087	Flower	0	-0.8512116814544685	Female flower	15	
+evm.TU.09.1087	Flower	0	-0.8512116814544685	Flower	15	
+evm.TU.09.1087	Flower	0	-0.8512116814544685	Male flower	15	
+evm.TU.09.1087	Flower	0	-0.8512116814544685	Female reproductive bud	15	
+evm.TU.09.1087	Flower	0	-0.8512116814544685	Female floral bud	15	
+evm.TU.09.1087	Leaf	8.414018881034059	-0.16121683170739196	Leaf	15	
+evm.TU.09.1087	Leaf	8.414018881034059	-0.16121683170739196	Leaf 	15	
+evm.TU.09.1087	Leaf	8.414018881034059	-0.16121683170739196	Petiole	15	
+evm.TU.09.1087	Leaf	8.414018881034059	-0.16121683170739196	Vegetative leaf - fresh cutting	15	
+evm.TU.09.1087	Leaf	8.414018881034059	-0.16121683170739196	Female reproductive leaf	15	
+evm.TU.09.1087	Meristem	0	-0.8512116814544685	Female apical meristem	15	
+evm.TU.09.1087	Meristem	0	-0.8512116814544685	Male apical meristem	15	
+evm.TU.09.1087	Root	31.955514457813113	0.7460922155543462	Roots	15	
+evm.TU.09.1087	Root	31.955514457813113	0.7460922155543462	Root	15	
+evm.TU.09.1087	Root	31.955514457813113	0.7460922155543462	Female root-mid	15	
+evm.TU.09.1087	Root	31.955514457813113	0.7460922155543462	Female root-tip	15	
+evm.TU.09.1087	Stem	1.0858505276477741	-0.523763802654942	Stem	15	
+evm.TU.09.1087	Stem	1.0858505276477741	-0.523763802654942	Primary stem	15	
+evm.TU.09.1087	Stem	1.0858505276477741	-0.523763802654942	Shoot	15	
+evm.TU.09.1087	Trichome	212.55811673201563	1.6413117817169245	Trichomes	15	
+evm.TU.09.233	Flower	0	-0.6018872491995471	Female flower	15	
+evm.TU.09.233	Flower	0	-0.6018872491995471	Flower	15	
+evm.TU.09.233	Flower	0	-0.6018872491995471	Male flower	15	
+evm.TU.09.233	Flower	0	-0.6018872491995471	Female reproductive bud	15	
+evm.TU.09.233	Flower	0	-0.6018872491995471	Female floral bud	15	
+evm.TU.09.233	Leaf	0	-0.6018872491995471	Leaf	15	
+evm.TU.09.233	Leaf	0	-0.6018872491995471	Leaf 	15	
+evm.TU.09.233	Leaf	0	-0.6018872491995471	Petiole	15	
+evm.TU.09.233	Leaf	0	-0.6018872491995471	Vegetative leaf - fresh cutting	15	
+evm.TU.09.233	Leaf	0	-0.6018872491995471	Female reproductive leaf	15	
+evm.TU.09.233	Meristem	0	-0.6018872491995471	Female apical meristem	15	
+evm.TU.09.233	Meristem	0	-0.6018872491995471	Male apical meristem	15	
+evm.TU.09.233	Root	9.685673905549619	0.6324685947835149	Roots	15	
+evm.TU.09.233	Root	9.685673905549619	0.6324685947835149	Root	15	
+evm.TU.09.233	Root	9.685673905549619	0.6324685947835149	Female root-mid	15	
+evm.TU.09.233	Root	9.685673905549619	0.6324685947835149	Female root-tip	15	
+evm.TU.09.233	Stem	0	-0.6018872491995471	Stem	15	
+evm.TU.09.233	Stem	0	-0.6018872491995471	Primary stem	15	
+evm.TU.09.233	Stem	0	-0.6018872491995471	Shoot	15	
+evm.TU.09.233	Trichome	36.18177507398843	1.7750804020146735	Trichomes	15	
+evm.TU.10.1538	Flower	0	-0.47860294026987	Female flower	15	
+evm.TU.10.1538	Flower	0	-0.47860294026987	Flower	15	
+evm.TU.10.1538	Flower	0	-0.47860294026987	Male flower	15	
+evm.TU.10.1538	Flower	0	-0.47860294026987	Female reproductive bud	15	
+evm.TU.10.1538	Flower	0	-0.47860294026987	Female floral bud	15	
+evm.TU.10.1538	Leaf	0	-0.47860294026987	Leaf	15	
+evm.TU.10.1538	Leaf	0	-0.47860294026987	Leaf 	15	
+evm.TU.10.1538	Leaf	0	-0.47860294026987	Petiole	15	
+evm.TU.10.1538	Leaf	0	-0.47860294026987	Vegetative leaf - fresh cutting	15	
+evm.TU.10.1538	Leaf	0	-0.47860294026987	Female reproductive leaf	15	
+evm.TU.10.1538	Meristem	0	-0.47860294026987	Female apical meristem	15	
+evm.TU.10.1538	Meristem	0	-0.47860294026987	Male apical meristem	15	
+evm.TU.10.1538	Root	0.970499128255956	-0.10375375742497137	Roots	15	
+evm.TU.10.1538	Root	0.970499128255956	-0.10375375742497137	Root	15	
+evm.TU.10.1538	Root	0.970499128255956	-0.10375375742497137	Female root-mid	15	
+evm.TU.10.1538	Root	0.970499128255956	-0.10375375742497137	Female root-tip	15	
+evm.TU.10.1538	Stem	0	-0.47860294026987	Stem	15	
+evm.TU.10.1538	Stem	0	-0.47860294026987	Primary stem	15	
+evm.TU.10.1538	Stem	0	-0.47860294026987	Shoot	15	
+evm.TU.10.1538	Trichome	83.5365952373763	2.0181655185044516	Trichomes	15	
+evm.TU.10.2115	Flower	0	-0.5971763359134593	Female flower	15	
+evm.TU.10.2115	Flower	0	-0.5971763359134593	Flower	15	
+evm.TU.10.2115	Flower	0	-0.5971763359134593	Male flower	15	
+evm.TU.10.2115	Flower	0	-0.5971763359134593	Female reproductive bud	15	
+evm.TU.10.2115	Flower	0	-0.5971763359134593	Female floral bud	15	
+evm.TU.10.2115	Leaf	0	-0.5971763359134593	Leaf	15	
+evm.TU.10.2115	Leaf	0	-0.5971763359134593	Leaf 	15	
+evm.TU.10.2115	Leaf	0	-0.5971763359134593	Petiole	15	
+evm.TU.10.2115	Leaf	0	-0.5971763359134593	Vegetative leaf - fresh cutting	15	
+evm.TU.10.2115	Leaf	0	-0.5971763359134593	Female reproductive leaf	15	
+evm.TU.10.2115	Meristem	0	-0.5971763359134593	Female apical meristem	15	
+evm.TU.10.2115	Meristem	0	-0.5971763359134593	Male apical meristem	15	
+evm.TU.10.2115	Root	5.402284522529279	0.594117265548806	Roots	15	
+evm.TU.10.2115	Root	5.402284522529279	0.594117265548806	Root	15	
+evm.TU.10.2115	Root	5.402284522529279	0.594117265548806	Female root-mid	15	
+evm.TU.10.2115	Root	5.402284522529279	0.594117265548806	Female root-tip	15	
+evm.TU.10.2115	Stem	0	-0.5971763359134593	Stem	15	
+evm.TU.10.2115	Stem	0	-0.5971763359134593	Primary stem	15	
+evm.TU.10.2115	Stem	0	-0.5971763359134593	Shoot	15	
+evm.TU.10.2115	Trichome	41.08593528310384	1.7945880781050312	Trichomes	15	
+evm.TU.10.2175	Flower	0	-0.626615675483234	Female flower	15	
+evm.TU.10.2175	Flower	0	-0.626615675483234	Flower	15	
+evm.TU.10.2175	Flower	0	-0.626615675483234	Male flower	15	
+evm.TU.10.2175	Flower	0	-0.626615675483234	Female reproductive bud	15	
+evm.TU.10.2175	Flower	0	-0.626615675483234	Female floral bud	15	
+evm.TU.10.2175	Leaf	0	-0.626615675483234	Leaf	15	
+evm.TU.10.2175	Leaf	0	-0.626615675483234	Leaf 	15	
+evm.TU.10.2175	Leaf	0	-0.626615675483234	Petiole	15	
+evm.TU.10.2175	Leaf	0	-0.626615675483234	Vegetative leaf - fresh cutting	15	
+evm.TU.10.2175	Leaf	0	-0.626615675483234	Female reproductive leaf	15	
+evm.TU.10.2175	Meristem	17.365218294375396	0.8736042030540174	Female apical meristem	15	
+evm.TU.10.2175	Meristem	17.365218294375396	0.8736042030540174	Male apical meristem	15	
+evm.TU.10.2175	Root	0	-0.626615675483234	Roots	15	
+evm.TU.10.2175	Root	0	-0.626615675483234	Root	15	
+evm.TU.10.2175	Root	0	-0.626615675483234	Female root-mid	15	
+evm.TU.10.2175	Root	0	-0.626615675483234	Female root-tip	15	
+evm.TU.10.2175	Stem	0	-0.626615675483234	Stem	15	
+evm.TU.10.2175	Stem	0	-0.626615675483234	Primary stem	15	
+evm.TU.10.2175	Stem	0	-0.626615675483234	Shoot	15	
+evm.TU.10.2175	Trichome	80.32228861669877	1.6328584988789188	Trichomes	15	
+evm.TU.10.280	Flower	0	-0.4082482904638631	Female flower	15	
+evm.TU.10.280	Flower	0	-0.4082482904638631	Flower	15	
+evm.TU.10.280	Flower	0	-0.4082482904638631	Male flower	15	
+evm.TU.10.280	Flower	0	-0.4082482904638631	Female reproductive bud	15	
+evm.TU.10.280	Flower	0	-0.4082482904638631	Female floral bud	15	
+evm.TU.10.280	Leaf	0	-0.4082482904638631	Leaf	15	
+evm.TU.10.280	Leaf	0	-0.4082482904638631	Leaf 	15	
+evm.TU.10.280	Leaf	0	-0.4082482904638631	Petiole	15	
+evm.TU.10.280	Leaf	0	-0.4082482904638631	Vegetative leaf - fresh cutting	15	
+evm.TU.10.280	Leaf	0	-0.4082482904638631	Female reproductive leaf	15	
+evm.TU.10.280	Meristem	0	-0.4082482904638631	Female apical meristem	15	
+evm.TU.10.280	Meristem	0	-0.4082482904638631	Male apical meristem	15	
+evm.TU.10.280	Root	0	-0.4082482904638631	Roots	15	
+evm.TU.10.280	Root	0	-0.4082482904638631	Root	15	
+evm.TU.10.280	Root	0	-0.4082482904638631	Female root-mid	15	
+evm.TU.10.280	Root	0	-0.4082482904638631	Female root-tip	15	
+evm.TU.10.280	Stem	0	-0.4082482904638631	Stem	15	
+evm.TU.10.280	Stem	0	-0.4082482904638631	Primary stem	15	
+evm.TU.10.280	Stem	0	-0.4082482904638631	Shoot	15	
+evm.TU.10.280	Trichome	37.704113867617465	2.0412414523193156	Trichomes	15	
+evm.TU.10.836	Flower	0	-0.5945056542836958	Female flower	15	
+evm.TU.10.836	Flower	0	-0.5945056542836958	Flower	15	
+evm.TU.10.836	Flower	0	-0.5945056542836958	Male flower	15	
+evm.TU.10.836	Flower	0	-0.5945056542836958	Female reproductive bud	15	
+evm.TU.10.836	Flower	0	-0.5945056542836958	Female floral bud	15	
+evm.TU.10.836	Leaf	0	-0.5945056542836958	Leaf	15	
+evm.TU.10.836	Leaf	0	-0.5945056542836958	Leaf 	15	
+evm.TU.10.836	Leaf	0	-0.5945056542836958	Petiole	15	
+evm.TU.10.836	Leaf	0	-0.5945056542836958	Vegetative leaf - fresh cutting	15	
+evm.TU.10.836	Leaf	0	-0.5945056542836958	Female reproductive leaf	15	
+evm.TU.10.836	Meristem	0	-0.5945056542836958	Female apical meristem	15	
+evm.TU.10.836	Meristem	0	-0.5945056542836958	Male apical meristem	15	
+evm.TU.10.836	Root	4.753899358855007	0.5730744918821988	Roots	15	
+evm.TU.10.836	Root	4.753899358855007	0.5730744918821988	Root	15	
+evm.TU.10.836	Root	4.753899358855007	0.5730744918821988	Female root-mid	15	
+evm.TU.10.836	Root	4.753899358855007	0.5730744918821988	Female root-tip	15	
+evm.TU.10.836	Stem	0	-0.5945056542836958	Stem	15	
+evm.TU.10.836	Stem	0	-0.5945056542836958	Primary stem	15	
+evm.TU.10.836	Stem	0	-0.5945056542836958	Shoot	15	
+evm.TU.10.836	Trichome	32.73518320086535	1.8049481252525847	Trichomes	15	
+novel_gene_1011_5bd9a17a	Flower	0	-0.617275886712148	Female flower	15	
+novel_gene_1011_5bd9a17a	Flower	0	-0.617275886712148	Flower	15	
+novel_gene_1011_5bd9a17a	Flower	0	-0.617275886712148	Male flower	15	
+novel_gene_1011_5bd9a17a	Flower	0	-0.617275886712148	Female reproductive bud	15	
+novel_gene_1011_5bd9a17a	Flower	0	-0.617275886712148	Female floral bud	15	
+novel_gene_1011_5bd9a17a	Leaf	0	-0.617275886712148	Leaf	15	
+novel_gene_1011_5bd9a17a	Leaf	0	-0.617275886712148	Leaf 	15	
+novel_gene_1011_5bd9a17a	Leaf	0	-0.617275886712148	Petiole	15	
+novel_gene_1011_5bd9a17a	Leaf	0	-0.617275886712148	Vegetative leaf - fresh cutting	15	
+novel_gene_1011_5bd9a17a	Leaf	0	-0.617275886712148	Female reproductive leaf	15	
+novel_gene_1011_5bd9a17a	Meristem	13.382451495844236	0.7721419139896288	Female apical meristem	15	
+novel_gene_1011_5bd9a17a	Meristem	13.382451495844236	0.7721419139896288	Male apical meristem	15	
+novel_gene_1011_5bd9a17a	Root	0	-0.617275886712148	Roots	15	
+novel_gene_1011_5bd9a17a	Root	0	-0.617275886712148	Root	15	
+novel_gene_1011_5bd9a17a	Root	0	-0.617275886712148	Female root-mid	15	
+novel_gene_1011_5bd9a17a	Root	0	-0.617275886712148	Female root-tip	15	
+novel_gene_1011_5bd9a17a	Stem	0	-0.617275886712148	Stem	15	
+novel_gene_1011_5bd9a17a	Stem	0	-0.617275886712148	Primary stem	15	
+novel_gene_1011_5bd9a17a	Stem	0	-0.617275886712148	Shoot	15	
+novel_gene_1011_5bd9a17a	Trichome	42.08584766584576	1.696961632858963	Trichomes	15	
+novel_gene_1015_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_1015_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_1015_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_1015_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_1015_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_1015_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_1015_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_1015_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_1015_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_1015_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_1015_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_1015_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_1015_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_1015_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_1015_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_1015_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_1015_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_1015_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_1015_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_1015_5bd9a17a	Trichome	23.288772074014545	2.0412414523193148	Trichomes	15	
+novel_gene_1074_5bd9a17a	Flower	0	-0.6259329730772729	Female flower	15	
+novel_gene_1074_5bd9a17a	Flower	0	-0.6259329730772729	Flower	15	
+novel_gene_1074_5bd9a17a	Flower	0	-0.6259329730772729	Male flower	15	
+novel_gene_1074_5bd9a17a	Flower	0	-0.6259329730772729	Female reproductive bud	15	
+novel_gene_1074_5bd9a17a	Flower	0	-0.6259329730772729	Female floral bud	15	
+novel_gene_1074_5bd9a17a	Leaf	0	-0.6259329730772729	Leaf	15	
+novel_gene_1074_5bd9a17a	Leaf	0	-0.6259329730772729	Leaf 	15	
+novel_gene_1074_5bd9a17a	Leaf	0	-0.6259329730772729	Petiole	15	
+novel_gene_1074_5bd9a17a	Leaf	0	-0.6259329730772729	Vegetative leaf - fresh cutting	15	
+novel_gene_1074_5bd9a17a	Leaf	0	-0.6259329730772729	Female reproductive leaf	15	
+novel_gene_1074_5bd9a17a	Meristem	17.37100806055355	0.8655403331182422	Female apical meristem	15	
+novel_gene_1074_5bd9a17a	Meristem	17.37100806055355	0.8655403331182422	Male apical meristem	15	
+novel_gene_1074_5bd9a17a	Root	0	-0.6259329730772729	Roots	15	
+novel_gene_1074_5bd9a17a	Root	0	-0.6259329730772729	Root	15	
+novel_gene_1074_5bd9a17a	Root	0	-0.6259329730772729	Female root-mid	15	
+novel_gene_1074_5bd9a17a	Root	0	-0.6259329730772729	Female root-tip	15	
+novel_gene_1074_5bd9a17a	Stem	0	-0.6259329730772729	Stem	15	
+novel_gene_1074_5bd9a17a	Stem	0	-0.6259329730772729	Primary stem	15	
+novel_gene_1074_5bd9a17a	Stem	0	-0.6259329730772729	Shoot	15	
+novel_gene_1074_5bd9a17a	Trichome	117.76303624766796	1.6381915591908494	Trichomes	15	
+novel_gene_1088_5bd9a17a	Flower	0	-0.6655990523859333	Female flower	15	
+novel_gene_1088_5bd9a17a	Flower	0	-0.6655990523859333	Flower	15	
+novel_gene_1088_5bd9a17a	Flower	0	-0.6655990523859333	Male flower	15	
+novel_gene_1088_5bd9a17a	Flower	0	-0.6655990523859333	Female reproductive bud	15	
+novel_gene_1088_5bd9a17a	Flower	0	-0.6655990523859333	Female floral bud	15	
+novel_gene_1088_5bd9a17a	Leaf	4.118361525929074	0.113477965748945	Leaf	15	
+novel_gene_1088_5bd9a17a	Leaf	4.118361525929074	0.113477965748945	Leaf 	15	
+novel_gene_1088_5bd9a17a	Leaf	4.118361525929074	0.113477965748945	Petiole	15	
+novel_gene_1088_5bd9a17a	Leaf	4.118361525929074	0.113477965748945	Vegetative leaf - fresh cutting	15	
+novel_gene_1088_5bd9a17a	Leaf	4.118361525929074	0.113477965748945	Female reproductive leaf	15	
+novel_gene_1088_5bd9a17a	Meristem	0	-0.6655990523859333	Female apical meristem	15	
+novel_gene_1088_5bd9a17a	Meristem	0	-0.6655990523859333	Male apical meristem	15	
+novel_gene_1088_5bd9a17a	Root	0	-0.6655990523859333	Roots	15	
+novel_gene_1088_5bd9a17a	Root	0	-0.6655990523859333	Root	15	
+novel_gene_1088_5bd9a17a	Root	0	-0.6655990523859333	Female root-mid	15	
+novel_gene_1088_5bd9a17a	Root	0	-0.6655990523859333	Female root-tip	15	
+novel_gene_1088_5bd9a17a	Stem	1.6778634834003212	-0.02906458430601047	Stem	15	
+novel_gene_1088_5bd9a17a	Stem	1.6778634834003212	-0.02906458430601047	Primary stem	15	
+novel_gene_1088_5bd9a17a	Stem	1.6778634834003212	-0.02906458430601047	Shoot	15	
+novel_gene_1088_5bd9a17a	Trichome	41.72593137458493	1.9123837757148652	Trichomes	15	
+novel_gene_1168_5bd9a17a	Flower	0	-0.5832859117732497	Female flower	15	
+novel_gene_1168_5bd9a17a	Flower	0	-0.5832859117732497	Flower	15	
+novel_gene_1168_5bd9a17a	Flower	0	-0.5832859117732497	Male flower	15	
+novel_gene_1168_5bd9a17a	Flower	0	-0.5832859117732497	Female reproductive bud	15	
+novel_gene_1168_5bd9a17a	Flower	0	-0.5832859117732497	Female floral bud	15	
+novel_gene_1168_5bd9a17a	Leaf	0	-0.5832859117732497	Leaf	15	
+novel_gene_1168_5bd9a17a	Leaf	0	-0.5832859117732497	Leaf 	15	
+novel_gene_1168_5bd9a17a	Leaf	0	-0.5832859117732497	Petiole	15	
+novel_gene_1168_5bd9a17a	Leaf	0	-0.5832859117732497	Vegetative leaf - fresh cutting	15	
+novel_gene_1168_5bd9a17a	Leaf	0	-0.5832859117732497	Female reproductive leaf	15	
+novel_gene_1168_5bd9a17a	Meristem	6.1290387548027665	0.48932351549317377	Female apical meristem	15	
+novel_gene_1168_5bd9a17a	Meristem	6.1290387548027665	0.48932351549317377	Male apical meristem	15	
+novel_gene_1168_5bd9a17a	Root	0	-0.5832859117732497	Roots	15	
+novel_gene_1168_5bd9a17a	Root	0	-0.5832859117732497	Root	15	
+novel_gene_1168_5bd9a17a	Root	0	-0.5832859117732497	Female root-mid	15	
+novel_gene_1168_5bd9a17a	Root	0	-0.5832859117732497	Female root-tip	15	
+novel_gene_1168_5bd9a17a	Stem	0	-0.5832859117732497	Stem	15	
+novel_gene_1168_5bd9a17a	Stem	0	-0.5832859117732497	Primary stem	15	
+novel_gene_1168_5bd9a17a	Stem	0	-0.5832859117732497	Shoot	15	
+novel_gene_1168_5bd9a17a	Trichome	65.7282870020047	1.8438201315998253	Trichomes	15	
+novel_gene_117_5bd9a17a	Flower	0	-0.6367488426828453	Female flower	15	
+novel_gene_117_5bd9a17a	Flower	0	-0.6367488426828453	Flower	15	
+novel_gene_117_5bd9a17a	Flower	0	-0.6367488426828453	Male flower	15	
+novel_gene_117_5bd9a17a	Flower	0	-0.6367488426828453	Female reproductive bud	15	
+novel_gene_117_5bd9a17a	Flower	0	-0.6367488426828453	Female floral bud	15	
+novel_gene_117_5bd9a17a	Leaf	0	-0.6367488426828453	Leaf	15	
+novel_gene_117_5bd9a17a	Leaf	0	-0.6367488426828453	Leaf 	15	
+novel_gene_117_5bd9a17a	Leaf	0	-0.6367488426828453	Petiole	15	
+novel_gene_117_5bd9a17a	Leaf	0	-0.6367488426828453	Vegetative leaf - fresh cutting	15	
+novel_gene_117_5bd9a17a	Leaf	0	-0.6367488426828453	Female reproductive leaf	15	
+novel_gene_117_5bd9a17a	Meristem	0	-0.6367488426828453	Female apical meristem	15	
+novel_gene_117_5bd9a17a	Meristem	0	-0.6367488426828453	Male apical meristem	15	
+novel_gene_117_5bd9a17a	Root	24.854550237556616	1.0140647112618904	Roots	15	
+novel_gene_117_5bd9a17a	Root	24.854550237556616	1.0140647112618904	Root	15	
+novel_gene_117_5bd9a17a	Root	24.854550237556616	1.0140647112618904	Female root-mid	15	
+novel_gene_117_5bd9a17a	Root	24.854550237556616	1.0140647112618904	Female root-tip	15	
+novel_gene_117_5bd9a17a	Stem	0	-0.6367488426828453	Stem	15	
+novel_gene_117_5bd9a17a	Stem	0	-0.6367488426828453	Primary stem	15	
+novel_gene_117_5bd9a17a	Stem	0	-0.6367488426828453	Shoot	15	
+novel_gene_117_5bd9a17a	Trichome	49.52438808840194	1.5329306594694907	Trichomes	15	
+novel_gene_1215_5bd9a17a	Flower	0	-0.4082482904638631	Female flower	15	
+novel_gene_1215_5bd9a17a	Flower	0	-0.4082482904638631	Flower	15	
+novel_gene_1215_5bd9a17a	Flower	0	-0.4082482904638631	Male flower	15	
+novel_gene_1215_5bd9a17a	Flower	0	-0.4082482904638631	Female reproductive bud	15	
+novel_gene_1215_5bd9a17a	Flower	0	-0.4082482904638631	Female floral bud	15	
+novel_gene_1215_5bd9a17a	Leaf	0	-0.4082482904638631	Leaf	15	
+novel_gene_1215_5bd9a17a	Leaf	0	-0.4082482904638631	Leaf 	15	
+novel_gene_1215_5bd9a17a	Leaf	0	-0.4082482904638631	Petiole	15	
+novel_gene_1215_5bd9a17a	Leaf	0	-0.4082482904638631	Vegetative leaf - fresh cutting	15	
+novel_gene_1215_5bd9a17a	Leaf	0	-0.4082482904638631	Female reproductive leaf	15	
+novel_gene_1215_5bd9a17a	Meristem	0	-0.4082482904638631	Female apical meristem	15	
+novel_gene_1215_5bd9a17a	Meristem	0	-0.4082482904638631	Male apical meristem	15	
+novel_gene_1215_5bd9a17a	Root	0	-0.4082482904638631	Roots	15	
+novel_gene_1215_5bd9a17a	Root	0	-0.4082482904638631	Root	15	
+novel_gene_1215_5bd9a17a	Root	0	-0.4082482904638631	Female root-mid	15	
+novel_gene_1215_5bd9a17a	Root	0	-0.4082482904638631	Female root-tip	15	
+novel_gene_1215_5bd9a17a	Stem	0	-0.4082482904638631	Stem	15	
+novel_gene_1215_5bd9a17a	Stem	0	-0.4082482904638631	Primary stem	15	
+novel_gene_1215_5bd9a17a	Stem	0	-0.4082482904638631	Shoot	15	
+novel_gene_1215_5bd9a17a	Trichome	23.915685576394807	2.041241452319315	Trichomes	15	
+novel_gene_1219_5bd9a17a	Flower	0	-0.5319251784817899	Female flower	15	
+novel_gene_1219_5bd9a17a	Flower	0	-0.5319251784817899	Flower	15	
+novel_gene_1219_5bd9a17a	Flower	0	-0.5319251784817899	Male flower	15	
+novel_gene_1219_5bd9a17a	Flower	0	-0.5319251784817899	Female reproductive bud	15	
+novel_gene_1219_5bd9a17a	Flower	0	-0.5319251784817899	Female floral bud	15	
+novel_gene_1219_5bd9a17a	Leaf	0	-0.5319251784817899	Leaf	15	
+novel_gene_1219_5bd9a17a	Leaf	0	-0.5319251784817899	Leaf 	15	
+novel_gene_1219_5bd9a17a	Leaf	0	-0.5319251784817899	Petiole	15	
+novel_gene_1219_5bd9a17a	Leaf	0	-0.5319251784817899	Vegetative leaf - fresh cutting	15	
+novel_gene_1219_5bd9a17a	Leaf	0	-0.5319251784817899	Female reproductive leaf	15	
+novel_gene_1219_5bd9a17a	Meristem	3.8552439452886307	0.16811957878148767	Female apical meristem	15	
+novel_gene_1219_5bd9a17a	Meristem	3.8552439452886307	0.16811957878148767	Male apical meristem	15	
+novel_gene_1219_5bd9a17a	Root	0	-0.5319251784817899	Roots	15	
+novel_gene_1219_5bd9a17a	Root	0	-0.5319251784817899	Root	15	
+novel_gene_1219_5bd9a17a	Root	0	-0.5319251784817899	Female root-mid	15	
+novel_gene_1219_5bd9a17a	Root	0	-0.5319251784817899	Female root-tip	15	
+novel_gene_1219_5bd9a17a	Stem	0	-0.5319251784817899	Stem	15	
+novel_gene_1219_5bd9a17a	Stem	0	-0.5319251784817899	Primary stem	15	
+novel_gene_1219_5bd9a17a	Stem	0	-0.5319251784817899	Shoot	15	
+novel_gene_1219_5bd9a17a	Trichome	136.92075334828982	1.9595811351456713	Trichomes	15	
+novel_gene_1377_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_1377_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_1377_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_1377_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_1377_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_1377_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_1377_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_1377_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_1377_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_1377_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_1377_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_1377_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_1377_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_1377_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_1377_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_1377_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_1377_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_1377_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_1377_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_1377_5bd9a17a	Trichome	323.9779226971836	2.0412414523193148	Trichomes	15	
+novel_gene_1398_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_1398_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_1398_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_1398_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_1398_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_1398_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_1398_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_1398_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_1398_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_1398_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_1398_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_1398_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_1398_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_1398_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_1398_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_1398_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_1398_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_1398_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_1398_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_1398_5bd9a17a	Trichome	361.86963655375996	2.0412414523193148	Trichomes	15	
+novel_gene_1443_5bd9a17a	Flower	0	-0.5656863962307342	Female flower	15	
+novel_gene_1443_5bd9a17a	Flower	0	-0.5656863962307342	Flower	15	
+novel_gene_1443_5bd9a17a	Flower	0	-0.5656863962307342	Male flower	15	
+novel_gene_1443_5bd9a17a	Flower	0	-0.5656863962307342	Female reproductive bud	15	
+novel_gene_1443_5bd9a17a	Flower	0	-0.5656863962307342	Female floral bud	15	
+novel_gene_1443_5bd9a17a	Leaf	0	-0.5656863962307342	Leaf	15	
+novel_gene_1443_5bd9a17a	Leaf	0	-0.5656863962307342	Leaf 	15	
+novel_gene_1443_5bd9a17a	Leaf	0	-0.5656863962307342	Petiole	15	
+novel_gene_1443_5bd9a17a	Leaf	0	-0.5656863962307342	Vegetative leaf - fresh cutting	15	
+novel_gene_1443_5bd9a17a	Leaf	0	-0.5656863962307342	Female reproductive leaf	15	
+novel_gene_1443_5bd9a17a	Meristem	0	-0.5656863962307342	Female apical meristem	15	
+novel_gene_1443_5bd9a17a	Meristem	0	-0.5656863962307342	Male apical meristem	15	
+novel_gene_1443_5bd9a17a	Root	12.387473701968506	0.36979981058979744	Roots	15	
+novel_gene_1443_5bd9a17a	Root	12.387473701968506	0.36979981058979744	Root	15	
+novel_gene_1443_5bd9a17a	Root	12.387473701968506	0.36979981058979744	Female root-mid	15	
+novel_gene_1443_5bd9a17a	Root	12.387473701968506	0.36979981058979744	Female root-tip	15	
+novel_gene_1443_5bd9a17a	Stem	0	-0.5656863962307342	Stem	15	
+novel_gene_1443_5bd9a17a	Stem	0	-0.5656863962307342	Primary stem	15	
+novel_gene_1443_5bd9a17a	Stem	0	-0.5656863962307342	Shoot	15	
+novel_gene_1443_5bd9a17a	Trichome	32.22846920350656	1.8929457743331393	Trichomes	15	
+novel_gene_1501_5bd9a17a	Flower	0	-0.8004729554582739	Female flower	15	
+novel_gene_1501_5bd9a17a	Flower	0	-0.8004729554582739	Flower	15	
+novel_gene_1501_5bd9a17a	Flower	0	-0.8004729554582739	Male flower	15	
+novel_gene_1501_5bd9a17a	Flower	0	-0.8004729554582739	Female reproductive bud	15	
+novel_gene_1501_5bd9a17a	Flower	0	-0.8004729554582739	Female floral bud	15	
+novel_gene_1501_5bd9a17a	Leaf	2.9682035162021467	0.03372455997480786	Leaf	15	
+novel_gene_1501_5bd9a17a	Leaf	2.9682035162021467	0.03372455997480786	Leaf 	15	
+novel_gene_1501_5bd9a17a	Leaf	2.9682035162021467	0.03372455997480786	Petiole	15	
+novel_gene_1501_5bd9a17a	Leaf	2.9682035162021467	0.03372455997480786	Vegetative leaf - fresh cutting	15	
+novel_gene_1501_5bd9a17a	Leaf	2.9682035162021467	0.03372455997480786	Female reproductive leaf	15	
+novel_gene_1501_5bd9a17a	Meristem	0	-0.8004729554582739	Female apical meristem	15	
+novel_gene_1501_5bd9a17a	Meristem	0	-0.8004729554582739	Male apical meristem	15	
+novel_gene_1501_5bd9a17a	Root	18.38975143355109	0.8139798577312989	Roots	15	
+novel_gene_1501_5bd9a17a	Root	18.38975143355109	0.8139798577312989	Root	15	
+novel_gene_1501_5bd9a17a	Root	18.38975143355109	0.8139798577312989	Female root-mid	15	
+novel_gene_1501_5bd9a17a	Root	18.38975143355109	0.8139798577312989	Female root-tip	15	
+novel_gene_1501_5bd9a17a	Stem	0	-0.8004729554582739	Stem	15	
+novel_gene_1501_5bd9a17a	Stem	0	-0.8004729554582739	Primary stem	15	
+novel_gene_1501_5bd9a17a	Stem	0	-0.8004729554582739	Shoot	15	
+novel_gene_1501_5bd9a17a	Trichome	37.15142163301756	1.5537144486687147	Trichomes	15	
+novel_gene_1514_5bd9a17a	Flower	0	-0.8036133717979809	Female flower	15	
+novel_gene_1514_5bd9a17a	Flower	0	-0.8036133717979809	Flower	15	
+novel_gene_1514_5bd9a17a	Flower	0	-0.8036133717979809	Male flower	15	
+novel_gene_1514_5bd9a17a	Flower	0	-0.8036133717979809	Female reproductive bud	15	
+novel_gene_1514_5bd9a17a	Flower	0	-0.8036133717979809	Female floral bud	15	
+novel_gene_1514_5bd9a17a	Leaf	0	-0.8036133717979809	Leaf	15	
+novel_gene_1514_5bd9a17a	Leaf	0	-0.8036133717979809	Leaf 	15	
+novel_gene_1514_5bd9a17a	Leaf	0	-0.8036133717979809	Petiole	15	
+novel_gene_1514_5bd9a17a	Leaf	0	-0.8036133717979809	Vegetative leaf - fresh cutting	15	
+novel_gene_1514_5bd9a17a	Leaf	0	-0.8036133717979809	Female reproductive leaf	15	
+novel_gene_1514_5bd9a17a	Meristem	21.929421290796515	0.85689448433271	Female apical meristem	15	
+novel_gene_1514_5bd9a17a	Meristem	21.929421290796515	0.85689448433271	Male apical meristem	15	
+novel_gene_1514_5bd9a17a	Root	0	-0.8036133717979809	Roots	15	
+novel_gene_1514_5bd9a17a	Root	0	-0.8036133717979809	Root	15	
+novel_gene_1514_5bd9a17a	Root	0	-0.8036133717979809	Female root-mid	15	
+novel_gene_1514_5bd9a17a	Root	0	-0.8036133717979809	Female root-tip	15	
+novel_gene_1514_5bd9a17a	Stem	6.2743291248863775	0.028315692217322917	Stem	15	
+novel_gene_1514_5bd9a17a	Stem	6.2743291248863775	0.028315692217322917	Primary stem	15	
+novel_gene_1514_5bd9a17a	Stem	6.2743291248863775	0.028315692217322917	Shoot	15	
+novel_gene_1514_5bd9a17a	Trichome	63.33873924090341	1.5256299388439098	Trichomes	15	
+novel_gene_1708_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_1708_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_1708_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_1708_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_1708_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_1708_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_1708_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_1708_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_1708_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_1708_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_1708_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_1708_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_1708_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_1708_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_1708_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_1708_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_1708_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_1708_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_1708_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_1708_5bd9a17a	Trichome	25.69300389106998	2.0412414523193148	Trichomes	15	
+novel_gene_1838_5bd9a17a	Flower	0	-0.5903353028353461	Female flower	15	
+novel_gene_1838_5bd9a17a	Flower	0	-0.5903353028353461	Flower	15	
+novel_gene_1838_5bd9a17a	Flower	0	-0.5903353028353461	Male flower	15	
+novel_gene_1838_5bd9a17a	Flower	0	-0.5903353028353461	Female reproductive bud	15	
+novel_gene_1838_5bd9a17a	Flower	0	-0.5903353028353461	Female floral bud	15	
+novel_gene_1838_5bd9a17a	Leaf	0	-0.5903353028353461	Leaf	15	
+novel_gene_1838_5bd9a17a	Leaf	0	-0.5903353028353461	Leaf 	15	
+novel_gene_1838_5bd9a17a	Leaf	0	-0.5903353028353461	Petiole	15	
+novel_gene_1838_5bd9a17a	Leaf	0	-0.5903353028353461	Vegetative leaf - fresh cutting	15	
+novel_gene_1838_5bd9a17a	Leaf	0	-0.5903353028353461	Female reproductive leaf	15	
+novel_gene_1838_5bd9a17a	Meristem	8.846651569203997	0.5411196840406777	Female apical meristem	15	
+novel_gene_1838_5bd9a17a	Meristem	8.846651569203997	0.5411196840406777	Male apical meristem	15	
+novel_gene_1838_5bd9a17a	Root	0	-0.5903353028353461	Roots	15	
+novel_gene_1838_5bd9a17a	Root	0	-0.5903353028353461	Root	15	
+novel_gene_1838_5bd9a17a	Root	0	-0.5903353028353461	Female root-mid	15	
+novel_gene_1838_5bd9a17a	Root	0	-0.5903353028353461	Female root-tip	15	
+novel_gene_1838_5bd9a17a	Stem	0	-0.5903353028353461	Stem	15	
+novel_gene_1838_5bd9a17a	Stem	0	-0.5903353028353461	Primary stem	15	
+novel_gene_1838_5bd9a17a	Stem	0	-0.5903353028353461	Shoot	15	
+novel_gene_1838_5bd9a17a	Trichome	128.21463053498007	1.8202215273007067	Trichomes	15	
+novel_gene_183_5bd9a17a	Flower	0	-0.503210249919648	Female flower	15	
+novel_gene_183_5bd9a17a	Flower	0	-0.503210249919648	Flower	15	
+novel_gene_183_5bd9a17a	Flower	0	-0.503210249919648	Male flower	15	
+novel_gene_183_5bd9a17a	Flower	0	-0.503210249919648	Female reproductive bud	15	
+novel_gene_183_5bd9a17a	Flower	0	-0.503210249919648	Female floral bud	15	
+novel_gene_183_5bd9a17a	Leaf	0	-0.503210249919648	Leaf	15	
+novel_gene_183_5bd9a17a	Leaf	0	-0.503210249919648	Leaf 	15	
+novel_gene_183_5bd9a17a	Leaf	0	-0.503210249919648	Petiole	15	
+novel_gene_183_5bd9a17a	Leaf	0	-0.503210249919648	Vegetative leaf - fresh cutting	15	
+novel_gene_183_5bd9a17a	Leaf	0	-0.503210249919648	Female reproductive leaf	15	
+novel_gene_183_5bd9a17a	Meristem	0	-0.503210249919648	Female apical meristem	15	
+novel_gene_183_5bd9a17a	Meristem	0	-0.503210249919648	Male apical meristem	15	
+novel_gene_183_5bd9a17a	Root	2.9706925871384122	0.016129297083847617	Roots	15	
+novel_gene_183_5bd9a17a	Root	2.9706925871384122	0.016129297083847617	Root	15	
+novel_gene_183_5bd9a17a	Root	2.9706925871384122	0.016129297083847617	Female root-mid	15	
+novel_gene_183_5bd9a17a	Root	2.9706925871384122	0.016129297083847617	Female root-tip	15	
+novel_gene_183_5bd9a17a	Stem	0	-0.503210249919648	Stem	15	
+novel_gene_183_5bd9a17a	Stem	0	-0.503210249919648	Primary stem	15	
+novel_gene_183_5bd9a17a	Stem	0	-0.503210249919648	Shoot	15	
+novel_gene_183_5bd9a17a	Trichome	184.01651882247472	1.9967117025947443	Trichomes	15	
+novel_gene_1845_5bd9a17a	Flower	0	-0.5627171755845051	Female flower	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Flower	0	-0.5627171755845051	Flower	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Flower	0	-0.5627171755845051	Male flower	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Flower	0	-0.5627171755845051	Female reproductive bud	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Flower	0	-0.5627171755845051	Female floral bud	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Leaf	0	-0.5627171755845051	Leaf	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Leaf	0	-0.5627171755845051	Leaf 	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Leaf	0	-0.5627171755845051	Petiole	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Leaf	0	-0.5627171755845051	Vegetative leaf - fresh cutting	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Leaf	0	-0.5627171755845051	Female reproductive leaf	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Meristem	5.880073248565359	0.3507755347774427	Female apical meristem	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Meristem	5.880073248565359	0.3507755347774427	Male apical meristem	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Root	0	-0.5627171755845051	Roots	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Root	0	-0.5627171755845051	Root	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Root	0	-0.5627171755845051	Female root-mid	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Root	0	-0.5627171755845051	Female root-tip	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Stem	0	-0.5627171755845051	Stem	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Stem	0	-0.5627171755845051	Primary stem	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Stem	0	-0.5627171755845051	Shoot	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_1845_5bd9a17a	Trichome	106.55259518716556	1.9000931675605774	Trichomes	15	photosystem II protein D1 [Source:NCBI gene (formerly Entrezgene);Acc:23630667]
+novel_gene_2014_5bd9a17a	Flower	0	-0.5813759958374775	Female flower	15	
+novel_gene_2014_5bd9a17a	Flower	0	-0.5813759958374775	Flower	15	
+novel_gene_2014_5bd9a17a	Flower	0	-0.5813759958374775	Male flower	15	
+novel_gene_2014_5bd9a17a	Flower	0	-0.5813759958374775	Female reproductive bud	15	
+novel_gene_2014_5bd9a17a	Flower	0	-0.5813759958374775	Female floral bud	15	
+novel_gene_2014_5bd9a17a	Leaf	0	-0.5813759958374775	Leaf	15	
+novel_gene_2014_5bd9a17a	Leaf	0	-0.5813759958374775	Leaf 	15	
+novel_gene_2014_5bd9a17a	Leaf	0	-0.5813759958374775	Petiole	15	
+novel_gene_2014_5bd9a17a	Leaf	0	-0.5813759958374775	Vegetative leaf - fresh cutting	15	
+novel_gene_2014_5bd9a17a	Leaf	0	-0.5813759958374775	Female reproductive leaf	15	
+novel_gene_2014_5bd9a17a	Meristem	4.859914453571346	0.4757209088381677	Female apical meristem	15	
+novel_gene_2014_5bd9a17a	Meristem	4.859914453571346	0.4757209088381677	Male apical meristem	15	
+novel_gene_2014_5bd9a17a	Root	0	-0.5813759958374775	Roots	15	
+novel_gene_2014_5bd9a17a	Root	0	-0.5813759958374775	Root	15	
+novel_gene_2014_5bd9a17a	Root	0	-0.5813759958374775	Female root-mid	15	
+novel_gene_2014_5bd9a17a	Root	0	-0.5813759958374775	Female root-tip	15	
+novel_gene_2014_5bd9a17a	Stem	0	-0.5813759958374775	Stem	15	
+novel_gene_2014_5bd9a17a	Stem	0	-0.5813759958374775	Primary stem	15	
+novel_gene_2014_5bd9a17a	Stem	0	-0.5813759958374775	Shoot	15	
+novel_gene_2014_5bd9a17a	Trichome	51.914516991397406	1.8497830745117423	Trichomes	15	
+novel_gene_2039_5bd9a17a	Flower	0	-0.58452483762931	Female flower	15	
+novel_gene_2039_5bd9a17a	Flower	0	-0.58452483762931	Flower	15	
+novel_gene_2039_5bd9a17a	Flower	0	-0.58452483762931	Male flower	15	
+novel_gene_2039_5bd9a17a	Flower	0	-0.58452483762931	Female reproductive bud	15	
+novel_gene_2039_5bd9a17a	Flower	0	-0.58452483762931	Female floral bud	15	
+novel_gene_2039_5bd9a17a	Leaf	0	-0.58452483762931	Leaf	15	
+novel_gene_2039_5bd9a17a	Leaf	0	-0.58452483762931	Leaf 	15	
+novel_gene_2039_5bd9a17a	Leaf	0	-0.58452483762931	Petiole	15	
+novel_gene_2039_5bd9a17a	Leaf	0	-0.58452483762931	Vegetative leaf - fresh cutting	15	
+novel_gene_2039_5bd9a17a	Leaf	0	-0.58452483762931	Female reproductive leaf	15	
+novel_gene_2039_5bd9a17a	Meristem	2.57492131833381	0.2557655043204384	Female apical meristem	15	
+novel_gene_2039_5bd9a17a	Meristem	2.57492131833381	0.2557655043204384	Male apical meristem	15	
+novel_gene_2039_5bd9a17a	Root	0	-0.58452483762931	Roots	15	
+novel_gene_2039_5bd9a17a	Root	0	-0.58452483762931	Root	15	
+novel_gene_2039_5bd9a17a	Root	0	-0.58452483762931	Female root-mid	15	
+novel_gene_2039_5bd9a17a	Root	0	-0.58452483762931	Female root-tip	15	
+novel_gene_2039_5bd9a17a	Stem	0.253775883579929	-0.4317436728439781	Stem	15	
+novel_gene_2039_5bd9a17a	Stem	0.253775883579929	-0.4317436728439781	Primary stem	15	
+novel_gene_2039_5bd9a17a	Stem	0.253775883579929	-0.4317436728439781	Shoot	15	
+novel_gene_2039_5bd9a17a	Trichome	46.97135218142713	1.9295526814114692	Trichomes	15	
+novel_gene_2177_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_2177_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_2177_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_2177_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_2177_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_2177_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_2177_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_2177_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_2177_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_2177_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_2177_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_2177_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_2177_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_2177_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_2177_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_2177_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_2177_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_2177_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_2177_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_2177_5bd9a17a	Trichome	93.87568495812808	2.041241452319315	Trichomes	15	
+novel_gene_2225_5bd9a17a	Flower	0	-0.40824829046386296	Female flower	15	
+novel_gene_2225_5bd9a17a	Flower	0	-0.40824829046386296	Flower	15	
+novel_gene_2225_5bd9a17a	Flower	0	-0.40824829046386296	Male flower	15	
+novel_gene_2225_5bd9a17a	Flower	0	-0.40824829046386296	Female reproductive bud	15	
+novel_gene_2225_5bd9a17a	Flower	0	-0.40824829046386296	Female floral bud	15	
+novel_gene_2225_5bd9a17a	Leaf	0	-0.40824829046386296	Leaf	15	
+novel_gene_2225_5bd9a17a	Leaf	0	-0.40824829046386296	Leaf 	15	
+novel_gene_2225_5bd9a17a	Leaf	0	-0.40824829046386296	Petiole	15	
+novel_gene_2225_5bd9a17a	Leaf	0	-0.40824829046386296	Vegetative leaf - fresh cutting	15	
+novel_gene_2225_5bd9a17a	Leaf	0	-0.40824829046386296	Female reproductive leaf	15	
+novel_gene_2225_5bd9a17a	Meristem	0	-0.40824829046386296	Female apical meristem	15	
+novel_gene_2225_5bd9a17a	Meristem	0	-0.40824829046386296	Male apical meristem	15	
+novel_gene_2225_5bd9a17a	Root	0	-0.40824829046386296	Roots	15	
+novel_gene_2225_5bd9a17a	Root	0	-0.40824829046386296	Root	15	
+novel_gene_2225_5bd9a17a	Root	0	-0.40824829046386296	Female root-mid	15	
+novel_gene_2225_5bd9a17a	Root	0	-0.40824829046386296	Female root-tip	15	
+novel_gene_2225_5bd9a17a	Stem	0	-0.40824829046386296	Stem	15	
+novel_gene_2225_5bd9a17a	Stem	0	-0.40824829046386296	Primary stem	15	
+novel_gene_2225_5bd9a17a	Stem	0	-0.40824829046386296	Shoot	15	
+novel_gene_2225_5bd9a17a	Trichome	40.991424996010686	2.041241452319315	Trichomes	15	
+novel_gene_222_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_222_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_222_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_222_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_222_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_222_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_222_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_222_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_222_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_222_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_222_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_222_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_222_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_222_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_222_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_222_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_222_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_222_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_222_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_222_5bd9a17a	Trichome	447.0101770495208	2.0412414523193148	Trichomes	15	
+novel_gene_2262_5bd9a17a	Flower	0	-0.7524194272599193	Female flower	15	
+novel_gene_2262_5bd9a17a	Flower	0	-0.7524194272599193	Flower	15	
+novel_gene_2262_5bd9a17a	Flower	0	-0.7524194272599193	Male flower	15	
+novel_gene_2262_5bd9a17a	Flower	0	-0.7524194272599193	Female reproductive bud	15	
+novel_gene_2262_5bd9a17a	Flower	0	-0.7524194272599193	Female floral bud	15	
+novel_gene_2262_5bd9a17a	Leaf	0	-0.7524194272599193	Leaf	15	
+novel_gene_2262_5bd9a17a	Leaf	0	-0.7524194272599193	Leaf 	15	
+novel_gene_2262_5bd9a17a	Leaf	0	-0.7524194272599193	Petiole	15	
+novel_gene_2262_5bd9a17a	Leaf	0	-0.7524194272599193	Vegetative leaf - fresh cutting	15	
+novel_gene_2262_5bd9a17a	Leaf	0	-0.7524194272599193	Female reproductive leaf	15	
+novel_gene_2262_5bd9a17a	Meristem	6.761810322106056	0.6452437144112925	Female apical meristem	15	
+novel_gene_2262_5bd9a17a	Meristem	6.761810322106056	0.6452437144112925	Male apical meristem	15	
+novel_gene_2262_5bd9a17a	Root	1.6975741557491468	-0.08448698433612163	Roots	15	
+novel_gene_2262_5bd9a17a	Root	1.6975741557491468	-0.08448698433612163	Root	15	
+novel_gene_2262_5bd9a17a	Root	1.6975741557491468	-0.08448698433612163	Female root-mid	15	
+novel_gene_2262_5bd9a17a	Root	1.6975741557491468	-0.08448698433612163	Female root-tip	15	
+novel_gene_2262_5bd9a17a	Stem	0	-0.7524194272599193	Stem	15	
+novel_gene_2262_5bd9a17a	Stem	0	-0.7524194272599193	Primary stem	15	
+novel_gene_2262_5bd9a17a	Stem	0	-0.7524194272599193	Shoot	15	
+novel_gene_2262_5bd9a17a	Trichome	42.84998134119631	1.6965015517045867	Trichomes	15	
+novel_gene_2280_5bd9a17a	Flower	0	-0.490926069726093	Female flower	15	
+novel_gene_2280_5bd9a17a	Flower	0	-0.490926069726093	Flower	15	
+novel_gene_2280_5bd9a17a	Flower	0	-0.490926069726093	Male flower	15	
+novel_gene_2280_5bd9a17a	Flower	0	-0.490926069726093	Female reproductive bud	15	
+novel_gene_2280_5bd9a17a	Flower	0	-0.490926069726093	Female floral bud	15	
+novel_gene_2280_5bd9a17a	Leaf	0	-0.490926069726093	Leaf	15	
+novel_gene_2280_5bd9a17a	Leaf	0	-0.490926069726093	Leaf 	15	
+novel_gene_2280_5bd9a17a	Leaf	0	-0.490926069726093	Petiole	15	
+novel_gene_2280_5bd9a17a	Leaf	0	-0.490926069726093	Vegetative leaf - fresh cutting	15	
+novel_gene_2280_5bd9a17a	Leaf	0	-0.490926069726093	Female reproductive leaf	15	
+novel_gene_2280_5bd9a17a	Meristem	0	-0.490926069726093	Female apical meristem	15	
+novel_gene_2280_5bd9a17a	Meristem	0	-0.490926069726093	Male apical meristem	15	
+novel_gene_2280_5bd9a17a	Root	0.23106457985033219	-0.33938484792802287	Roots	15	
+novel_gene_2280_5bd9a17a	Root	0.23106457985033219	-0.33938484792802287	Root	15	
+novel_gene_2280_5bd9a17a	Root	0.23106457985033219	-0.33938484792802287	Female root-mid	15	
+novel_gene_2280_5bd9a17a	Root	0.23106457985033219	-0.33938484792802287	Female root-tip	15	
+novel_gene_2280_5bd9a17a	Stem	0.49135759578141835	-0.21637676341504494	Stem	15	
+novel_gene_2280_5bd9a17a	Stem	0.49135759578141835	-0.21637676341504494	Primary stem	15	
+novel_gene_2280_5bd9a17a	Stem	0.49135759578141835	-0.21637676341504494	Shoot	15	
+novel_gene_2280_5bd9a17a	Trichome	36.76264490182982	2.0285398205213463	Trichomes	15	
+novel_gene_2387_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_2387_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_2387_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_2387_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_2387_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_2387_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_2387_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_2387_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_2387_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_2387_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_2387_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_2387_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_2387_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_2387_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_2387_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_2387_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_2387_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_2387_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_2387_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_2387_5bd9a17a	Trichome	178.84610906304258	2.041241452319315	Trichomes	15	
+novel_gene_2413_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_2413_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_2413_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_2413_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_2413_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_2413_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_2413_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_2413_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_2413_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_2413_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_2413_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_2413_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_2413_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_2413_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_2413_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_2413_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_2413_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_2413_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_2413_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_2413_5bd9a17a	Trichome	78.68660650179135	2.041241452319315	Trichomes	15	
+novel_gene_2414_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_2414_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_2414_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_2414_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_2414_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_2414_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_2414_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_2414_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_2414_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_2414_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_2414_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_2414_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_2414_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_2414_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_2414_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_2414_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_2414_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_2414_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_2414_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_2414_5bd9a17a	Trichome	330.744850523778	2.041241452319315	Trichomes	15	
+novel_gene_2568_5bd9a17a	Flower	0	-0.4082482904638631	Female flower	15	
+novel_gene_2568_5bd9a17a	Flower	0	-0.4082482904638631	Flower	15	
+novel_gene_2568_5bd9a17a	Flower	0	-0.4082482904638631	Male flower	15	
+novel_gene_2568_5bd9a17a	Flower	0	-0.4082482904638631	Female reproductive bud	15	
+novel_gene_2568_5bd9a17a	Flower	0	-0.4082482904638631	Female floral bud	15	
+novel_gene_2568_5bd9a17a	Leaf	0	-0.4082482904638631	Leaf	15	
+novel_gene_2568_5bd9a17a	Leaf	0	-0.4082482904638631	Leaf 	15	
+novel_gene_2568_5bd9a17a	Leaf	0	-0.4082482904638631	Petiole	15	
+novel_gene_2568_5bd9a17a	Leaf	0	-0.4082482904638631	Vegetative leaf - fresh cutting	15	
+novel_gene_2568_5bd9a17a	Leaf	0	-0.4082482904638631	Female reproductive leaf	15	
+novel_gene_2568_5bd9a17a	Meristem	0	-0.4082482904638631	Female apical meristem	15	
+novel_gene_2568_5bd9a17a	Meristem	0	-0.4082482904638631	Male apical meristem	15	
+novel_gene_2568_5bd9a17a	Root	0	-0.4082482904638631	Roots	15	
+novel_gene_2568_5bd9a17a	Root	0	-0.4082482904638631	Root	15	
+novel_gene_2568_5bd9a17a	Root	0	-0.4082482904638631	Female root-mid	15	
+novel_gene_2568_5bd9a17a	Root	0	-0.4082482904638631	Female root-tip	15	
+novel_gene_2568_5bd9a17a	Stem	0	-0.4082482904638631	Stem	15	
+novel_gene_2568_5bd9a17a	Stem	0	-0.4082482904638631	Primary stem	15	
+novel_gene_2568_5bd9a17a	Stem	0	-0.4082482904638631	Shoot	15	
+novel_gene_2568_5bd9a17a	Trichome	46.371037313312264	2.0412414523193156	Trichomes	15	
+novel_gene_2588_5bd9a17a	Flower	0	-0.6236874254020359	Female flower	15	
+novel_gene_2588_5bd9a17a	Flower	0	-0.6236874254020359	Flower	15	
+novel_gene_2588_5bd9a17a	Flower	0	-0.6236874254020359	Male flower	15	
+novel_gene_2588_5bd9a17a	Flower	0	-0.6236874254020359	Female reproductive bud	15	
+novel_gene_2588_5bd9a17a	Flower	0	-0.6236874254020359	Female floral bud	15	
+novel_gene_2588_5bd9a17a	Leaf	0	-0.6236874254020359	Leaf	15	
+novel_gene_2588_5bd9a17a	Leaf	0	-0.6236874254020359	Leaf 	15	
+novel_gene_2588_5bd9a17a	Leaf	0	-0.6236874254020359	Petiole	15	
+novel_gene_2588_5bd9a17a	Leaf	0	-0.6236874254020359	Vegetative leaf - fresh cutting	15	
+novel_gene_2588_5bd9a17a	Leaf	0	-0.6236874254020359	Female reproductive leaf	15	
+novel_gene_2588_5bd9a17a	Meristem	14.627152453140438	0.8398408370429143	Female apical meristem	15	
+novel_gene_2588_5bd9a17a	Meristem	14.627152453140438	0.8398408370429143	Male apical meristem	15	
+novel_gene_2588_5bd9a17a	Root	0	-0.6236874254020359	Roots	15	
+novel_gene_2588_5bd9a17a	Root	0	-0.6236874254020359	Root	15	
+novel_gene_2588_5bd9a17a	Root	0	-0.6236874254020359	Female root-mid	15	
+novel_gene_2588_5bd9a17a	Root	0	-0.6236874254020359	Female root-tip	15	
+novel_gene_2588_5bd9a17a	Stem	0	-0.6236874254020359	Stem	15	
+novel_gene_2588_5bd9a17a	Stem	0	-0.6236874254020359	Primary stem	15	
+novel_gene_2588_5bd9a17a	Stem	0	-0.6236874254020359	Shoot	15	
+novel_gene_2588_5bd9a17a	Trichome	50.71087675731312	1.6549088645652292	Trichomes	15	
+novel_gene_2908_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_2908_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_2908_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_2908_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_2908_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_2908_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_2908_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_2908_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_2908_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_2908_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_2908_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_2908_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_2908_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_2908_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_2908_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_2908_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_2908_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_2908_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_2908_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_2908_5bd9a17a	Trichome	21.28547582591577	2.041241452319315	Trichomes	15	
+novel_gene_2912_5bd9a17a	Flower	0	-0.6313607042009234	Female flower	15	
+novel_gene_2912_5bd9a17a	Flower	0	-0.6313607042009234	Flower	15	
+novel_gene_2912_5bd9a17a	Flower	0	-0.6313607042009234	Male flower	15	
+novel_gene_2912_5bd9a17a	Flower	0	-0.6313607042009234	Female reproductive bud	15	
+novel_gene_2912_5bd9a17a	Flower	0	-0.6313607042009234	Female floral bud	15	
+novel_gene_2912_5bd9a17a	Leaf	0	-0.6313607042009234	Leaf	15	
+novel_gene_2912_5bd9a17a	Leaf	0	-0.6313607042009234	Leaf 	15	
+novel_gene_2912_5bd9a17a	Leaf	0	-0.6313607042009234	Petiole	15	
+novel_gene_2912_5bd9a17a	Leaf	0	-0.6313607042009234	Vegetative leaf - fresh cutting	15	
+novel_gene_2912_5bd9a17a	Leaf	0	-0.6313607042009234	Female reproductive leaf	15	
+novel_gene_2912_5bd9a17a	Meristem	36.38188152413379	0.9336287662089767	Female apical meristem	15	
+novel_gene_2912_5bd9a17a	Meristem	36.38188152413379	0.9336287662089767	Male apical meristem	15	
+novel_gene_2912_5bd9a17a	Root	0	-0.6313607042009234	Roots	15	
+novel_gene_2912_5bd9a17a	Root	0	-0.6313607042009234	Root	15	
+novel_gene_2912_5bd9a17a	Root	0	-0.6313607042009234	Female root-mid	15	
+novel_gene_2912_5bd9a17a	Root	0	-0.6313607042009234	Female root-tip	15	
+novel_gene_2912_5bd9a17a	Stem	0	-0.6313607042009234	Stem	15	
+novel_gene_2912_5bd9a17a	Stem	0	-0.6313607042009234	Primary stem	15	
+novel_gene_2912_5bd9a17a	Stem	0	-0.6313607042009234	Shoot	15	
+novel_gene_2912_5bd9a17a	Trichome	187.58725977261636	1.591814050594717	Trichomes	15	
+novel_gene_2991_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_2991_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_2991_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_2991_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_2991_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_2991_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_2991_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_2991_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_2991_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_2991_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_2991_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_2991_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_2991_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_2991_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_2991_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_2991_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_2991_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_2991_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_2991_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_2991_5bd9a17a	Trichome	42.57065361159684	2.0412414523193148	Trichomes	15	
+novel_gene_3047_5bd9a17a	Flower	0	-0.618685301272688	Female flower	15	
+novel_gene_3047_5bd9a17a	Flower	0	-0.618685301272688	Flower	15	
+novel_gene_3047_5bd9a17a	Flower	0	-0.618685301272688	Male flower	15	
+novel_gene_3047_5bd9a17a	Flower	0	-0.618685301272688	Female reproductive bud	15	
+novel_gene_3047_5bd9a17a	Flower	0	-0.618685301272688	Female floral bud	15	
+novel_gene_3047_5bd9a17a	Leaf	0	-0.618685301272688	Leaf	15	
+novel_gene_3047_5bd9a17a	Leaf	0	-0.618685301272688	Leaf 	15	
+novel_gene_3047_5bd9a17a	Leaf	0	-0.618685301272688	Petiole	15	
+novel_gene_3047_5bd9a17a	Leaf	0	-0.618685301272688	Vegetative leaf - fresh cutting	15	
+novel_gene_3047_5bd9a17a	Leaf	0	-0.618685301272688	Female reproductive leaf	15	
+novel_gene_3047_5bd9a17a	Meristem	30.022668843011214	0.7864038765724507	Female apical meristem	15	
+novel_gene_3047_5bd9a17a	Meristem	30.022668843011214	0.7864038765724507	Male apical meristem	15	
+novel_gene_3047_5bd9a17a	Root	0	-0.618685301272688	Roots	15	
+novel_gene_3047_5bd9a17a	Root	0	-0.618685301272688	Root	15	
+novel_gene_3047_5bd9a17a	Root	0	-0.618685301272688	Female root-mid	15	
+novel_gene_3047_5bd9a17a	Root	0	-0.618685301272688	Female root-tip	15	
+novel_gene_3047_5bd9a17a	Stem	0	-0.618685301272688	Stem	15	
+novel_gene_3047_5bd9a17a	Stem	0	-0.618685301272688	Primary stem	15	
+novel_gene_3047_5bd9a17a	Stem	0	-0.618685301272688	Shoot	15	
+novel_gene_3047_5bd9a17a	Trichome	261.23367450717046	1.6883373285183014	Trichomes	15	
+novel_gene_3110_5bd9a17a	Flower	0	-0.5510682141737974	Female flower	15	
+novel_gene_3110_5bd9a17a	Flower	0	-0.5510682141737974	Flower	15	
+novel_gene_3110_5bd9a17a	Flower	0	-0.5510682141737974	Male flower	15	
+novel_gene_3110_5bd9a17a	Flower	0	-0.5510682141737974	Female reproductive bud	15	
+novel_gene_3110_5bd9a17a	Flower	0	-0.5510682141737974	Female floral bud	15	
+novel_gene_3110_5bd9a17a	Leaf	0	-0.5510682141737974	Leaf	15	
+novel_gene_3110_5bd9a17a	Leaf	0	-0.5510682141737974	Leaf 	15	
+novel_gene_3110_5bd9a17a	Leaf	0	-0.5510682141737974	Petiole	15	
+novel_gene_3110_5bd9a17a	Leaf	0	-0.5510682141737974	Vegetative leaf - fresh cutting	15	
+novel_gene_3110_5bd9a17a	Leaf	0	-0.5510682141737974	Female reproductive leaf	15	
+novel_gene_3110_5bd9a17a	Meristem	1.9056131169892325	0.2787635237874492	Female apical meristem	15	
+novel_gene_3110_5bd9a17a	Meristem	1.9056131169892325	0.2787635237874492	Male apical meristem	15	
+novel_gene_3110_5bd9a17a	Root	0	-0.5510682141737974	Roots	15	
+novel_gene_3110_5bd9a17a	Root	0	-0.5510682141737974	Root	15	
+novel_gene_3110_5bd9a17a	Root	0	-0.5510682141737974	Female root-mid	15	
+novel_gene_3110_5bd9a17a	Root	0	-0.5510682141737974	Female root-tip	15	
+novel_gene_3110_5bd9a17a	Stem	0	-0.5510682141737974	Stem	15	
+novel_gene_3110_5bd9a17a	Stem	0	-0.5510682141737974	Primary stem	15	
+novel_gene_3110_5bd9a17a	Stem	0	-0.5510682141737974	Shoot	15	
+novel_gene_3110_5bd9a17a	Trichome	25.749077843132824	1.9255093329077402	Trichomes	15	
+novel_gene_3146_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_3146_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_3146_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_3146_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_3146_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_3146_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_3146_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_3146_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_3146_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_3146_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_3146_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_3146_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_3146_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_3146_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_3146_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_3146_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_3146_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_3146_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_3146_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_3146_5bd9a17a	Trichome	21.68468113965994	2.041241452319315	Trichomes	15	
+novel_gene_3216_5bd9a17a	Flower	0	-0.49460164897787334	Female flower	15	
+novel_gene_3216_5bd9a17a	Flower	0	-0.49460164897787334	Flower	15	
+novel_gene_3216_5bd9a17a	Flower	0	-0.49460164897787334	Male flower	15	
+novel_gene_3216_5bd9a17a	Flower	0	-0.49460164897787334	Female reproductive bud	15	
+novel_gene_3216_5bd9a17a	Flower	0	-0.49460164897787334	Female floral bud	15	
+novel_gene_3216_5bd9a17a	Leaf	0	-0.49460164897787334	Leaf	15	
+novel_gene_3216_5bd9a17a	Leaf	0	-0.49460164897787334	Leaf 	15	
+novel_gene_3216_5bd9a17a	Leaf	0	-0.49460164897787334	Petiole	15	
+novel_gene_3216_5bd9a17a	Leaf	0	-0.49460164897787334	Vegetative leaf - fresh cutting	15	
+novel_gene_3216_5bd9a17a	Leaf	0	-0.49460164897787334	Female reproductive leaf	15	
+novel_gene_3216_5bd9a17a	Meristem	1.1656906413032686	-0.026776649174220808	Female apical meristem	15	
+novel_gene_3216_5bd9a17a	Meristem	1.1656906413032686	-0.026776649174220808	Male apical meristem	15	
+novel_gene_3216_5bd9a17a	Root	0	-0.49460164897787334	Roots	15	
+novel_gene_3216_5bd9a17a	Root	0	-0.49460164897787334	Root	15	
+novel_gene_3216_5bd9a17a	Root	0	-0.49460164897787334	Female root-mid	15	
+novel_gene_3216_5bd9a17a	Root	0	-0.49460164897787334	Female root-tip	15	
+novel_gene_3216_5bd9a17a	Stem	0	-0.49460164897787334	Stem	15	
+novel_gene_3216_5bd9a17a	Stem	0	-0.49460164897787334	Primary stem	15	
+novel_gene_3216_5bd9a17a	Stem	0	-0.49460164897787334	Shoot	15	
+novel_gene_3216_5bd9a17a	Trichome	67.63337912350069	2.005183245085714	Trichomes	15	
+novel_gene_3490_5bd9a17a	Flower	0	-0.6149549387032066	Female flower	15	
+novel_gene_3490_5bd9a17a	Flower	0	-0.6149549387032066	Flower	15	
+novel_gene_3490_5bd9a17a	Flower	0	-0.6149549387032066	Male flower	15	
+novel_gene_3490_5bd9a17a	Flower	0	-0.6149549387032066	Female reproductive bud	15	
+novel_gene_3490_5bd9a17a	Flower	0	-0.6149549387032066	Female floral bud	15	
+novel_gene_3490_5bd9a17a	Leaf	0	-0.6149549387032066	Leaf	15	
+novel_gene_3490_5bd9a17a	Leaf	0	-0.6149549387032066	Leaf 	15	
+novel_gene_3490_5bd9a17a	Leaf	0	-0.6149549387032066	Petiole	15	
+novel_gene_3490_5bd9a17a	Leaf	0	-0.6149549387032066	Vegetative leaf - fresh cutting	15	
+novel_gene_3490_5bd9a17a	Leaf	0	-0.6149549387032066	Female reproductive leaf	15	
+novel_gene_3490_5bd9a17a	Meristem	3217.960879127537	0.7493034477914812	Female apical meristem	15	
+novel_gene_3490_5bd9a17a	Meristem	3217.960879127537	0.7493034477914812	Male apical meristem	15	
+novel_gene_3490_5bd9a17a	Root	0	-0.6149549387032066	Roots	15	
+novel_gene_3490_5bd9a17a	Root	0	-0.6149549387032066	Root	15	
+novel_gene_3490_5bd9a17a	Root	0	-0.6149549387032066	Female root-mid	15	
+novel_gene_3490_5bd9a17a	Root	0	-0.6149549387032066	Female root-tip	15	
+novel_gene_3490_5bd9a17a	Stem	0	-0.6149549387032066	Stem	15	
+novel_gene_3490_5bd9a17a	Stem	0	-0.6149549387032066	Primary stem	15	
+novel_gene_3490_5bd9a17a	Stem	0	-0.6149549387032066	Shoot	15	
+novel_gene_3490_5bd9a17a	Trichome	119242.14038615188	1.7105163070213452	Trichomes	15	
+novel_gene_3491_5bd9a17a	Flower	0	-0.6074263111719452	Female flower	15	
+novel_gene_3491_5bd9a17a	Flower	0	-0.6074263111719452	Flower	15	
+novel_gene_3491_5bd9a17a	Flower	0	-0.6074263111719452	Male flower	15	
+novel_gene_3491_5bd9a17a	Flower	0	-0.6074263111719452	Female reproductive bud	15	
+novel_gene_3491_5bd9a17a	Flower	0	-0.6074263111719452	Female floral bud	15	
+novel_gene_3491_5bd9a17a	Leaf	0	-0.6074263111719452	Leaf	15	
+novel_gene_3491_5bd9a17a	Leaf	0	-0.6074263111719452	Leaf 	15	
+novel_gene_3491_5bd9a17a	Leaf	0	-0.6074263111719452	Petiole	15	
+novel_gene_3491_5bd9a17a	Leaf	0	-0.6074263111719452	Vegetative leaf - fresh cutting	15	
+novel_gene_3491_5bd9a17a	Leaf	0	-0.6074263111719452	Female reproductive leaf	15	
+novel_gene_3491_5bd9a17a	Meristem	205.6690044564598	0.6798763060678716	Female apical meristem	15	
+novel_gene_3491_5bd9a17a	Meristem	205.6690044564598	0.6798763060678716	Male apical meristem	15	
+novel_gene_3491_5bd9a17a	Root	0	-0.6074263111719452	Roots	15	
+novel_gene_3491_5bd9a17a	Root	0	-0.6074263111719452	Root	15	
+novel_gene_3491_5bd9a17a	Root	0	-0.6074263111719452	Female root-mid	15	
+novel_gene_3491_5bd9a17a	Root	0	-0.6074263111719452	Female root-tip	15	
+novel_gene_3491_5bd9a17a	Stem	0	-0.6074263111719452	Stem	15	
+novel_gene_3491_5bd9a17a	Stem	0	-0.6074263111719452	Primary stem	15	
+novel_gene_3491_5bd9a17a	Stem	0	-0.6074263111719452	Shoot	15	
+novel_gene_3491_5bd9a17a	Trichome	2787.0739436278377	1.7498289386199095	Trichomes	15	
+novel_gene_3553_5bd9a17a	Flower	0	-0.6105982972225793	Female flower	15	
+novel_gene_3553_5bd9a17a	Flower	0	-0.6105982972225793	Flower	15	
+novel_gene_3553_5bd9a17a	Flower	0	-0.6105982972225793	Male flower	15	
+novel_gene_3553_5bd9a17a	Flower	0	-0.6105982972225793	Female reproductive bud	15	
+novel_gene_3553_5bd9a17a	Flower	0	-0.6105982972225793	Female floral bud	15	
+novel_gene_3553_5bd9a17a	Leaf	0	-0.6105982972225793	Leaf	15	
+novel_gene_3553_5bd9a17a	Leaf	0	-0.6105982972225793	Leaf 	15	
+novel_gene_3553_5bd9a17a	Leaf	0	-0.6105982972225793	Petiole	15	
+novel_gene_3553_5bd9a17a	Leaf	0	-0.6105982972225793	Vegetative leaf - fresh cutting	15	
+novel_gene_3553_5bd9a17a	Leaf	0	-0.6105982972225793	Female reproductive leaf	15	
+novel_gene_3553_5bd9a17a	Meristem	34.611935862456775	0.7083434804121832	Female apical meristem	15	
+novel_gene_3553_5bd9a17a	Meristem	34.611935862456775	0.7083434804121832	Male apical meristem	15	
+novel_gene_3553_5bd9a17a	Root	0	-0.6105982972225793	Roots	15	
+novel_gene_3553_5bd9a17a	Root	0	-0.6105982972225793	Root	15	
+novel_gene_3553_5bd9a17a	Root	0	-0.6105982972225793	Female root-mid	15	
+novel_gene_3553_5bd9a17a	Root	0	-0.6105982972225793	Female root-tip	15	
+novel_gene_3553_5bd9a17a	Stem	0	-0.6105982972225793	Stem	15	
+novel_gene_3553_5bd9a17a	Stem	0	-0.6105982972225793	Primary stem	15	
+novel_gene_3553_5bd9a17a	Stem	0	-0.6105982972225793	Shoot	15	
+novel_gene_3553_5bd9a17a	Trichome	320.05183453661675	1.7340497084781339	Trichomes	15	
+novel_gene_3608_5bd9a17a	Flower	0	-0.5901106804526527	Female flower	15	
+novel_gene_3608_5bd9a17a	Flower	0	-0.5901106804526527	Flower	15	
+novel_gene_3608_5bd9a17a	Flower	0	-0.5901106804526527	Male flower	15	
+novel_gene_3608_5bd9a17a	Flower	0	-0.5901106804526527	Female reproductive bud	15	
+novel_gene_3608_5bd9a17a	Flower	0	-0.5901106804526527	Female floral bud	15	
+novel_gene_3608_5bd9a17a	Leaf	0	-0.5901106804526527	Leaf	15	
+novel_gene_3608_5bd9a17a	Leaf	0	-0.5901106804526527	Leaf 	15	
+novel_gene_3608_5bd9a17a	Leaf	0	-0.5901106804526527	Petiole	15	
+novel_gene_3608_5bd9a17a	Leaf	0	-0.5901106804526527	Vegetative leaf - fresh cutting	15	
+novel_gene_3608_5bd9a17a	Leaf	0	-0.5901106804526527	Female reproductive leaf	15	
+novel_gene_3608_5bd9a17a	Meristem	4.310420044723118	0.5394278614889618	Female apical meristem	15	
+novel_gene_3608_5bd9a17a	Meristem	4.310420044723118	0.5394278614889618	Male apical meristem	15	
+novel_gene_3608_5bd9a17a	Root	0	-0.5901106804526527	Roots	15	
+novel_gene_3608_5bd9a17a	Root	0	-0.5901106804526527	Root	15	
+novel_gene_3608_5bd9a17a	Root	0	-0.5901106804526527	Female root-mid	15	
+novel_gene_3608_5bd9a17a	Root	0	-0.5901106804526527	Female root-tip	15	
+novel_gene_3608_5bd9a17a	Stem	0	-0.5901106804526527	Stem	15	
+novel_gene_3608_5bd9a17a	Stem	0	-0.5901106804526527	Primary stem	15	
+novel_gene_3608_5bd9a17a	Stem	0	-0.5901106804526527	Shoot	15	
+novel_gene_3608_5bd9a17a	Trichome	41.11446731160238	1.8210148603216487	Trichomes	15	
+novel_gene_3671_5bd9a17a	Flower	0	-0.6775554593180205	Female flower	15	
+novel_gene_3671_5bd9a17a	Flower	0	-0.6775554593180205	Flower	15	
+novel_gene_3671_5bd9a17a	Flower	0	-0.6775554593180205	Male flower	15	
+novel_gene_3671_5bd9a17a	Flower	0	-0.6775554593180205	Female reproductive bud	15	
+novel_gene_3671_5bd9a17a	Flower	0	-0.6775554593180205	Female floral bud	15	
+novel_gene_3671_5bd9a17a	Leaf	0	-0.6775554593180205	Leaf	15	
+novel_gene_3671_5bd9a17a	Leaf	0	-0.6775554593180205	Leaf 	15	
+novel_gene_3671_5bd9a17a	Leaf	0	-0.6775554593180205	Petiole	15	
+novel_gene_3671_5bd9a17a	Leaf	0	-0.6775554593180205	Vegetative leaf - fresh cutting	15	
+novel_gene_3671_5bd9a17a	Leaf	0	-0.6775554593180205	Female reproductive leaf	15	
+novel_gene_3671_5bd9a17a	Meristem	0	-0.6775554593180205	Female apical meristem	15	
+novel_gene_3671_5bd9a17a	Meristem	0	-0.6775554593180205	Male apical meristem	15	
+novel_gene_3671_5bd9a17a	Root	12.867764831833043	0.34803731181688213	Roots	15	
+novel_gene_3671_5bd9a17a	Root	12.867764831833043	0.34803731181688213	Root	15	
+novel_gene_3671_5bd9a17a	Root	12.867764831833043	0.34803731181688213	Female root-mid	15	
+novel_gene_3671_5bd9a17a	Root	12.867764831833043	0.34803731181688213	Female root-tip	15	
+novel_gene_3671_5bd9a17a	Stem	1.8450403996847609	-0.178135927020288	Stem	15	
+novel_gene_3671_5bd9a17a	Stem	1.8450403996847609	-0.178135927020288	Primary stem	15	
+novel_gene_3671_5bd9a17a	Stem	1.8450403996847609	-0.178135927020288	Shoot	15	
+novel_gene_3671_5bd9a17a	Trichome	116.68334438128112	1.8627649931574675	Trichomes	15	
+novel_gene_3816_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_3816_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_3816_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_3816_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_3816_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_3816_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_3816_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_3816_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_3816_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_3816_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_3816_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_3816_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_3816_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_3816_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_3816_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_3816_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_3816_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_3816_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_3816_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_3816_5bd9a17a	Trichome	34.234390457125464	2.041241452319315	Trichomes	15	
+novel_gene_3827_5bd9a17a	Flower	0	-0.5672226166588842	Female flower	15	
+novel_gene_3827_5bd9a17a	Flower	0	-0.5672226166588842	Flower	15	
+novel_gene_3827_5bd9a17a	Flower	0	-0.5672226166588842	Male flower	15	
+novel_gene_3827_5bd9a17a	Flower	0	-0.5672226166588842	Female reproductive bud	15	
+novel_gene_3827_5bd9a17a	Flower	0	-0.5672226166588842	Female floral bud	15	
+novel_gene_3827_5bd9a17a	Leaf	0	-0.5672226166588842	Leaf	15	
+novel_gene_3827_5bd9a17a	Leaf	0	-0.5672226166588842	Leaf 	15	
+novel_gene_3827_5bd9a17a	Leaf	0	-0.5672226166588842	Petiole	15	
+novel_gene_3827_5bd9a17a	Leaf	0	-0.5672226166588842	Vegetative leaf - fresh cutting	15	
+novel_gene_3827_5bd9a17a	Leaf	0	-0.5672226166588842	Female reproductive leaf	15	
+novel_gene_3827_5bd9a17a	Meristem	4.538333864267897	0.37975919336215097	Female apical meristem	15	
+novel_gene_3827_5bd9a17a	Meristem	4.538333864267897	0.37975919336215097	Male apical meristem	15	
+novel_gene_3827_5bd9a17a	Root	0	-0.5672226166588842	Roots	15	
+novel_gene_3827_5bd9a17a	Root	0	-0.5672226166588842	Root	15	
+novel_gene_3827_5bd9a17a	Root	0	-0.5672226166588842	Female root-mid	15	
+novel_gene_3827_5bd9a17a	Root	0	-0.5672226166588842	Female root-tip	15	
+novel_gene_3827_5bd9a17a	Stem	0	-0.5672226166588842	Stem	15	
+novel_gene_3827_5bd9a17a	Stem	0	-0.5672226166588842	Primary stem	15	
+novel_gene_3827_5bd9a17a	Stem	0	-0.5672226166588842	Shoot	15	
+novel_gene_3827_5bd9a17a	Trichome	58.67626964337576	1.8891312732733856	Trichomes	15	
+novel_gene_3926_5bd9a17a	Flower	0	-0.40824829046386296	Female flower	15	
+novel_gene_3926_5bd9a17a	Flower	0	-0.40824829046386296	Flower	15	
+novel_gene_3926_5bd9a17a	Flower	0	-0.40824829046386296	Male flower	15	
+novel_gene_3926_5bd9a17a	Flower	0	-0.40824829046386296	Female reproductive bud	15	
+novel_gene_3926_5bd9a17a	Flower	0	-0.40824829046386296	Female floral bud	15	
+novel_gene_3926_5bd9a17a	Leaf	0	-0.40824829046386296	Leaf	15	
+novel_gene_3926_5bd9a17a	Leaf	0	-0.40824829046386296	Leaf 	15	
+novel_gene_3926_5bd9a17a	Leaf	0	-0.40824829046386296	Petiole	15	
+novel_gene_3926_5bd9a17a	Leaf	0	-0.40824829046386296	Vegetative leaf - fresh cutting	15	
+novel_gene_3926_5bd9a17a	Leaf	0	-0.40824829046386296	Female reproductive leaf	15	
+novel_gene_3926_5bd9a17a	Meristem	0	-0.40824829046386296	Female apical meristem	15	
+novel_gene_3926_5bd9a17a	Meristem	0	-0.40824829046386296	Male apical meristem	15	
+novel_gene_3926_5bd9a17a	Root	0	-0.40824829046386296	Roots	15	
+novel_gene_3926_5bd9a17a	Root	0	-0.40824829046386296	Root	15	
+novel_gene_3926_5bd9a17a	Root	0	-0.40824829046386296	Female root-mid	15	
+novel_gene_3926_5bd9a17a	Root	0	-0.40824829046386296	Female root-tip	15	
+novel_gene_3926_5bd9a17a	Stem	0	-0.40824829046386296	Stem	15	
+novel_gene_3926_5bd9a17a	Stem	0	-0.40824829046386296	Primary stem	15	
+novel_gene_3926_5bd9a17a	Stem	0	-0.40824829046386296	Shoot	15	
+novel_gene_3926_5bd9a17a	Trichome	33.16667239408522	2.041241452319315	Trichomes	15	
+novel_gene_3974_5bd9a17a	Flower	0	-0.5467365523116307	Female flower	15	
+novel_gene_3974_5bd9a17a	Flower	0	-0.5467365523116307	Flower	15	
+novel_gene_3974_5bd9a17a	Flower	0	-0.5467365523116307	Male flower	15	
+novel_gene_3974_5bd9a17a	Flower	0	-0.5467365523116307	Female reproductive bud	15	
+novel_gene_3974_5bd9a17a	Flower	0	-0.5467365523116307	Female floral bud	15	
+novel_gene_3974_5bd9a17a	Leaf	0	-0.5467365523116307	Leaf	15	
+novel_gene_3974_5bd9a17a	Leaf	0	-0.5467365523116307	Leaf 	15	
+novel_gene_3974_5bd9a17a	Leaf	0	-0.5467365523116307	Petiole	15	
+novel_gene_3974_5bd9a17a	Leaf	0	-0.5467365523116307	Vegetative leaf - fresh cutting	15	
+novel_gene_3974_5bd9a17a	Leaf	0	-0.5467365523116307	Female reproductive leaf	15	
+novel_gene_3974_5bd9a17a	Meristem	0	-0.5467365523116307	Female apical meristem	15	
+novel_gene_3974_5bd9a17a	Meristem	0	-0.5467365523116307	Male apical meristem	15	
+novel_gene_3974_5bd9a17a	Root	0.6261152418482067	-0.23871200344060314	Roots	15	
+novel_gene_3974_5bd9a17a	Root	0.6261152418482067	-0.23871200344060314	Root	15	
+novel_gene_3974_5bd9a17a	Root	0.6261152418482067	-0.23871200344060314	Female root-mid	15	
+novel_gene_3974_5bd9a17a	Root	0.6261152418482067	-0.23871200344060314	Female root-tip	15	
+novel_gene_3974_5bd9a17a	Stem	0.8869519206050099	-0.12850000795156502	Stem	15	
+novel_gene_3974_5bd9a17a	Stem	0.8869519206050099	-0.12850000795156502	Primary stem	15	
+novel_gene_3974_5bd9a17a	Stem	0.8869519206050099	-0.12850000795156502	Shoot	15	
+novel_gene_3974_5bd9a17a	Trichome	32.56227970467894	2.00742166832706	Trichomes	15	
+novel_gene_567_5bda875f	Flower	0	-0.7551424468387616	Female flower	15	
+novel_gene_567_5bda875f	Flower	0	-0.7551424468387616	Flower	15	
+novel_gene_567_5bda875f	Flower	0	-0.7551424468387616	Male flower	15	
+novel_gene_567_5bda875f	Flower	0	-0.7551424468387616	Female reproductive bud	15	
+novel_gene_567_5bda875f	Flower	0	-0.7551424468387616	Female floral bud	15	
+novel_gene_567_5bda875f	Leaf	1.8369827640258376	-0.03795515940133432	Leaf	15	
+novel_gene_567_5bda875f	Leaf	1.8369827640258376	-0.03795515940133432	Leaf 	15	
+novel_gene_567_5bda875f	Leaf	1.8369827640258376	-0.03795515940133432	Petiole	15	
+novel_gene_567_5bda875f	Leaf	1.8369827640258376	-0.03795515940133432	Vegetative leaf - fresh cutting	15	
+novel_gene_567_5bda875f	Leaf	1.8369827640258376	-0.03795515940133432	Female reproductive leaf	15	
+novel_gene_567_5bda875f	Meristem	0	-0.7551424468387616	Female apical meristem	15	
+novel_gene_567_5bda875f	Meristem	0	-0.7551424468387616	Male apical meristem	15	
+novel_gene_567_5bda875f	Root	5.08758779840223	0.5881960901044626	Roots	15	
+novel_gene_567_5bda875f	Root	5.08758779840223	0.5881960901044626	Root	15	
+novel_gene_567_5bda875f	Root	5.08758779840223	0.5881960901044626	Female root-mid	15	
+novel_gene_567_5bda875f	Root	5.08758779840223	0.5881960901044626	Female root-tip	15	
+novel_gene_567_5bda875f	Stem	0	-0.7551424468387616	Stem	15	
+novel_gene_567_5bda875f	Stem	0	-0.7551424468387616	Primary stem	15	
+novel_gene_567_5bda875f	Stem	0	-0.7551424468387616	Shoot	15	
+novel_gene_567_5bda875f	Trichome	32.49828495322373	1.7151864098131568	Trichomes	15	
+novel_gene_724_5bd9a17a	Flower	0	-0.6396536553732588	Female flower	15	
+novel_gene_724_5bd9a17a	Flower	0	-0.6396536553732588	Flower	15	
+novel_gene_724_5bd9a17a	Flower	0	-0.6396536553732588	Male flower	15	
+novel_gene_724_5bd9a17a	Flower	0	-0.6396536553732588	Female reproductive bud	15	
+novel_gene_724_5bd9a17a	Flower	0	-0.6396536553732588	Female floral bud	15	
+novel_gene_724_5bd9a17a	Leaf	0	-0.6396536553732588	Leaf	15	
+novel_gene_724_5bd9a17a	Leaf	0	-0.6396536553732588	Leaf 	15	
+novel_gene_724_5bd9a17a	Leaf	0	-0.6396536553732588	Petiole	15	
+novel_gene_724_5bd9a17a	Leaf	0	-0.6396536553732588	Vegetative leaf - fresh cutting	15	
+novel_gene_724_5bd9a17a	Leaf	0	-0.6396536553732588	Female reproductive leaf	15	
+novel_gene_724_5bd9a17a	Meristem	20.693661982666736	1.0670357700120854	Female apical meristem	15	
+novel_gene_724_5bd9a17a	Meristem	20.693661982666736	1.0670357700120854	Male apical meristem	15	
+novel_gene_724_5bd9a17a	Root	0	-0.6396536553732588	Roots	15	
+novel_gene_724_5bd9a17a	Root	0	-0.6396536553732588	Root	15	
+novel_gene_724_5bd9a17a	Root	0	-0.6396536553732588	Female root-mid	15	
+novel_gene_724_5bd9a17a	Root	0	-0.6396536553732588	Female root-tip	15	
+novel_gene_724_5bd9a17a	Stem	0	-0.6396536553732588	Stem	15	
+novel_gene_724_5bd9a17a	Stem	0	-0.6396536553732588	Primary stem	15	
+novel_gene_724_5bd9a17a	Stem	0	-0.6396536553732588	Shoot	15	
+novel_gene_724_5bd9a17a	Trichome	37.03529101105017	1.4915788514809498	Trichomes	15	
+novel_gene_727_5bd9a17a	Flower	0	-0.408248290463863	Female flower	15	
+novel_gene_727_5bd9a17a	Flower	0	-0.408248290463863	Flower	15	
+novel_gene_727_5bd9a17a	Flower	0	-0.408248290463863	Male flower	15	
+novel_gene_727_5bd9a17a	Flower	0	-0.408248290463863	Female reproductive bud	15	
+novel_gene_727_5bd9a17a	Flower	0	-0.408248290463863	Female floral bud	15	
+novel_gene_727_5bd9a17a	Leaf	0	-0.408248290463863	Leaf	15	
+novel_gene_727_5bd9a17a	Leaf	0	-0.408248290463863	Leaf 	15	
+novel_gene_727_5bd9a17a	Leaf	0	-0.408248290463863	Petiole	15	
+novel_gene_727_5bd9a17a	Leaf	0	-0.408248290463863	Vegetative leaf - fresh cutting	15	
+novel_gene_727_5bd9a17a	Leaf	0	-0.408248290463863	Female reproductive leaf	15	
+novel_gene_727_5bd9a17a	Meristem	0	-0.408248290463863	Female apical meristem	15	
+novel_gene_727_5bd9a17a	Meristem	0	-0.408248290463863	Male apical meristem	15	
+novel_gene_727_5bd9a17a	Root	0	-0.408248290463863	Roots	15	
+novel_gene_727_5bd9a17a	Root	0	-0.408248290463863	Root	15	
+novel_gene_727_5bd9a17a	Root	0	-0.408248290463863	Female root-mid	15	
+novel_gene_727_5bd9a17a	Root	0	-0.408248290463863	Female root-tip	15	
+novel_gene_727_5bd9a17a	Stem	0	-0.408248290463863	Stem	15	
+novel_gene_727_5bd9a17a	Stem	0	-0.408248290463863	Primary stem	15	
+novel_gene_727_5bd9a17a	Stem	0	-0.408248290463863	Shoot	15	
+novel_gene_727_5bd9a17a	Trichome	31.956563989340502	2.041241452319315	Trichomes	15	
+novel_gene_996_5bd9a17a	Flower	0	-0.6431078952100273	Female flower	15	
+novel_gene_996_5bd9a17a	Flower	0	-0.6431078952100273	Flower	15	
+novel_gene_996_5bd9a17a	Flower	0	-0.6431078952100273	Male flower	15	
+novel_gene_996_5bd9a17a	Flower	0	-0.6431078952100273	Female reproductive bud	15	
+novel_gene_996_5bd9a17a	Flower	0	-0.6431078952100273	Female floral bud	15	
+novel_gene_996_5bd9a17a	Leaf	0	-0.6431078952100273	Leaf	15	
+novel_gene_996_5bd9a17a	Leaf	0	-0.6431078952100273	Leaf 	15	
+novel_gene_996_5bd9a17a	Leaf	0	-0.6431078952100273	Petiole	15	
+novel_gene_996_5bd9a17a	Leaf	0	-0.6431078952100273	Vegetative leaf - fresh cutting	15	
+novel_gene_996_5bd9a17a	Leaf	0	-0.6431078952100273	Female reproductive leaf	15	
+novel_gene_996_5bd9a17a	Meristem	24.93160113626558	1.1502988646485697	Female apical meristem	15	
+novel_gene_996_5bd9a17a	Meristem	24.93160113626558	1.1502988646485697	Male apical meristem	15	
+novel_gene_996_5bd9a17a	Root	0	-0.6431078952100273	Roots	15	
+novel_gene_996_5bd9a17a	Root	0	-0.6431078952100273	Root	15	
+novel_gene_996_5bd9a17a	Root	0	-0.6431078952100273	Female root-mid	15	
+novel_gene_996_5bd9a17a	Root	0	-0.6431078952100273	Female root-tip	15	
+novel_gene_996_5bd9a17a	Stem	0	-0.6431078952100273	Stem	15	
+novel_gene_996_5bd9a17a	Stem	0	-0.6431078952100273	Primary stem	15	
+novel_gene_996_5bd9a17a	Stem	0	-0.6431078952100273	Shoot	15	
+novel_gene_996_5bd9a17a	Trichome	33.787572785481075	1.4221327161915394	Trichomes	15	

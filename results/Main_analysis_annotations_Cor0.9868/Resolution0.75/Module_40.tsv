@@ -1,0 +1,101 @@
+gene_ID	SampleName	mean.TPM	z.score.logTPM	Part	module	description
+evm.TU.02.1338	Flower	0	-0.6453430461237829	Female flower	40	
+evm.TU.02.1338	Flower	0	-0.6453430461237829	Flower	40	
+evm.TU.02.1338	Flower	0	-0.6453430461237829	Male flower	40	
+evm.TU.02.1338	Flower	0	-0.6453430461237829	Female reproductive bud	40	
+evm.TU.02.1338	Flower	0	-0.6453430461237829	Female floral bud	40	
+evm.TU.02.1338	Leaf	0	-0.6453430461237829	Leaf	40	
+evm.TU.02.1338	Leaf	0	-0.6453430461237829	Leaf 	40	
+evm.TU.02.1338	Leaf	0	-0.6453430461237829	Petiole	40	
+evm.TU.02.1338	Leaf	0	-0.6453430461237829	Vegetative leaf - fresh cutting	40	
+evm.TU.02.1338	Leaf	0	-0.6453430461237829	Female reproductive leaf	40	
+evm.TU.02.1338	Meristem	31.359854146169997	1.256130095400975	Female apical meristem	40	
+evm.TU.02.1338	Meristem	31.359854146169997	1.256130095400975	Male apical meristem	40	
+evm.TU.02.1338	Root	0	-0.6453430461237829	Roots	40	
+evm.TU.02.1338	Root	0	-0.6453430461237829	Root	40	
+evm.TU.02.1338	Root	0	-0.6453430461237829	Female root-mid	40	
+evm.TU.02.1338	Root	0	-0.6453430461237829	Female root-tip	40	
+evm.TU.02.1338	Stem	0	-0.6453430461237829	Stem	40	
+evm.TU.02.1338	Stem	0	-0.6453430461237829	Primary stem	40	
+evm.TU.02.1338	Stem	0	-0.6453430461237829	Shoot	40	
+evm.TU.02.1338	Trichome	29.51633780418391	1.3252420890941563	Trichomes	40	
+evm.TU.02.1350	Flower	0	-0.727637930044649	Female flower	40	
+evm.TU.02.1350	Flower	0	-0.727637930044649	Flower	40	
+evm.TU.02.1350	Flower	0	-0.727637930044649	Male flower	40	
+evm.TU.02.1350	Flower	0	-0.727637930044649	Female reproductive bud	40	
+evm.TU.02.1350	Flower	0	-0.727637930044649	Female floral bud	40	
+evm.TU.02.1350	Leaf	0	-0.727637930044649	Leaf	40	
+evm.TU.02.1350	Leaf	0	-0.727637930044649	Leaf 	40	
+evm.TU.02.1350	Leaf	0	-0.727637930044649	Petiole	40	
+evm.TU.02.1350	Leaf	0	-0.727637930044649	Vegetative leaf - fresh cutting	40	
+evm.TU.02.1350	Leaf	0	-0.727637930044649	Female reproductive leaf	40	
+evm.TU.02.1350	Meristem	64.4236073289562	1.2673918167646168	Female apical meristem	40	
+evm.TU.02.1350	Meristem	64.4236073289562	1.2673918167646168	Male apical meristem	40	
+evm.TU.02.1350	Root	0	-0.727637930044649	Roots	40	
+evm.TU.02.1350	Root	0	-0.727637930044649	Root	40	
+evm.TU.02.1350	Root	0	-0.727637930044649	Female root-mid	40	
+evm.TU.02.1350	Root	0	-0.727637930044649	Female root-tip	40	
+evm.TU.02.1350	Stem	2.711177477352702	-0.3747823663060557	Stem	40	
+evm.TU.02.1350	Stem	2.711177477352702	-0.3747823663060557	Primary stem	40	
+evm.TU.02.1350	Stem	2.711177477352702	-0.3747823663060557	Shoot	40	
+evm.TU.02.1350	Trichome	65.73554175222645	1.2903043396753857	Trichomes	40	
+evm.TU.05.1669	Flower	0	-0.6449404447064807	Female flower	40	
+evm.TU.05.1669	Flower	0	-0.6449404447064807	Flower	40	
+evm.TU.05.1669	Flower	0	-0.6449404447064807	Male flower	40	
+evm.TU.05.1669	Flower	0	-0.6449404447064807	Female reproductive bud	40	
+evm.TU.05.1669	Flower	0	-0.6449404447064807	Female floral bud	40	
+evm.TU.05.1669	Leaf	0	-0.6449404447064807	Leaf	40	
+evm.TU.05.1669	Leaf	0	-0.6449404447064807	Leaf 	40	
+evm.TU.05.1669	Leaf	0	-0.6449404447064807	Petiole	40	
+evm.TU.05.1669	Leaf	0	-0.6449404447064807	Vegetative leaf - fresh cutting	40	
+evm.TU.05.1669	Leaf	0	-0.6449404447064807	Female reproductive leaf	40	
+evm.TU.05.1669	Meristem	77.1578802811281	1.3555386131843616	Female apical meristem	40	
+evm.TU.05.1669	Meristem	77.1578802811281	1.3555386131843616	Male apical meristem	40	
+evm.TU.05.1669	Root	0	-0.6449404447064807	Roots	40	
+evm.TU.05.1669	Root	0	-0.6449404447064807	Root	40	
+evm.TU.05.1669	Root	0	-0.6449404447064807	Female root-mid	40	
+evm.TU.05.1669	Root	0	-0.6449404447064807	Female root-tip	40	
+evm.TU.05.1669	Stem	0	-0.6449404447064807	Stem	40	
+evm.TU.05.1669	Stem	0	-0.6449404447064807	Primary stem	40	
+evm.TU.05.1669	Stem	0	-0.6449404447064807	Shoot	40	
+evm.TU.05.1669	Trichome	57.601124975877006	1.2242231656415605	Trichomes	40	
+evm.TU.05.2139	Flower	0	-0.6454909095024832	Female flower	40	
+evm.TU.05.2139	Flower	0	-0.6454909095024832	Flower	40	
+evm.TU.05.2139	Flower	0	-0.6454909095024832	Male flower	40	
+evm.TU.05.2139	Flower	0	-0.6454909095024832	Female reproductive bud	40	
+evm.TU.05.2139	Flower	0	-0.6454909095024832	Female floral bud	40	
+evm.TU.05.2139	Leaf	0	-0.6454909095024832	Leaf	40	
+evm.TU.05.2139	Leaf	0	-0.6454909095024832	Leaf 	40	
+evm.TU.05.2139	Leaf	0	-0.6454909095024832	Petiole	40	
+evm.TU.05.2139	Leaf	0	-0.6454909095024832	Vegetative leaf - fresh cutting	40	
+evm.TU.05.2139	Leaf	0	-0.6454909095024832	Female reproductive leaf	40	
+evm.TU.05.2139	Meristem	33.16999735710855	1.2839879289614107	Female apical meristem	40	
+evm.TU.05.2139	Meristem	33.16999735710855	1.2839879289614107	Male apical meristem	40	
+evm.TU.05.2139	Root	0	-0.6454909095024832	Roots	40	
+evm.TU.05.2139	Root	0	-0.6454909095024832	Root	40	
+evm.TU.05.2139	Root	0	-0.6454909095024832	Female root-mid	40	
+evm.TU.05.2139	Root	0	-0.6454909095024832	Female root-tip	40	
+evm.TU.05.2139	Stem	0	-0.6454909095024832	Stem	40	
+evm.TU.05.2139	Stem	0	-0.6454909095024832	Primary stem	40	
+evm.TU.05.2139	Stem	0	-0.6454909095024832	Shoot	40	
+evm.TU.05.2139	Trichome	26.807487249731576	1.2979757090485224	Trichomes	40	
+evm.TU.ctgX21.2	Flower	0	-0.6450900086227447	Female flower	40	
+evm.TU.ctgX21.2	Flower	0	-0.6450900086227447	Flower	40	
+evm.TU.ctgX21.2	Flower	0	-0.6450900086227447	Male flower	40	
+evm.TU.ctgX21.2	Flower	0	-0.6450900086227447	Female reproductive bud	40	
+evm.TU.ctgX21.2	Flower	0	-0.6450900086227447	Female floral bud	40	
+evm.TU.ctgX21.2	Leaf	0	-0.6450900086227447	Leaf	40	
+evm.TU.ctgX21.2	Leaf	0	-0.6450900086227447	Leaf 	40	
+evm.TU.ctgX21.2	Leaf	0	-0.6450900086227447	Petiole	40	
+evm.TU.ctgX21.2	Leaf	0	-0.6450900086227447	Vegetative leaf - fresh cutting	40	
+evm.TU.ctgX21.2	Leaf	0	-0.6450900086227447	Female reproductive leaf	40	
+evm.TU.ctgX21.2	Meristem	61.059758196954114	1.3463341324165399	Female apical meristem	40	
+evm.TU.ctgX21.2	Meristem	61.059758196954114	1.3463341324165399	Male apical meristem	40	
+evm.TU.ctgX21.2	Root	0	-0.6450900086227447	Roots	40	
+evm.TU.ctgX21.2	Root	0	-0.6450900086227447	Root	40	
+evm.TU.ctgX21.2	Root	0	-0.6450900086227447	Female root-mid	40	
+evm.TU.ctgX21.2	Root	0	-0.6450900086227447	Female root-tip	40	
+evm.TU.ctgX21.2	Stem	0	-0.6450900086227447	Stem	40	
+evm.TU.ctgX21.2	Stem	0	-0.6450900086227447	Primary stem	40	
+evm.TU.ctgX21.2	Stem	0	-0.6450900086227447	Shoot	40	
+evm.TU.ctgX21.2	Trichome	46.53636908954432	1.2340259020744386	Trichomes	40	

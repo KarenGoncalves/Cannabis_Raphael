@@ -1,0 +1,221 @@
+gene_ID	SampleName	mean.TPM	z.score.logTPM	Part	module	description
+evm.TU.01.2132	Flower	40.986792456912085	-0.36973341547638167	Female flower	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Flower	40.986792456912085	-0.36973341547638167	Flower	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Flower	40.986792456912085	-0.36973341547638167	Male flower	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Flower	40.986792456912085	-0.36973341547638167	Female reproductive bud	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Flower	40.986792456912085	-0.36973341547638167	Female floral bud	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Leaf	83.3985443402688	0.4197757000910425	Leaf	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Leaf	83.3985443402688	0.4197757000910425	Leaf 	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Leaf	83.3985443402688	0.4197757000910425	Petiole	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Leaf	83.3985443402688	0.4197757000910425	Vegetative leaf - fresh cutting	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Leaf	83.3985443402688	0.4197757000910425	Female reproductive leaf	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Meristem	25.35755954811511	-1.0482361603965815	Female apical meristem	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Meristem	25.35755954811511	-1.0482361603965815	Male apical meristem	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Root	49.80355246899331	-0.04204904457396812	Roots	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Root	49.80355246899331	-0.04204904457396812	Root	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Root	49.80355246899331	-0.04204904457396812	Female root-mid	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Root	49.80355246899331	-0.04204904457396812	Female root-tip	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Stem	185.64842075381497	1.7541120854068029	Stem	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Stem	185.64842075381497	1.7541120854068029	Primary stem	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Stem	185.64842075381497	1.7541120854068029	Shoot	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2132	Trichome	30.273106504840296	-0.7138691650509142	Trichomes	24	Branching enzyme-I precursor (Starch-branching enzyme I) (1,4-alpha- glucan branching enzyme I) [Source: Projected from Oryza sativa (Os06g0726400)]
+evm.TU.01.2283	Flower	78.97029036769781	-0.4443526594392574	Female flower	24	
+evm.TU.01.2283	Flower	78.97029036769781	-0.4443526594392574	Flower	24	
+evm.TU.01.2283	Flower	78.97029036769781	-0.4443526594392574	Male flower	24	
+evm.TU.01.2283	Flower	78.97029036769781	-0.4443526594392574	Female reproductive bud	24	
+evm.TU.01.2283	Flower	78.97029036769781	-0.4443526594392574	Female floral bud	24	
+evm.TU.01.2283	Leaf	109.36913765895702	0.19126706253466969	Leaf	24	
+evm.TU.01.2283	Leaf	109.36913765895702	0.19126706253466969	Leaf 	24	
+evm.TU.01.2283	Leaf	109.36913765895702	0.19126706253466969	Petiole	24	
+evm.TU.01.2283	Leaf	109.36913765895702	0.19126706253466969	Vegetative leaf - fresh cutting	24	
+evm.TU.01.2283	Leaf	109.36913765895702	0.19126706253466969	Female reproductive leaf	24	
+evm.TU.01.2283	Meristem	53.94430682799912	-1.1821577488629567	Female apical meristem	24	
+evm.TU.01.2283	Meristem	53.94430682799912	-1.1821577488629567	Male apical meristem	24	
+evm.TU.01.2283	Root	92.15508890521895	0.03973418064300749	Roots	24	
+evm.TU.01.2283	Root	92.15508890521895	0.03973418064300749	Root	24	
+evm.TU.01.2283	Root	92.15508890521895	0.03973418064300749	Female root-mid	24	
+evm.TU.01.2283	Root	92.15508890521895	0.03973418064300749	Female root-tip	24	
+evm.TU.01.2283	Stem	211.6533184985802	1.791639622581836	Stem	24	
+evm.TU.01.2283	Stem	211.6533184985802	1.791639622581836	Primary stem	24	
+evm.TU.01.2283	Stem	211.6533184985802	1.791639622581836	Shoot	24	
+evm.TU.01.2283	Trichome	77.74729953529544	-0.39613045745729925	Trichomes	24	
+evm.TU.02.3001	Flower	115.04889080992338	0.496123443331059	Female flower	24	
+evm.TU.02.3001	Flower	115.04889080992338	0.496123443331059	Flower	24	
+evm.TU.02.3001	Flower	115.04889080992338	0.496123443331059	Male flower	24	
+evm.TU.02.3001	Flower	115.04889080992338	0.496123443331059	Female reproductive bud	24	
+evm.TU.02.3001	Flower	115.04889080992338	0.496123443331059	Female floral bud	24	
+evm.TU.02.3001	Leaf	104.31699244369679	-0.1349477485333676	Leaf	24	
+evm.TU.02.3001	Leaf	104.31699244369679	-0.1349477485333676	Leaf 	24	
+evm.TU.02.3001	Leaf	104.31699244369679	-0.1349477485333676	Petiole	24	
+evm.TU.02.3001	Leaf	104.31699244369679	-0.1349477485333676	Vegetative leaf - fresh cutting	24	
+evm.TU.02.3001	Leaf	104.31699244369679	-0.1349477485333676	Female reproductive leaf	24	
+evm.TU.02.3001	Meristem	64.25681115207627	-0.6364648948836087	Female apical meristem	24	
+evm.TU.02.3001	Meristem	64.25681115207627	-0.6364648948836087	Male apical meristem	24	
+evm.TU.02.3001	Root	76.53965939216351	-0.8520287008142465	Roots	24	
+evm.TU.02.3001	Root	76.53965939216351	-0.8520287008142465	Root	24	
+evm.TU.02.3001	Root	76.53965939216351	-0.8520287008142465	Female root-mid	24	
+evm.TU.02.3001	Root	76.53965939216351	-0.8520287008142465	Female root-tip	24	
+evm.TU.02.3001	Stem	210.58888371941399	1.782097980493792	Stem	24	
+evm.TU.02.3001	Stem	210.58888371941399	1.782097980493792	Primary stem	24	
+evm.TU.02.3001	Stem	210.58888371941399	1.782097980493792	Shoot	24	
+evm.TU.02.3001	Trichome	61.97519544250165	-0.6547800795936303	Trichomes	24	
+evm.TU.03.2020	Flower	83.90564511638512	0.674252455072765	Female flower	24	
+evm.TU.03.2020	Flower	83.90564511638512	0.674252455072765	Flower	24	
+evm.TU.03.2020	Flower	83.90564511638512	0.674252455072765	Male flower	24	
+evm.TU.03.2020	Flower	83.90564511638512	0.674252455072765	Female reproductive bud	24	
+evm.TU.03.2020	Flower	83.90564511638512	0.674252455072765	Female floral bud	24	
+evm.TU.03.2020	Leaf	107.97116468049393	0.8253999417337518	Leaf	24	
+evm.TU.03.2020	Leaf	107.97116468049393	0.8253999417337518	Leaf 	24	
+evm.TU.03.2020	Leaf	107.97116468049393	0.8253999417337518	Petiole	24	
+evm.TU.03.2020	Leaf	107.97116468049393	0.8253999417337518	Vegetative leaf - fresh cutting	24	
+evm.TU.03.2020	Leaf	107.97116468049393	0.8253999417337518	Female reproductive leaf	24	
+evm.TU.03.2020	Meristem	0	-1.67745737228347	Female apical meristem	24	
+evm.TU.03.2020	Meristem	0	-1.67745737228347	Male apical meristem	24	
+evm.TU.03.2020	Root	31.44051790065184	0.25024754712395836	Roots	24	
+evm.TU.03.2020	Root	31.44051790065184	0.25024754712395836	Root	24	
+evm.TU.03.2020	Root	31.44051790065184	0.25024754712395836	Female root-mid	24	
+evm.TU.03.2020	Root	31.44051790065184	0.25024754712395836	Female root-tip	24	
+evm.TU.03.2020	Stem	337.88319033903537	0.6655577140230049	Stem	24	
+evm.TU.03.2020	Stem	337.88319033903537	0.6655577140230049	Primary stem	24	
+evm.TU.03.2020	Stem	337.88319033903537	0.6655577140230049	Shoot	24	
+evm.TU.03.2020	Trichome	4.11448530181681	-0.7380002856700109	Trichomes	24	
+evm.TU.03.394	Flower	8.216275529505575	0.13329322040288918	Female flower	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Flower	8.216275529505575	0.13329322040288918	Flower	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Flower	8.216275529505575	0.13329322040288918	Male flower	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Flower	8.216275529505575	0.13329322040288918	Female reproductive bud	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Flower	8.216275529505575	0.13329322040288918	Female floral bud	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Leaf	16.737292726675797	0.6708840977247531	Leaf	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Leaf	16.737292726675797	0.6708840977247531	Leaf 	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Leaf	16.737292726675797	0.6708840977247531	Petiole	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Leaf	16.737292726675797	0.6708840977247531	Vegetative leaf - fresh cutting	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Leaf	16.737292726675797	0.6708840977247531	Female reproductive leaf	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Meristem	6.016377644198372	0.06639342318843415	Female apical meristem	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Meristem	6.016377644198372	0.06639342318843415	Male apical meristem	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Root	0.5910619445418452	-1.3335358766732384	Roots	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Root	0.5910619445418452	-1.3335358766732384	Root	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Root	0.5910619445418452	-1.3335358766732384	Female root-mid	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Root	0.5910619445418452	-1.3335358766732384	Female root-tip	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Stem	47.03600282976975	1.3808852528849431	Stem	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Stem	47.03600282976975	1.3808852528849431	Primary stem	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Stem	47.03600282976975	1.3808852528849431	Shoot	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.03.394	Trichome	1.464507011139551	-0.9179201175277816	Trichomes	24	Protein NRT1/ PTR FAMILY 4.7 [Source:Projected from Arabidopsis thaliana (AT5G62730) UniProtKB/Swiss-Prot;Acc:Q9FM20]
+evm.TU.04.1267	Flower	0	-0.6435331703737945	Female flower	24	
+evm.TU.04.1267	Flower	0	-0.6435331703737945	Flower	24	
+evm.TU.04.1267	Flower	0	-0.6435331703737945	Male flower	24	
+evm.TU.04.1267	Flower	0	-0.6435331703737945	Female reproductive bud	24	
+evm.TU.04.1267	Flower	0	-0.6435331703737945	Female floral bud	24	
+evm.TU.04.1267	Leaf	11.46176234428932	1.1638171956312167	Leaf	24	
+evm.TU.04.1267	Leaf	11.46176234428932	1.1638171956312167	Leaf 	24	
+evm.TU.04.1267	Leaf	11.46176234428932	1.1638171956312167	Petiole	24	
+evm.TU.04.1267	Leaf	11.46176234428932	1.1638171956312167	Vegetative leaf - fresh cutting	24	
+evm.TU.04.1267	Leaf	11.46176234428932	1.1638171956312167	Female reproductive leaf	24	
+evm.TU.04.1267	Meristem	0	-0.6435331703737945	Female apical meristem	24	
+evm.TU.04.1267	Meristem	0	-0.6435331703737945	Male apical meristem	24	
+evm.TU.04.1267	Root	0	-0.6435331703737945	Roots	24	
+evm.TU.04.1267	Root	0	-0.6435331703737945	Root	24	
+evm.TU.04.1267	Root	0	-0.6435331703737945	Female root-mid	24	
+evm.TU.04.1267	Root	0	-0.6435331703737945	Female root-tip	24	
+evm.TU.04.1267	Stem	29.745005988399345	1.410315485863961	Stem	24	
+evm.TU.04.1267	Stem	29.745005988399345	1.410315485863961	Primary stem	24	
+evm.TU.04.1267	Stem	29.745005988399345	1.410315485863961	Shoot	24	
+evm.TU.04.1267	Trichome	0	-0.6435331703737945	Trichomes	24	
+evm.TU.04.282	Flower	45.892794763290254	0.34394780570129785	Female flower	24	
+evm.TU.04.282	Flower	45.892794763290254	0.34394780570129785	Flower	24	
+evm.TU.04.282	Flower	45.892794763290254	0.34394780570129785	Male flower	24	
+evm.TU.04.282	Flower	45.892794763290254	0.34394780570129785	Female reproductive bud	24	
+evm.TU.04.282	Flower	45.892794763290254	0.34394780570129785	Female floral bud	24	
+evm.TU.04.282	Leaf	73.10134489589676	0.6149403814996667	Leaf	24	
+evm.TU.04.282	Leaf	73.10134489589676	0.6149403814996667	Leaf 	24	
+evm.TU.04.282	Leaf	73.10134489589676	0.6149403814996667	Petiole	24	
+evm.TU.04.282	Leaf	73.10134489589676	0.6149403814996667	Vegetative leaf - fresh cutting	24	
+evm.TU.04.282	Leaf	73.10134489589676	0.6149403814996667	Female reproductive leaf	24	
+evm.TU.04.282	Meristem	0	-1.7711458980091332	Female apical meristem	24	
+evm.TU.04.282	Meristem	0	-1.7711458980091332	Male apical meristem	24	
+evm.TU.04.282	Root	40.997285299463414	0.21299326208335853	Roots	24	
+evm.TU.04.282	Root	40.997285299463414	0.21299326208335853	Root	24	
+evm.TU.04.282	Root	40.997285299463414	0.21299326208335853	Female root-mid	24	
+evm.TU.04.282	Root	40.997285299463414	0.21299326208335853	Female root-tip	24	
+evm.TU.04.282	Stem	180.7256185376385	1.0551669266342774	Stem	24	
+evm.TU.04.282	Stem	180.7256185376385	1.0551669266342774	Primary stem	24	
+evm.TU.04.282	Stem	180.7256185376385	1.0551669266342774	Shoot	24	
+evm.TU.04.282	Trichome	10.972849163741538	-0.45590247790946686	Trichomes	24	
+evm.TU.06.365	Flower	178.47239113722	0.406153022947717	Female flower	24	
+evm.TU.06.365	Flower	178.47239113722	0.406153022947717	Flower	24	
+evm.TU.06.365	Flower	178.47239113722	0.406153022947717	Male flower	24	
+evm.TU.06.365	Flower	178.47239113722	0.406153022947717	Female reproductive bud	24	
+evm.TU.06.365	Flower	178.47239113722	0.406153022947717	Female floral bud	24	
+evm.TU.06.365	Leaf	256.6301525828304	0.6943655996296361	Leaf	24	
+evm.TU.06.365	Leaf	256.6301525828304	0.6943655996296361	Leaf 	24	
+evm.TU.06.365	Leaf	256.6301525828304	0.6943655996296361	Petiole	24	
+evm.TU.06.365	Leaf	256.6301525828304	0.6943655996296361	Vegetative leaf - fresh cutting	24	
+evm.TU.06.365	Leaf	256.6301525828304	0.6943655996296361	Female reproductive leaf	24	
+evm.TU.06.365	Meristem	18.633973420918664	-1.7088114569106903	Female apical meristem	24	
+evm.TU.06.365	Meristem	18.633973420918664	-1.7088114569106903	Male apical meristem	24	
+evm.TU.06.365	Root	85.93259818102436	-0.30285212654987714	Roots	24	
+evm.TU.06.365	Root	85.93259818102436	-0.30285212654987714	Root	24	
+evm.TU.06.365	Root	85.93259818102436	-0.30285212654987714	Female root-mid	24	
+evm.TU.06.365	Root	85.93259818102436	-0.30285212654987714	Female root-tip	24	
+evm.TU.06.365	Stem	616.7263413331573	1.1360309877383237	Stem	24	
+evm.TU.06.365	Stem	616.7263413331573	1.1360309877383237	Primary stem	24	
+evm.TU.06.365	Stem	616.7263413331573	1.1360309877383237	Shoot	24	
+evm.TU.06.365	Trichome	87.02537403389282	-0.22488602685510858	Trichomes	24	
+evm.TU.08.485	Flower	167.2937107915265	0.12413783326927641	Female flower	24	
+evm.TU.08.485	Flower	167.2937107915265	0.12413783326927641	Flower	24	
+evm.TU.08.485	Flower	167.2937107915265	0.12413783326927641	Male flower	24	
+evm.TU.08.485	Flower	167.2937107915265	0.12413783326927641	Female reproductive bud	24	
+evm.TU.08.485	Flower	167.2937107915265	0.12413783326927641	Female floral bud	24	
+evm.TU.08.485	Leaf	200.25190511039727	0.3569587572512373	Leaf	24	
+evm.TU.08.485	Leaf	200.25190511039727	0.3569587572512373	Leaf 	24	
+evm.TU.08.485	Leaf	200.25190511039727	0.3569587572512373	Petiole	24	
+evm.TU.08.485	Leaf	200.25190511039727	0.3569587572512373	Vegetative leaf - fresh cutting	24	
+evm.TU.08.485	Leaf	200.25190511039727	0.3569587572512373	Female reproductive leaf	24	
+evm.TU.08.485	Meristem	102.54303882780171	-0.9595204554553964	Female apical meristem	24	
+evm.TU.08.485	Meristem	102.54303882780171	-0.9595204554553964	Male apical meristem	24	
+evm.TU.08.485	Root	95.92271888457275	-1.0874083375887627	Roots	24	
+evm.TU.08.485	Root	95.92271888457275	-1.0874083375887627	Root	24	
+evm.TU.08.485	Root	95.92271888457275	-1.0874083375887627	Female root-mid	24	
+evm.TU.08.485	Root	95.92271888457275	-1.0874083375887627	Female root-tip	24	
+evm.TU.08.485	Stem	412.5343366827184	1.6570209587154205	Stem	24	
+evm.TU.08.485	Stem	412.5343366827184	1.6570209587154205	Primary stem	24	
+evm.TU.08.485	Stem	412.5343366827184	1.6570209587154205	Shoot	24	
+evm.TU.08.485	Trichome	139.50247466888868	-0.0911887561917703	Trichomes	24	
+novel_gene_3691_5bd9a17a	Flower	64.33343089235763	0.3736547075883383	Female flower	24	
+novel_gene_3691_5bd9a17a	Flower	64.33343089235763	0.3736547075883383	Flower	24	
+novel_gene_3691_5bd9a17a	Flower	64.33343089235763	0.3736547075883383	Male flower	24	
+novel_gene_3691_5bd9a17a	Flower	64.33343089235763	0.3736547075883383	Female reproductive bud	24	
+novel_gene_3691_5bd9a17a	Flower	64.33343089235763	0.3736547075883383	Female floral bud	24	
+novel_gene_3691_5bd9a17a	Leaf	118.10870387372668	0.8472419605184839	Leaf	24	
+novel_gene_3691_5bd9a17a	Leaf	118.10870387372668	0.8472419605184839	Leaf 	24	
+novel_gene_3691_5bd9a17a	Leaf	118.10870387372668	0.8472419605184839	Petiole	24	
+novel_gene_3691_5bd9a17a	Leaf	118.10870387372668	0.8472419605184839	Vegetative leaf - fresh cutting	24	
+novel_gene_3691_5bd9a17a	Leaf	118.10870387372668	0.8472419605184839	Female reproductive leaf	24	
+novel_gene_3691_5bd9a17a	Meristem	7.800706695007317	-1.0362509538752414	Female apical meristem	24	
+novel_gene_3691_5bd9a17a	Meristem	7.800706695007317	-1.0362509538752414	Male apical meristem	24	
+novel_gene_3691_5bd9a17a	Root	12.678296725979683	-0.9249150794665146	Roots	24	
+novel_gene_3691_5bd9a17a	Root	12.678296725979683	-0.9249150794665146	Root	24	
+novel_gene_3691_5bd9a17a	Root	12.678296725979683	-0.9249150794665146	Female root-mid	24	
+novel_gene_3691_5bd9a17a	Root	12.678296725979683	-0.9249150794665146	Female root-tip	24	
+novel_gene_3691_5bd9a17a	Stem	293.7003886466991	1.3548376605883137	Stem	24	
+novel_gene_3691_5bd9a17a	Stem	293.7003886466991	1.3548376605883137	Primary stem	24	
+novel_gene_3691_5bd9a17a	Stem	293.7003886466991	1.3548376605883137	Shoot	24	
+novel_gene_3691_5bd9a17a	Trichome	14.709516850966818	-0.6145682953533792	Trichomes	24	
+novel_gene_615_5bd9a17a	Flower	45.81816539225668	0.5442574210244144	Female flower	24	
+novel_gene_615_5bd9a17a	Flower	45.81816539225668	0.5442574210244144	Flower	24	
+novel_gene_615_5bd9a17a	Flower	45.81816539225668	0.5442574210244144	Male flower	24	
+novel_gene_615_5bd9a17a	Flower	45.81816539225668	0.5442574210244144	Female reproductive bud	24	
+novel_gene_615_5bd9a17a	Flower	45.81816539225668	0.5442574210244144	Female floral bud	24	
+novel_gene_615_5bd9a17a	Leaf	51.06156561243142	0.5057283322962953	Leaf	24	
+novel_gene_615_5bd9a17a	Leaf	51.06156561243142	0.5057283322962953	Leaf 	24	
+novel_gene_615_5bd9a17a	Leaf	51.06156561243142	0.5057283322962953	Petiole	24	
+novel_gene_615_5bd9a17a	Leaf	51.06156561243142	0.5057283322962953	Vegetative leaf - fresh cutting	24	
+novel_gene_615_5bd9a17a	Leaf	51.06156561243142	0.5057283322962953	Female reproductive leaf	24	
+novel_gene_615_5bd9a17a	Meristem	4.888710412539881	-1.5974890982148475	Female apical meristem	24	
+novel_gene_615_5bd9a17a	Meristem	4.888710412539881	-1.5974890982148475	Male apical meristem	24	
+novel_gene_615_5bd9a17a	Root	32.594408275217745	0.09546689747811517	Roots	24	
+novel_gene_615_5bd9a17a	Root	32.594408275217745	0.09546689747811517	Root	24	
+novel_gene_615_5bd9a17a	Root	32.594408275217745	0.09546689747811517	Female root-mid	24	
+novel_gene_615_5bd9a17a	Root	32.594408275217745	0.09546689747811517	Female root-tip	24	
+novel_gene_615_5bd9a17a	Stem	127.99764562988597	1.170679245251461	Stem	24	
+novel_gene_615_5bd9a17a	Stem	127.99764562988597	1.170679245251461	Primary stem	24	
+novel_gene_615_5bd9a17a	Stem	127.99764562988597	1.170679245251461	Shoot	24	
+novel_gene_615_5bd9a17a	Trichome	14.146999474177273	-0.7186427978354385	Trichomes	24	
