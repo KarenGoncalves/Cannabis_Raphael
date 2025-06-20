@@ -4,7 +4,7 @@ source("scripts/FUNCTIONS.R") # loads packages too
 runPCA=T
 
 ## Input files ##
-Exp_table <- read_delim("counts/TPM.tsv")
+Exp_table <- read_csv("results/Filtered_TPM.csv")
 metadata <- read_delim("metadata/metadata_pca.txt") %>%
   filter(replicateName %in% names(Exp_table)) %>%
   mutate(SampleName = tissue)
@@ -113,6 +113,11 @@ right_join(all_coefVar_and_ranks, Baits, by="gene_ID")
    geom_hline(yintercept = 
                 nrow(all_coefVar_and_ranks) - nrow(high_var_genes_pct)
               ) +
+  geom_line(linewidth = 0.8) +
+  geom_vline(
+    data = bait_var, aes(xintercept = relVar.TPM), 
+    color = "tomato1", linewidth = 0.2, alpha = 1
+  ) + 
   geom_rect( 
     xmax = max(high_var_genes_pct$relVar.TPM), 
     xmin = min(high_var_genes_pct$relVar.TPM),
@@ -120,11 +125,6 @@ right_join(all_coefVar_and_ranks, Baits, by="gene_ID")
     ymin = nrow(all_coefVar_and_ranks) - nrow(high_var_genes_pct),
     fill = "dodgerblue2", alpha = .01
   )  +
-  geom_line(linewidth = 0.8) +
-  geom_vline(
-    data = bait_var, aes(xintercept = relVar.TPM), 
-    color = "tomato1", linewidth = 0.2, alpha = 1
-  ) + 
   labs(y = "Gene rank",
        x = "TPM relative variance",
        # caption = 
