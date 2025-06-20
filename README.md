@@ -63,10 +63,11 @@ For TPM computation, the GTF file was used to compute gene lengths (through exon
 
 PCA was performed for initial visualization of sample distribution.
 
-Filtering of weakly expressed genes was done using the DAFS method for computation of minimum expression threshold.
+Filtering of weakly expressed genes was done using the [DAFS method](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-92) (implemented in the [CustomSelection package](https://doi.org/10.1186/s12864-021-07743-7)) for computation of minimum expression threshold.
 
-Subsequently, gene co-expression was computed with the TidyGeneCoEx method, using TPM relative variance as proxy for variability and keeping the top 20% expressed genes most variable for network construction. 
+Subsequently, gene co-expression was computed with the [SimpleTidy_GeneCoEx](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20323) method, using TPM relative variance as proxy for variability and keeping the top 20% expressed genes most variable for network construction. 
 
+<!--
 ## DATA-SPECIFIC INFORMATION 
 
 ### [FILENAME]
@@ -81,3 +82,5 @@ Variable List: <list variable name(s), description(s), unit(s) and value labels 
 Missing data codes: <list code/symbol and definition>
 
 Specialized formats or other abbreviations used: 
+-->
+
