@@ -61,7 +61,7 @@ Counts_to_tpm <- function(counts, featureLength) {
   colnames(tpm) <- colnames(counts_)
   return(
     tpm %>% as.data.frame %>%
-      mutate(Gene_ID = rownames(counts_), .before = everything()
+      mutate(gene_ID = rownames(counts_), .before = everything()
     )
   )
 }
