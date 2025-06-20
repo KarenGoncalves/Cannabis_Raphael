@@ -4,29 +4,31 @@ This readme file was generated on June 19th 2025 by Karen Cristine Goncalves dos
 
 Title of Dataset: Cannabis sativa tissue-wise gene co-expression
 
-- Principal Investigator Information
-- Name: Isabel Desgagne-Penix
-- ORCID:
-- Institution: Université du Québec à Trois-Rivieres
-- Email: isabel.desgagne-penix@uqtr.ca
+### Authors
 
-Co-investigator Information
-- Name: Hugo Germain
-- ORCID:
-- Institution: Université du Québec à Trois-Rivieres
-- Email: hugo.germain@uqtr.ca
+- Principal Investigator Information  
+  - Name: Isabel Desgagne-Penix
+  - ORCID:
+  - Institution: Université du Québec à Trois-Rivieres
+  - Email: isabel.<!--.example-->desgagne-penix<!--.example-->@uqtr.ca
 
-Main author Contact Information
-- Name: Raphael Boucher
-- ORCID:
-- Institution: Université du Québec à Trois-Rivieres
-- Email: raphael.boucher@uqtr.ca
+- Co-investigator Information
+  - Name: Hugo Germain
+  - ORCID:
+  - Institution: Université du Québec à Trois-Rivieres
+  - Email: hugo.<!--.example-->germain<!--.example-->@uqtr.ca
+
+- Main author Contact Information
+  - Name: Raphael Boucher
+  - ORCID:
+  - Institution: Université du Québec à Trois-Rivieres
+  - Email: raphael<!--.example-->.boucher@<!--.example-->uqtr.ca
 
 Co-author (Data analysis) Contact Information
 - Name: Karen Cristine Goncalves dos Santos
 - ORCID:
 - Institution: Université du Québec à Trois-Rivieres
-- Email: karen.cristine.goncalves.dos.santos@uqtr.ca
+- Email: karen.<!--.example-->cristine.goncalves.<!--.example-->dos.santos@<!--.example-->uqtr.ca
 
 ## SHARING/ACCESS INFORMATION
 
