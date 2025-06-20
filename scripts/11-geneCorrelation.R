@@ -34,13 +34,10 @@ print("")
 print("Calculate edge table")
 edge_table <- future_map(.progress = T, 1:nrow(cor_matrix_upper_tri), \(i) {
   
-    cor_matrix_upper_tri[i,] %>% 
-    as.data.frame(colnames = colnames(cor_matrix_upper_tri)[i]) %>% 
-    mutate(from = 
-             row.names(cor_matrix)[i]) %>% 
-    pivot_longer(cols = !from, 
-                 names_to = "to", 
-                 values_to = "r") %>% 
+    r = cor_matrix_upper_tri[i,];
+    as.data.frame(r) %>%
+    mutate(from = row.names(cor_matrix),
+           to = rownames(cor_matrix_upper_tri)[i]) %>%
     # remove the lower triangle
     filter(!is.na(r)) %>% 
     # remove self-to-self correlations
