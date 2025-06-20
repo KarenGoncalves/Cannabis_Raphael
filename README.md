@@ -4,37 +4,36 @@ This readme file was generated on June 19th 2025 by Karen Cristine Goncalves dos
 
 Title of Dataset: Cannabis sativa tissue-wise gene co-expression
 
-Principal Investigator Information
-Name: Isabel Desgagne-Penix
-ORCID:
-Institution: Université du Québec à Trois-Rivieres
-Email: isabel.desgagne-penix@uqtr.ca
+- Principal Investigator Information
+- Name: Isabel Desgagne-Penix
+- ORCID:
+- Institution: Université du Québec à Trois-Rivieres
+- Email: isabel.desgagne-penix@uqtr.ca
 
 Co-investigator Information
-Name: Hugo Germain
-ORCID:
-Institution: Université du Québec à Trois-Rivieres
-Email: hugo.germain@uqtr.ca
+- Name: Hugo Germain
+- ORCID:
+- Institution: Université du Québec à Trois-Rivieres
+- Email: hugo.germain@uqtr.ca
 
 Main author Contact Information
-Name: Raphael Boucher
-ORCID:
-Institution: Université du Québec à Trois-Rivieres
-Email: raphael.boucher@uqtr.ca
+- Name: Raphael Boucher
+- ORCID:
+- Institution: Université du Québec à Trois-Rivieres
+- Email: raphael.boucher@uqtr.ca
 
 Co-author (Data analysis) Contact Information
-Name: Karen Cristine Goncalves dos Santos
-ORCID:
-Institution: Université du Québec à Trois-Rivieres
-Email: karen.cristine.goncalves.dos.santos@uqtr.ca
-
-Date of data download: June 2025
+- Name: Karen Cristine Goncalves dos Santos
+- ORCID:
+- Institution: Université du Québec à Trois-Rivieres
+- Email: karen.cristine.goncalves.dos.santos@uqtr.ca
 
 ## SHARING/ACCESS INFORMATION
 
 Licenses/restrictions placed on the data: 
 
-Data downloaded online from NCBI SRA (list of SRA IDs provided in [metadata/SRA_info.csv](./metadata/SRA_info.csv)). The file also contains, when available, the DOI of the publication associated with it.
+Data downloaded online from NCBI SRA (list of SRA IDs provided in [metadata/SRA_info.csv](./metadata/SRA_info.csv)). The file also contains, when available, the DOI of the publication associated with it. Date of data download: June 2025.
+
 
 ## METHODOLOGICAL INFORMATION
 
