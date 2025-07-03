@@ -1,0 +1,121 @@
+gene_ID	SampleName	mean.TPM	z.score.logTPM	Part	module	description
+evm.TU.01.970	Flower	0	-1.047659619893102	Female flower	35	
+evm.TU.01.970	Flower	0	-1.047659619893102	Flower	35	
+evm.TU.01.970	Flower	0	-1.047659619893102	Male flower	35	
+evm.TU.01.970	Flower	0	-1.047659619893102	Female reproductive bud	35	
+evm.TU.01.970	Flower	0	-1.047659619893102	Female floral bud	35	
+evm.TU.01.970	Leaf	181.93527899270694	0.8000880147106078	Leaf	35	
+evm.TU.01.970	Leaf	181.93527899270694	0.8000880147106078	Leaf 	35	
+evm.TU.01.970	Leaf	181.93527899270694	0.8000880147106078	Petiole	35	
+evm.TU.01.970	Leaf	181.93527899270694	0.8000880147106078	Vegetative leaf - fresh cutting	35	
+evm.TU.01.970	Leaf	181.93527899270694	0.8000880147106078	Female reproductive leaf	35	
+evm.TU.01.970	Meristem	0	-1.047659619893102	Female apical meristem	35	
+evm.TU.01.970	Meristem	0	-1.047659619893102	Male apical meristem	35	
+evm.TU.01.970	Root	242.83355411119442	1.017240830746167	Roots	35	
+evm.TU.01.970	Root	242.83355411119442	1.017240830746167	Root	35	
+evm.TU.01.970	Root	242.83355411119442	1.017240830746167	Female root-mid	35	
+evm.TU.01.970	Root	242.83355411119442	1.017240830746167	Female root-tip	35	
+evm.TU.01.970	Stem	192.90112119054484	0.8776627722620832	Stem	35	
+evm.TU.01.970	Stem	192.90112119054484	0.8776627722620832	Primary stem	35	
+evm.TU.01.970	Stem	192.90112119054484	0.8776627722620832	Shoot	35	
+evm.TU.01.970	Trichome	2.735509965332368	-0.5996723779326538	Trichomes	35	
+evm.TU.02.3278	Flower	105.12426082788696	-0.5100503855200158	Female flower	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Flower	105.12426082788696	-0.5100503855200158	Flower	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Flower	105.12426082788696	-0.5100503855200158	Male flower	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Flower	105.12426082788696	-0.5100503855200158	Female reproductive bud	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Flower	105.12426082788696	-0.5100503855200158	Female floral bud	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Leaf	156.042474116546	0.5907959067513634	Leaf	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Leaf	156.042474116546	0.5907959067513634	Leaf 	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Leaf	156.042474116546	0.5907959067513634	Petiole	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Leaf	156.042474116546	0.5907959067513634	Vegetative leaf - fresh cutting	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Leaf	156.042474116546	0.5907959067513634	Female reproductive leaf	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Meristem	75.50641903060044	-0.6782390301629742	Female apical meristem	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Meristem	75.50641903060044	-0.6782390301629742	Male apical meristem	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Root	181.01230908398335	1.225025343386661	Roots	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Root	181.01230908398335	1.225025343386661	Root	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Root	181.01230908398335	1.225025343386661	Female root-mid	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Root	181.01230908398335	1.225025343386661	Female root-tip	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Stem	163.4621105151818	0.742930686626554	Stem	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Stem	163.4621105151818	0.742930686626554	Primary stem	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Stem	163.4621105151818	0.742930686626554	Shoot	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.02.3278	Trichome	55.50161182205288	-1.370462521081586	Trichomes	35	eukaryotic translation initiation factor 6 [Source:UniProtKB Gene Name;Acc:A0A7J6EE57]
+evm.TU.03.144	Flower	31.671393217462377	-0.7060134311314392	Female flower	35	
+evm.TU.03.144	Flower	31.671393217462377	-0.7060134311314392	Flower	35	
+evm.TU.03.144	Flower	31.671393217462377	-0.7060134311314392	Male flower	35	
+evm.TU.03.144	Flower	31.671393217462377	-0.7060134311314392	Female reproductive bud	35	
+evm.TU.03.144	Flower	31.671393217462377	-0.7060134311314392	Female floral bud	35	
+evm.TU.03.144	Leaf	107.38190562279314	0.7466582372290622	Leaf	35	
+evm.TU.03.144	Leaf	107.38190562279314	0.7466582372290622	Leaf 	35	
+evm.TU.03.144	Leaf	107.38190562279314	0.7466582372290622	Petiole	35	
+evm.TU.03.144	Leaf	107.38190562279314	0.7466582372290622	Vegetative leaf - fresh cutting	35	
+evm.TU.03.144	Leaf	107.38190562279314	0.7466582372290622	Female reproductive leaf	35	
+evm.TU.03.144	Meristem	35.78420953367423	-0.5528458069630444	Female apical meristem	35	
+evm.TU.03.144	Meristem	35.78420953367423	-0.5528458069630444	Male apical meristem	35	
+evm.TU.03.144	Root	135.54791230020982	1.0959586601063005	Roots	35	
+evm.TU.03.144	Root	135.54791230020982	1.0959586601063005	Root	35	
+evm.TU.03.144	Root	135.54791230020982	1.0959586601063005	Female root-mid	35	
+evm.TU.03.144	Root	135.54791230020982	1.0959586601063005	Female root-tip	35	
+evm.TU.03.144	Stem	102.49643421103559	0.7727563516835114	Stem	35	
+evm.TU.03.144	Stem	102.49643421103559	0.7727563516835114	Primary stem	35	
+evm.TU.03.144	Stem	102.49643421103559	0.7727563516835114	Shoot	35	
+evm.TU.03.144	Trichome	18.804464617888865	-1.3565140109243892	Trichomes	35	
+evm.TU.06.1324	Flower	70.87758897374684	-0.5278905389740717	Female flower	35	
+evm.TU.06.1324	Flower	70.87758897374684	-0.5278905389740717	Flower	35	
+evm.TU.06.1324	Flower	70.87758897374684	-0.5278905389740717	Male flower	35	
+evm.TU.06.1324	Flower	70.87758897374684	-0.5278905389740717	Female reproductive bud	35	
+evm.TU.06.1324	Flower	70.87758897374684	-0.5278905389740717	Female floral bud	35	
+evm.TU.06.1324	Leaf	159.40509884600692	0.6260519274695928	Leaf	35	
+evm.TU.06.1324	Leaf	159.40509884600692	0.6260519274695928	Leaf 	35	
+evm.TU.06.1324	Leaf	159.40509884600692	0.6260519274695928	Petiole	35	
+evm.TU.06.1324	Leaf	159.40509884600692	0.6260519274695928	Vegetative leaf - fresh cutting	35	
+evm.TU.06.1324	Leaf	159.40509884600692	0.6260519274695928	Female reproductive leaf	35	
+evm.TU.06.1324	Meristem	52.682142335371246	-0.7536825375156995	Female apical meristem	35	
+evm.TU.06.1324	Meristem	52.682142335371246	-0.7536825375156995	Male apical meristem	35	
+evm.TU.06.1324	Root	202.78774095835925	1.0699690510401179	Roots	35	
+evm.TU.06.1324	Root	202.78774095835925	1.0699690510401179	Root	35	
+evm.TU.06.1324	Root	202.78774095835925	1.0699690510401179	Female root-mid	35	
+evm.TU.06.1324	Root	202.78774095835925	1.0699690510401179	Female root-tip	35	
+evm.TU.06.1324	Stem	169.74623135339826	0.9176395726428144	Stem	35	
+evm.TU.06.1324	Stem	169.74623135339826	0.9176395726428144	Primary stem	35	
+evm.TU.06.1324	Stem	169.74623135339826	0.9176395726428144	Shoot	35	
+evm.TU.06.1324	Trichome	34.588993148328576	-1.3320874746627531	Trichomes	35	
+evm.TU.09.55	Flower	11.203032512201126	-0.3695315809652092	Female flower	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Flower	11.203032512201126	-0.3695315809652092	Flower	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Flower	11.203032512201126	-0.3695315809652092	Male flower	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Flower	11.203032512201126	-0.3695315809652092	Female reproductive bud	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Flower	11.203032512201126	-0.3695315809652092	Female floral bud	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Leaf	83.87913026506696	0.8404479367946482	Leaf	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Leaf	83.87913026506696	0.8404479367946482	Leaf 	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Leaf	83.87913026506696	0.8404479367946482	Petiole	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Leaf	83.87913026506696	0.8404479367946482	Vegetative leaf - fresh cutting	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Leaf	83.87913026506696	0.8404479367946482	Female reproductive leaf	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Meristem	0	-1.3740638444335915	Female apical meristem	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Meristem	0	-1.3740638444335915	Male apical meristem	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Root	110.39917618835251	0.9187684751449162	Roots	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Root	110.39917618835251	0.9187684751449162	Root	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Root	110.39917618835251	0.9187684751449162	Female root-mid	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Root	110.39917618835251	0.9187684751449162	Female root-tip	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Stem	91.83146257623844	0.8362228914653711	Stem	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Stem	91.83146257623844	0.8362228914653711	Primary stem	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Stem	91.83146257623844	0.8362228914653711	Shoot	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+evm.TU.09.55	Trichome	2.058433845234174	-0.851843878006135	Trichomes	35	Allantoinase [Source:Projected from Arabidopsis thaliana (AT4G04955) UniProtKB/Swiss-Prot;Acc:Q94AP0]
+novel_gene_2117_5bd9a17a	Flower	49.335722536956155	-0.2600464303118141	Female flower	35	
+novel_gene_2117_5bd9a17a	Flower	49.335722536956155	-0.2600464303118141	Flower	35	
+novel_gene_2117_5bd9a17a	Flower	49.335722536956155	-0.2600464303118141	Male flower	35	
+novel_gene_2117_5bd9a17a	Flower	49.335722536956155	-0.2600464303118141	Female reproductive bud	35	
+novel_gene_2117_5bd9a17a	Flower	49.335722536956155	-0.2600464303118141	Female floral bud	35	
+novel_gene_2117_5bd9a17a	Leaf	151.03587618314052	0.7008785169308687	Leaf	35	
+novel_gene_2117_5bd9a17a	Leaf	151.03587618314052	0.7008785169308687	Leaf 	35	
+novel_gene_2117_5bd9a17a	Leaf	151.03587618314052	0.7008785169308687	Petiole	35	
+novel_gene_2117_5bd9a17a	Leaf	151.03587618314052	0.7008785169308687	Vegetative leaf - fresh cutting	35	
+novel_gene_2117_5bd9a17a	Leaf	151.03587618314052	0.7008785169308687	Female reproductive leaf	35	
+novel_gene_2117_5bd9a17a	Meristem	14.385865915618947	-1.639436215199613	Female apical meristem	35	
+novel_gene_2117_5bd9a17a	Meristem	14.385865915618947	-1.639436215199613	Male apical meristem	35	
+novel_gene_2117_5bd9a17a	Root	180.43934532373288	0.939048619875262	Roots	35	
+novel_gene_2117_5bd9a17a	Root	180.43934532373288	0.939048619875262	Root	35	
+novel_gene_2117_5bd9a17a	Root	180.43934532373288	0.939048619875262	Female root-mid	35	
+novel_gene_2117_5bd9a17a	Root	180.43934532373288	0.939048619875262	Female root-tip	35	
+novel_gene_2117_5bd9a17a	Stem	150.29431382505155	0.7770401483396501	Stem	35	
+novel_gene_2117_5bd9a17a	Stem	150.29431382505155	0.7770401483396501	Primary stem	35	
+novel_gene_2117_5bd9a17a	Stem	150.29431382505155	0.7770401483396501	Shoot	35	
+novel_gene_2117_5bd9a17a	Trichome	37.51467080802718	-0.5174846396343549	Trichomes	35	

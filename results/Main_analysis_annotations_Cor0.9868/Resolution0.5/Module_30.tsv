@@ -1,0 +1,141 @@
+gene_ID	SampleName	mean.TPM	z.score.logTPM	Part	module	description
+evm.TU.01.445	Flower	640.6479799508775	0.6028988369843261	Female flower	30	
+evm.TU.01.445	Flower	640.6479799508775	0.6028988369843261	Flower	30	
+evm.TU.01.445	Flower	640.6479799508775	0.6028988369843261	Male flower	30	
+evm.TU.01.445	Flower	640.6479799508775	0.6028988369843261	Female reproductive bud	30	
+evm.TU.01.445	Flower	640.6479799508775	0.6028988369843261	Female floral bud	30	
+evm.TU.01.445	Leaf	1003.294021801567	0.4674781206881643	Leaf	30	
+evm.TU.01.445	Leaf	1003.294021801567	0.4674781206881643	Leaf 	30	
+evm.TU.01.445	Leaf	1003.294021801567	0.4674781206881643	Petiole	30	
+evm.TU.01.445	Leaf	1003.294021801567	0.4674781206881643	Vegetative leaf - fresh cutting	30	
+evm.TU.01.445	Leaf	1003.294021801567	0.4674781206881643	Female reproductive leaf	30	
+evm.TU.01.445	Meristem	183.88998721246796	-0.6815413155647941	Female apical meristem	30	
+evm.TU.01.445	Meristem	183.88998721246796	-0.6815413155647941	Male apical meristem	30	
+evm.TU.01.445	Root	112.76698540781874	-1.2416175782782026	Roots	30	
+evm.TU.01.445	Root	112.76698540781874	-1.2416175782782026	Root	30	
+evm.TU.01.445	Root	112.76698540781874	-1.2416175782782026	Female root-mid	30	
+evm.TU.01.445	Root	112.76698540781874	-1.2416175782782026	Female root-tip	30	
+evm.TU.01.445	Stem	202.1591476740883	-0.5855986336894468	Stem	30	
+evm.TU.01.445	Stem	202.1591476740883	-0.5855986336894468	Primary stem	30	
+evm.TU.01.445	Stem	202.1591476740883	-0.5855986336894468	Shoot	30	
+evm.TU.01.445	Trichome	1193.9914735139253	1.4383805698599532	Trichomes	30	
+evm.TU.02.2067	Flower	268.3849759346802	0.6386100597921526	Female flower	30	
+evm.TU.02.2067	Flower	268.3849759346802	0.6386100597921526	Flower	30	
+evm.TU.02.2067	Flower	268.3849759346802	0.6386100597921526	Male flower	30	
+evm.TU.02.2067	Flower	268.3849759346802	0.6386100597921526	Female reproductive bud	30	
+evm.TU.02.2067	Flower	268.3849759346802	0.6386100597921526	Female floral bud	30	
+evm.TU.02.2067	Leaf	336.4876218402843	0.6573749991207724	Leaf	30	
+evm.TU.02.2067	Leaf	336.4876218402843	0.6573749991207724	Leaf 	30	
+evm.TU.02.2067	Leaf	336.4876218402843	0.6573749991207724	Petiole	30	
+evm.TU.02.2067	Leaf	336.4876218402843	0.6573749991207724	Vegetative leaf - fresh cutting	30	
+evm.TU.02.2067	Leaf	336.4876218402843	0.6573749991207724	Female reproductive leaf	30	
+evm.TU.02.2067	Meristem	69.39844183290253	-0.8303164958906561	Female apical meristem	30	
+evm.TU.02.2067	Meristem	69.39844183290253	-0.8303164958906561	Male apical meristem	30	
+evm.TU.02.2067	Root	61.03614019391795	-1.0802871759325923	Roots	30	
+evm.TU.02.2067	Root	61.03614019391795	-1.0802871759325923	Root	30	
+evm.TU.02.2067	Root	61.03614019391795	-1.0802871759325923	Female root-mid	30	
+evm.TU.02.2067	Root	61.03614019391795	-1.0802871759325923	Female root-tip	30	
+evm.TU.02.2067	Stem	84.40443504693293	-0.7209687241773074	Stem	30	
+evm.TU.02.2067	Stem	84.40443504693293	-0.7209687241773074	Primary stem	30	
+evm.TU.02.2067	Stem	84.40443504693293	-0.7209687241773074	Shoot	30	
+evm.TU.02.2067	Trichome	394.0168969276476	1.3355873370876272	Trichomes	30	
+evm.TU.02.2615	Flower	255.38413138729118	0.7920098808184995	Female flower	30	
+evm.TU.02.2615	Flower	255.38413138729118	0.7920098808184995	Flower	30	
+evm.TU.02.2615	Flower	255.38413138729118	0.7920098808184995	Male flower	30	
+evm.TU.02.2615	Flower	255.38413138729118	0.7920098808184995	Female reproductive bud	30	
+evm.TU.02.2615	Flower	255.38413138729118	0.7920098808184995	Female floral bud	30	
+evm.TU.02.2615	Leaf	303.56006438251205	0.4243245033513592	Leaf	30	
+evm.TU.02.2615	Leaf	303.56006438251205	0.4243245033513592	Leaf 	30	
+evm.TU.02.2615	Leaf	303.56006438251205	0.4243245033513592	Petiole	30	
+evm.TU.02.2615	Leaf	303.56006438251205	0.4243245033513592	Vegetative leaf - fresh cutting	30	
+evm.TU.02.2615	Leaf	303.56006438251205	0.4243245033513592	Female reproductive leaf	30	
+evm.TU.02.2615	Meristem	81.14073562881798	-1.0769943678256635	Female apical meristem	30	
+evm.TU.02.2615	Meristem	81.14073562881798	-1.0769943678256635	Male apical meristem	30	
+evm.TU.02.2615	Root	106.62731119331723	-0.5024905793481284	Roots	30	
+evm.TU.02.2615	Root	106.62731119331723	-0.5024905793481284	Root	30	
+evm.TU.02.2615	Root	106.62731119331723	-0.5024905793481284	Female root-mid	30	
+evm.TU.02.2615	Root	106.62731119331723	-0.5024905793481284	Female root-tip	30	
+evm.TU.02.2615	Stem	83.60013062282891	-0.9833960160360115	Stem	30	
+evm.TU.02.2615	Stem	83.60013062282891	-0.9833960160360115	Primary stem	30	
+evm.TU.02.2615	Stem	83.60013062282891	-0.9833960160360115	Shoot	30	
+evm.TU.02.2615	Trichome	368.1722126904319	1.3465465790399422	Trichomes	30	
+evm.TU.02.729	Flower	102.2430596077541	0.539506632779213	Female flower	30	
+evm.TU.02.729	Flower	102.2430596077541	0.539506632779213	Flower	30	
+evm.TU.02.729	Flower	102.2430596077541	0.539506632779213	Male flower	30	
+evm.TU.02.729	Flower	102.2430596077541	0.539506632779213	Female reproductive bud	30	
+evm.TU.02.729	Flower	102.2430596077541	0.539506632779213	Female floral bud	30	
+evm.TU.02.729	Leaf	174.25965912247375	0.7931055624072575	Leaf	30	
+evm.TU.02.729	Leaf	174.25965912247375	0.7931055624072575	Leaf 	30	
+evm.TU.02.729	Leaf	174.25965912247375	0.7931055624072575	Petiole	30	
+evm.TU.02.729	Leaf	174.25965912247375	0.7931055624072575	Vegetative leaf - fresh cutting	30	
+evm.TU.02.729	Leaf	174.25965912247375	0.7931055624072575	Female reproductive leaf	30	
+evm.TU.02.729	Meristem	31.591699634742916	-0.1935068978222438	Female apical meristem	30	
+evm.TU.02.729	Meristem	31.591699634742916	-0.1935068978222438	Male apical meristem	30	
+evm.TU.02.729	Root	1.0105434815458512	-1.8336268699419556	Roots	30	
+evm.TU.02.729	Root	1.0105434815458512	-1.8336268699419556	Root	30	
+evm.TU.02.729	Root	1.0105434815458512	-1.8336268699419556	Female root-mid	30	
+evm.TU.02.729	Root	1.0105434815458512	-1.8336268699419556	Female root-tip	30	
+evm.TU.02.729	Stem	29.843319984653387	-0.12130278197058757	Stem	30	
+evm.TU.02.729	Stem	29.843319984653387	-0.12130278197058757	Primary stem	30	
+evm.TU.02.729	Stem	29.843319984653387	-0.12130278197058757	Shoot	30	
+evm.TU.02.729	Trichome	169.83628420940425	0.8158243545483171	Trichomes	30	
+evm.TU.04.548	Flower	78.89825199636334	0.785944391177866	Female flower	30	
+evm.TU.04.548	Flower	78.89825199636334	0.785944391177866	Flower	30	
+evm.TU.04.548	Flower	78.89825199636334	0.785944391177866	Male flower	30	
+evm.TU.04.548	Flower	78.89825199636334	0.785944391177866	Female reproductive bud	30	
+evm.TU.04.548	Flower	78.89825199636334	0.785944391177866	Female floral bud	30	
+evm.TU.04.548	Leaf	110.32272853183218	-0.2010160012618698	Leaf	30	
+evm.TU.04.548	Leaf	110.32272853183218	-0.2010160012618698	Leaf 	30	
+evm.TU.04.548	Leaf	110.32272853183218	-0.2010160012618698	Petiole	30	
+evm.TU.04.548	Leaf	110.32272853183218	-0.2010160012618698	Vegetative leaf - fresh cutting	30	
+evm.TU.04.548	Leaf	110.32272853183218	-0.2010160012618698	Female reproductive leaf	30	
+evm.TU.04.548	Meristem	26.989644258541535	0.22985154894347018	Female apical meristem	30	
+evm.TU.04.548	Meristem	26.989644258541535	0.22985154894347018	Male apical meristem	30	
+evm.TU.04.548	Root	1.1539274277203446	-1.4177380596524185	Roots	30	
+evm.TU.04.548	Root	1.1539274277203446	-1.4177380596524185	Root	30	
+evm.TU.04.548	Root	1.1539274277203446	-1.4177380596524185	Female root-mid	30	
+evm.TU.04.548	Root	1.1539274277203446	-1.4177380596524185	Female root-tip	30	
+evm.TU.04.548	Stem	10.58726727249459	-0.7225550682239861	Stem	30	
+evm.TU.04.548	Stem	10.58726727249459	-0.7225550682239861	Primary stem	30	
+evm.TU.04.548	Stem	10.58726727249459	-0.7225550682239861	Shoot	30	
+evm.TU.04.548	Trichome	136.3434415675387	1.3255131890169392	Trichomes	30	
+evm.TU.07.5	Flower	76.2512596947966	0.6921041568435686	Female flower	30	
+evm.TU.07.5	Flower	76.2512596947966	0.6921041568435686	Flower	30	
+evm.TU.07.5	Flower	76.2512596947966	0.6921041568435686	Male flower	30	
+evm.TU.07.5	Flower	76.2512596947966	0.6921041568435686	Female reproductive bud	30	
+evm.TU.07.5	Flower	76.2512596947966	0.6921041568435686	Female floral bud	30	
+evm.TU.07.5	Leaf	176.65382212517642	0.21835233400727394	Leaf	30	
+evm.TU.07.5	Leaf	176.65382212517642	0.21835233400727394	Leaf 	30	
+evm.TU.07.5	Leaf	176.65382212517642	0.21835233400727394	Petiole	30	
+evm.TU.07.5	Leaf	176.65382212517642	0.21835233400727394	Vegetative leaf - fresh cutting	30	
+evm.TU.07.5	Leaf	176.65382212517642	0.21835233400727394	Female reproductive leaf	30	
+evm.TU.07.5	Meristem	15.805993634674243	-0.1562531426601027	Female apical meristem	30	
+evm.TU.07.5	Meristem	15.805993634674243	-0.1562531426601027	Male apical meristem	30	
+evm.TU.07.5	Root	0	-1.6842779432777284	Roots	30	
+evm.TU.07.5	Root	0	-1.6842779432777284	Root	30	
+evm.TU.07.5	Root	0	-1.6842779432777284	Female root-mid	30	
+evm.TU.07.5	Root	0	-1.6842779432777284	Female root-tip	30	
+evm.TU.07.5	Stem	17.15697801906889	-0.30294300275635827	Stem	30	
+evm.TU.07.5	Stem	17.15697801906889	-0.30294300275635827	Primary stem	30	
+evm.TU.07.5	Stem	17.15697801906889	-0.30294300275635827	Shoot	30	
+evm.TU.07.5	Trichome	178.1452889795384	1.2330175978433462	Trichomes	30	
+novel_gene_1061_5bd9a17a	Flower	48.13671135898926	0.661146041541634	Female flower	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Flower	48.13671135898926	0.661146041541634	Flower	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Flower	48.13671135898926	0.661146041541634	Male flower	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Flower	48.13671135898926	0.661146041541634	Female reproductive bud	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Flower	48.13671135898926	0.661146041541634	Female floral bud	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Leaf	67.61691469473149	0.5296899039593458	Leaf	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Leaf	67.61691469473149	0.5296899039593458	Leaf 	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Leaf	67.61691469473149	0.5296899039593458	Petiole	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Leaf	67.61691469473149	0.5296899039593458	Vegetative leaf - fresh cutting	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Leaf	67.61691469473149	0.5296899039593458	Female reproductive leaf	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Meristem	8.793020986388553	-1.1834864418952036	Female apical meristem	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Meristem	8.793020986388553	-1.1834864418952036	Male apical meristem	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Root	12.365276340376916	-0.8061185879378993	Roots	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Root	12.365276340376916	-0.8061185879378993	Root	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Root	12.365276340376916	-0.8061185879378993	Female root-mid	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Root	12.365276340376916	-0.8061185879378993	Female root-tip	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Stem	14.570788231307834	-0.5785804767344668	Stem	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Stem	14.570788231307834	-0.5785804767344668	Primary stem	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Stem	14.570788231307834	-0.5785804767344668	Shoot	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
+novel_gene_1061_5bd9a17a	Trichome	78.33733640625844	1.377349561066588	Trichomes	30	Probable acyl-activating enzyme 1, peroxisomal [Source:Projected from Arabidopsis thaliana (AT1G20560) UniProtKB/Swiss-Prot;Acc:F4HUK6]
