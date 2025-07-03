@@ -22,6 +22,7 @@ if (!all(colDistinct %in% names(metadata))) {
 	stop("Choose columns from metadata to color the points in the plot")
 }
 
+theme_set(theme_classic())
 # Transform tpm to log10(tpm+1)
 Exp_table_long <- tpm_matrix %>% 
   pivot_longer(cols = !gene_ID, names_to = "replicateName", values_to = "tpm") %>% 
@@ -54,7 +55,7 @@ plot_pca <- function(dataPCA, metadata, color_cols) {
 	 
 		base_plot = PCA_coord %>%
 		  ggplot(aes(x = PC1, y = PC2)) 
-		if (length(PCA_coord[[col]] %>% unique) < 3) {
+		if (length(PCA_coord[[col]] %>% unique) <= 6) {
 			base_plot = 
 				base_plot + 
 				geom_point(aes(shape = .data[[col]]),
@@ -69,7 +70,6 @@ plot_pca <- function(dataPCA, metadata, color_cols) {
 
 		base_plot + 
 		  labs(x = xlab, y = ylab, color=NULL, shape=NULL) +
-		  theme_grey() +
 		  theme(
 		#    aspect.ratio = .7,
 		    text = element_text(size= 14),

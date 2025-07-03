@@ -73,7 +73,6 @@ r_bins =
     edge_table %>%
     mutate(r_bins = round(r, digits = 5)) %>%
 	filter(r_bins > 0) %>%
-    select(r_bins, significant) %>%
     group_by(r_bins, significant) %>%
 	count
 
