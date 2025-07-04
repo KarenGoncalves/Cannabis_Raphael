@@ -37,29 +37,29 @@ cat("Resolution =", resolutions, "; Cut off = ", r_cutoffs)
  
 ###### Load files ######
 for (cur_rCutoff in r_cutoffs) {
-  for (curResolution in resolutions) {
+  for (curResolution in resolutions[1]) {
     rdata = paste0("RDATA/MainAnalysis_Cor", cur_rCutoff, 
                    "/ModuleData_forPlot",
                    "_res", curResolution, ".RData")
     load(rdata)
-    annotationPath <- paste0("results/Main_analysis_annotations_Cor",
-                             cur_rCutoff, "/Resolution",
-                             curResolution)
-    dir.create(annotationPath, recursive = T)
-    sapply(Expr_averaged_z_high_var_modules$module %>% unique,
-           \(curModule) {
-             Expr_averaged_z_high_var_modules %>%
-               dplyr::select(!all_of(c("tissue", "mean.logTPM", "z.score.TPM"))) %>%
-               unique %>%
-               filter(module == curModule) %>% 
-               write_delim(
-                 file = paste0(annotationPath, "/",
-                               "Module_", curModule, ".tsv"),
-                 delim = "\t", na = "", append = F,
-                 quote = "none",
-                 col_names = T
-               )
-           })
+    # annotationPath <- paste0("results/Main_analysis_annotations_Cor",
+    #                          cur_rCutoff, "/Resolution",
+    #                          curResolution)
+    # dir.create(annotationPath, recursive = T)
+    # sapply(Expr_averaged_z_high_var_modules$module %>% unique,
+    #        \(curModule) {
+    #          Expr_averaged_z_high_var_modules %>%
+    #            dplyr::select(!all_of(c("tissue", "mean.logTPM", "z.score.TPM"))) %>%
+    #            unique %>%
+    #            filter(module == curModule) %>% 
+    #            write_delim(
+    #              file = paste0(annotationPath, "/",
+    #                            "Module_", curModule, ".tsv"),
+    #              delim = "\t", na = "", append = F,
+    #              quote = "none",
+    #              col_names = T
+    #            )
+    #        })
 
     
     heatmap_data = 

@@ -1,19 +1,19 @@
 gene_ID	Entrez	Description	module	description
-evm.TU.02.783	NA	phenylalanine_ammonia-lyase_1	5	NA
-evm.TU.03.789	NA	Phenylalanine-amonialyase_5	5	NA
-evm.TU.10.36	NA	4-coumarate--CoA_ligase_1	5	NA
-evm.TU.01.590	NA	long_chain_acyl-CoA_synthetase_1-like	7	NA
-evm.TU.03.658	NA	Phenylalanine_ammonia_lyase_3	7	NA
-evm.TU.05.144	NA	4-coumarate--CoA_ligase_2	7	4-coumarate:coenzyme A ligase, Flavonoid biosynthesi [Source: Projected from Oryza sativa (Os02g0697400)]
-evm.TU.05.2034	NA	long_chain_acyl-CoA_synthetase_4	7	NA
-evm.TU.06.1713	NA	trans-cinnamate_4-monooxygenase	8	Cinnamate-4-hydroxylase [Source:Projected from Arabidopsis thaliana (AT2G30490) UniProtKB/TrEMBL;Acc:B1GV49]
-evm.TU.03.790	NA	Phenylalanine_ammonia_lyase_4	10	NA
-novel_gene_1348_5bd9a17a	NA	Phenylalanine_ammonia_lyase_2	10	NA
-evm.TU.07.1592	NA	tyrosine_decarboxylase_3	12	NA
-evm.TU.07.1594	NA	tyrosine_decarboxylase_1	12	NA
-evm.TU.09.1425	NA	tyrosine_decarboxylase_2	12	NA
-evm.TU.09.102	115697755	stearoyl-[acyl-carrier-protein] 9-desaturase, chloroplastic	37	NA
-evm.TU.ctgX21.2	115702099	delta(8)-fatty-acid desaturase 1	40	NA
+evm.TU.02.783	NA	phenylalanine_ammonia-lyase_1	4	NA
+evm.TU.03.789	NA	Phenylalanine-amonialyase_5	4	NA
+evm.TU.10.36	NA	4-coumarate--CoA_ligase_1	4	NA
+evm.TU.01.590	NA	long_chain_acyl-CoA_synthetase_1-like	5	NA
+evm.TU.03.658	NA	Phenylalanine_ammonia_lyase_3	5	NA
+evm.TU.05.144	NA	4-coumarate--CoA_ligase_2	5	4-coumarate:coenzyme A ligase, Flavonoid biosynthesi [Source: Projected from Oryza sativa (Os02g0697400)]
+evm.TU.05.2034	NA	long_chain_acyl-CoA_synthetase_4	5	NA
+evm.TU.06.1713	NA	trans-cinnamate_4-monooxygenase	6	Cinnamate-4-hydroxylase [Source:Projected from Arabidopsis thaliana (AT2G30490) UniProtKB/TrEMBL;Acc:B1GV49]
+evm.TU.03.790	NA	Phenylalanine_ammonia_lyase_4	8	NA
+novel_gene_1348_5bd9a17a	NA	Phenylalanine_ammonia_lyase_2	8	NA
+evm.TU.07.1592	NA	tyrosine_decarboxylase_3	9	NA
+evm.TU.07.1594	NA	tyrosine_decarboxylase_1	9	NA
+evm.TU.09.1425	NA	tyrosine_decarboxylase_2	9	NA
+evm.TU.09.102	115697755	stearoyl-[acyl-carrier-protein] 9-desaturase, chloroplastic	34	NA
+evm.TU.ctgX21.2	115702099	delta(8)-fatty-acid desaturase 1	37	NA
 evm.TU.08.955	115694736	fatty acid desaturase 4, chloroplastic-like	NA	NA
 novel_gene_4016_5bd9a17a	115698723	stearoyl-[acyl-carrier-protein] 9-desaturase, chloroplastic	NA	NA
 evm.TU.10.481	115701196	delta(12)-fatty-acid desaturase FAD2	NA	NA

@@ -83,24 +83,18 @@ For TPM computation, the GTF file was used to compute gene lengths (through exon
 
 ## PCA and gene filtering
 
+Before computing a minimum expression threshold, a principal component analysis was performed to detect potentially aberrant samples (eg. samples of the same bioproject clustering together despite originating from different tissues). For this, genes that were not detect in any sample were removed (overall read count \eq 0); then PCA was computed with (log~10~(TPM+1)).
 
-### PCA
+:::{#fig-PCA layout-ncol="2"}
 
-Principal component analysis of all available RNAseq datasets in NCBI, based on gene expression levels (log~10~(TPM+1)), after removal of non-expressed genes (no reads detected in any sample of the dataset). Since no clear issues were visible, the analysis proceeded with all datasets.
+![](plots/PCA06_tissue.svg){.lightbox width="100%" #fig-wholeData_tissue}
 
+![](plots/PCA06_BioProject.svg){.lightbox width="100%" #fig-wholeData_project}
 
-:::{layout-ncol="2"}
-::: {#fig-wholeData_tissue }
-![](plots/PCA06_tissue.svg){.lightbox width="100%"}
+Principal component analysis of all available RNAseq datasets in NCBI, based on gene expression levels (log~10~(TPM+1)), after removal of non-expressed genes (no reads detected in any sample of the dataset). 
 :::
 
-:::{#fig-wholeData_project}
-
-![](plots/PCA06_BioProject.svg){.lightbox width="100%"}
-
-:::
-
-:::
+Since no clear issues were visible, the analysis proceeded with all datasets.
 
 ### Filtering
 
@@ -119,9 +113,144 @@ cat("After filtering weakly expressed genes,", filtered,
 
 ### PCA post gene filtering
 
-No obvious difference was observed in the PCA before and after gene filtering, indicating that most of the genes removed from the dataset had TPM = 0 in all samples (as those genes were removed prior to the initial PCA).
-
 :::{#fig-filteredData}
 ![](plots/PCA_filtered_data.svg){.lightbox width="75%"}
 :::
 
+No obvious difference was observed in the PCA before and after gene filtering, indicating that most of the genes removed from the dataset had TPM = 0 in all samples (as those genes were removed prior to the initial PCA).
+
+
+## Gene expression variation
+
+To detect clusters of genes co-expressed in different tissues, the genes with most variable expression in relation to the tissues were selected.
+
+For this, TPM levels for each gene were averaged for each tissue, then the relative variance ($variance/mean$) of the averaged TPM values was computed. Next, the top 20% genes with highest relative variance of TPM were selected.
+
+
+
+::: {#fig-genes_in_network}
+![](plots/MainAnalysis/gene_relative_variance_distribution.svg){.lightbox}
+
+Selection of genes for coexpression network. Genes were ranked from lowest to highest relative variance (variance / mean) of TPM values. Black line indicates gene variance distribution; blue box indicates genes selected for network; red lines display variability of bait genes within the genes selected for network.
+:::
+
+```{r, include=T, echo=F, warning=F}
+#| label: tbl-bait_genes
+#| tbl-cap: "Possible genes in the pathway of interest. Column 'In network' indicates highly variable genes selected for network construction."
+
+genes_in_network <- read_delim("results/Baits_in_network.tsv", 
+                               show_col_types = F) %>%
+  select(gene_ID, Description, module)
+
+final <- genes_in_network %>%
+  mutate(
+    Description = gsub("_", " ", Description),
+    module = ifelse(is.na(module), "", module),
+    `In network` = ifelse(module != "", "Yes", "No")
+  ) 
+names(final)[2:3] = c("Gene", "Module")
+# kableExtra::kable(final[c(1,2,4)]) %>%
+#   kableExtra::kable_classic(lightable_options = "hover")
+
+library(DT)
+datatable(final[c(1,2,4)])
+```
+```{r echo=F, results="asis"}
+#| paged-print: true
+in_network = which(final$`In network` == "Yes") %>% length
+total = nrow(final)
+
+cat("Of the", total, "bait genes,", in_network, "were included in the network construction.")
+```
+
+## Gene correlation
+
+With the most variable genes selected, TPM levels were transformed into z-scores (to make the expression levels of different genes comparable), then Pearson correlation score was computed. The higher the correlation score, the more similar the expression of two genes across the different tissues in the dataset.
+
+To filter the correlation table, correlation scores were first binned by rounding to 5 significant digits; for each bin, the total number of edges (TE) and the number of significant edges (SE) found with r scores equal or greater than the current bin were counted, then SE was divided by TE to obtain the cumulative proportion of significant correlations. Finally, the correlation threshold was selected as the lowest positive r score with cumulative proportion of significant correlations > 0.9. 
+
+:::{.callout-note}
+
+- TE = total number of edges
+- SE = number of significant edges
+- CPSC = cumulative proportion of significant correlations
+- rbin = binned r score values
+- r = r score
+
+$$CPSC = \frac{ SE~r \geq rbin~}  {TE~r \geq rbin~ }$$
+
+r threshold = lowest positive rbin value with CPSC > 0.9
+
+```{r message=F,results='asis', echo=F}
+r = system("echo results/*annotations*/", intern = T) %>%
+  gsub("results/Main_analysis_annotations_Cor(0\\.\\d+)/", "\\1", x = .)
+
+cat("Correlation threshold =", r)
+```
+
+:::
+
+:::{#fig-rHistogram layout-ncol="1"}
+![](plots/MainAnalysis/rhistogram_combined.svg){.lightbox width="100%" #fig-AllGenes}
+
+Histogram of pearson correlation scores between genes selected for network construction. Significant correlations are shown in blue, non-significant ones are shown in orange. Left panel) Correlations between all genes in network. Right panel) Correlations between genes of interest (table 1) and other genes selected for network construction. Black line indicates the selected **r** threshold.
+:::
+
+## Network construction
+
+The network requires genes and their correlations (a correlation threshold) and a resolution level.
+
+:::{.callout-note}
+### Resolution
+In a network, a cluster is a group of genes correlated to each other. When few genes are correlated to each other in a cluster, a low resolution may allow the distinction of the individual genes or of smaller clusters. Clusters formed by strongly correlated genes (higher correlation scores) require higher resolution to distinguish individual genes or of smaller clusters.
+:::
+
+To optimize the resolution parameter, the function `cluster_leiden` was repeated using multiple resolution parameters (from 0.25 to 5, with steps of 0.25). Then, clusters with fewer than 5 genes were discarded and the number of genes in each detected cluster and the number of detected clusters was computed. For this step, the resolution selected was the highest one which kept all genes used in the network construction.
+
+:::{#fig-OptimizationResolution}
+![](plots/MainAnalysis/Optimize_resolution.svg)
+Optimization of network resolution. Blue line indicates the number of modules (of at least 5 genes) detected, pink line indicates number of genes in the network.
+:::
+
+```{r message=F,results='asis', echo=F}
+command = paste0("ls -t RDATA/MainAnalysis_Cor", r)
+resolution = system(command, intern = T) %>%
+  grep(pattern = "RData", value = T) %>% head(n = 1) %>%
+  gsub(".+res(0.\\d+).RData", "\\1", x = .)
+
+
+
+modules_interest <- (
+  genes_in_network %>% 
+    filter(!is.na(module))
+  )[["module"]] %>% unique %>%
+  paste(collapse = ", ") %>% 
+  gsub(pattern = ", (\\d+)$", replacement = " and \\1")
+
+cat("With resolution set to", resolution, ", the genes of interest were found in clusters",
+    modules_interest, "(table 2).\n\n")
+
+```
+
+::: {#fig-Heatmap_Modules}
+```{r results='asis', warning=F, echo=FALSE, message=FALSE}
+figure <- list.files(path = "plots/MainAnalysis/",
+           pattern="Heatmap_Modules_",
+           full.names = T) %>%
+  grep(pattern = paste0("res", resolution), value=T)
+ 
+cat("![](", figure, ")\n\n", sep = "")
+
+```
+
+Average expression (z-score of TPM levels) of genes in each cluster and each tissue.
+:::
+
+::: {#tbl-Genes_modules}
+```{r results='asis', warning=F, echo=FALSE, message=FALSE}
+final[-4] %>% 
+  filter(Module != "") %>% 
+  datatable
+```
+
+:::

@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 source("scripts/FUNCTIONS.R") # loads packages too
-runPCA=T
+runPCA=F
 
 ## Input files ##
 Exp_table <- read_csv("results/Filtered_TPM.csv")
