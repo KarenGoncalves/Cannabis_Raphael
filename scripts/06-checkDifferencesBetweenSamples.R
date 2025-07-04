@@ -65,7 +65,7 @@ plot_pca <- function(dataPCA, metadata, color_cols) {
 				base_plot +
 	 		 	geom_point(aes(color = .data[[col]]),
 		               			size = 3) +
-				  scale_color_manual(values = brewer.pal(length(PCA_coord[[col]] %>% unique), "Set1"))
+				  scale_color_manual(values = brewer.pal(length(PCA_coord[[col]] %>% unique), "Dark2"))
 		}
 
 		base_plot + 
