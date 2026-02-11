@@ -1,0 +1,47 @@
+gene_ID	Description	Formatted.description	Symbol	Order	Pathway
+evm.TU.07.1592	tyrosine_decarboxylase_3	TYDC3	TYDC3	1	A
+evm.TU.07.1594	tyrosine_decarboxylase_1	TYDC1	TYDC1	1	A
+evm.TU.09.1425	tyrosine_decarboxylase_2	TYDC2	TYDC2	1	A
+evm.TU.02.783	phenylalanine_ammonia-lyase_1	PAL1	PAL1	2	A
+novel_gene_1348_5bd9a17a	Phenylalanine_ammonia_lyase_2	PAL2	PAL2	2	A
+evm.TU.03.658	Phenylalanine_ammonia_lyase_3	PAL3	PAL3	2	A
+evm.TU.03.789	Phenylalanine-amonialyase_4	PAL4	PAL4	2	A
+evm.TU.03.790	Phenylalanine_ammonia_lyase_5	PAL5	PAL5	2	A
+evm.TU.06.1713	trans-cinnamate_4-monooxygenase	TCMO	C4H	3	A
+evm.TU.05.144	4-coumarate--CoA_ligase_2	4CL2	4CL2	4	A
+evm.TU.10.36	4-coumarate--CoA_ligase_1	4CL1	4CL1	4	A
+evm.TU.04.157	Coumarate-3-hydroxylase CYP98A	C3H	C3H	5	A
+evm.TU.08.1733	arginine_decarboxylase	Arginine decarboxylase	ADC	8	B
+evm.TU.03.643	agmatine_deiminase	Agmatine deiminase	AIH	9	B
+evm.TU.04.182	spermidine_synthase_1	Spermidine synthase 1	SPDS1	11	B
+evm.TU.04.812	spermidine_hydroxycinnamoyl_transferase-like_3	Spermidine hydroxycinnamoyl-transferase-like3	SHTL3	12	B
+evm.TU.05.91	spermidine_hydroxycinnamoyl_transferase-like_2	Spermidine hydroxycinnamoyl-transferase-like2	SHTL2	12	B
+evm.TU.05.98	spermidine_hydroxycinnamoyl_transferase_1	Spermidine hydroxycinnamoyl-transferase 1	SHT1	12	B
+evm.TU.05.101	spermidine_hydroxycinnamoyl_transferase-like_1	Spermidine hydroxycinnamoyl-transferase-like1	SHTL1	12	B
+evm.TU.08.1195	spermidine_hydroxycinnamoyl_transferase_3	Spermidine hydroxycinnamoyl-transferase 3	SHT3	12	B
+evm.TU.09.1695	spermidine_hydroxycinnamoyl_transferase_2	Spermidine hydroxycinnamoyl-transferase 2	SHT2	12	B
+novel_gene_2229_5bd9a17a	spermine_synthase	Spermine synthase	SPS	13	B
+evm.TU.01.590	long_chain_acyl-CoA_synthetase_1-like	Long-chain acyl-CoA synthase 1 like	LCFAL1	15	C
+evm.TU.05.2034	long_chain_acyl-CoA_synthetase_4	Long-chain acyl-CoA synthase 4	LCFAL4	15	C
+evm.TU.10.1035	long_chain_acyl-CoA_synthetase_8	Long-chain acyl-CoA synthase 8	LCFAL8	15	C
+evm.TU.09.102	stearoyl-[acyl-carrier-protein] 9-desaturase, chloroplastic	Stearoyl-[acyl-carrier-protein] 9-desaturase 1	STAD1	16	C
+novel_gene_4016_5bd9a17a	stearoyl-[acyl-carrier-protein] 9-desaturase, chloroplastic	Stearoyl-[acyl-carrier-protein] 9-desaturase 2	STAD2	16	C
+evm.TU.06.2116	delta(12)-oleate desaturase-like	delta(12)-oleate desaturase-like	FAD2L	17	C
+evm.TU.06.2117	delta(12)-fatty-acid desaturase	FAD2	FAD2.2	17	C
+evm.TU.08.955	fatty acid desaturase 4, chloroplastic-like	Fatty acid desaturase 4	FAD4	16	C
+evm.TU.10.481	delta(12)-fatty-acid desaturase	FAD2.1	FAD2.1	17	C
+evm.TU.ctgX21.2	delta(8)-fatty-acid desaturase 1	FAD1	FAD1	16	C
+evm.TU.01.1198	acyl-lipid (9-3)-desaturase	acyl-lipid (9-3)-desaturase	DES6	18	C
+evm.TU.06.1677	acyl-lipid omega-3 desaturase (cytochrome b5), endoplasmic reticulum	cytochrome b5	FAD3	18	C
+evm.TU.02.1106	glycylpeptide_N-tetradecanoyltransferase_1	Glycylpeptide N-tetradecanoyltranferase 1	NMT1	14	D
+evm.TU.01.2186	ornithine_decarboxylase	Ornithine decarboxylase	ODC	19	D
+evm.model.06.1677	Acyl-lipid omega-3 desaturase (cytochrome b5), endoplasmic	FAD3	FAD3	18	C
+novel_gene_524_5bd9a17a	Caffeic acid 3-O-methyltransferase	COMT1	COMT1	6	A
+evm.TU.05.1750	Caffeic acid 3-O-methyltransferase	COMT2	COMT2	6	A
+evm.TU.07.1877	Caffeic acid 3-O-methyltransferase	COMT3	COMT3	6	A
+evm.TU.07.1878	Caffeic acid 3-O-methyltransferase	COMT4	COMT4	6	A
+evm.TU.05.51	Caffeic acid 3-O-methyltransferase	COMT5	COMT5	6	A
+evm.TU.06.64	N-carbamoylputrescine amidase	CAP	CAP	10	B
+novel_gene_1347_5bd9a17a	Phenylalanine ammonia-lyase	PAL6	PAL6	2	A
+evm.TU.07.159	Tyrosine decarboxylase 1	TYDC4	TYDC4	1	A
+	
