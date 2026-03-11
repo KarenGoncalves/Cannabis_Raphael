@@ -128,10 +128,10 @@ right_join(all_coefVar_and_ranks,
          fill = "dodgerblue2", alpha = .01
      )  +
      geom_line(linewidth = 0.8) + 
-     geom_vline(
-         data = bait_var, aes(xintercept = relVar.TPM), 
+     geom_hline(
+         data = bait_var, aes(yintercept = rank.varTPM), 
          color = "tomato1", linewidth = 0.2, alpha = 1
-     ) +
+     )  +
      labs(y = "Gene rank",
           x = "TPM relative variance",
           # caption = 
@@ -167,6 +167,6 @@ Exp_table_long_averaged_z_high_var <-
 
 save(Exp_table_long_averaged_z_high_var,
      high_var_genes_pct, 
-     file = paste0(basedir, "GeneSelection_objects.RData")
+     file = paste0(basedir, "/GeneSelection_objects.RData")
 )
 

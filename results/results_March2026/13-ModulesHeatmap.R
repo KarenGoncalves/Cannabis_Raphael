@@ -80,8 +80,8 @@ for (cur_rCutoff in r_cutoffs) {
                            breaks = c(-1.5, 0, 1.5), 
                            labels = c("< -1.5", "0", "> 1.5")) +
       labs(x = NULL, y = "Module", fill = "z-score",
-           caption = paste0("r threshold = ", cur_rCutoff, 
-                            "\nresolution = ", curResolution)
+           # caption = paste0("r threshold = ", cur_rCutoff, 
+           #                  "\nresolution = ", curResolution)
       ) +
       heatmap_theme
     
@@ -109,3 +109,6 @@ left_join(Baits, my_network_modules, by = "gene_ID") %>%
   arrange(module) %>% 
   write_delim(file = paste0(basedir, "/Baits_in_network.tsv"),
               quote = "none", append=F, delim="\t")
+
+left_join(Baits, my_network_modules, by = "gene_ID") %>%
+  arrange(module) %>% View()

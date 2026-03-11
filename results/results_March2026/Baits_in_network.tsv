@@ -1,32 +1,32 @@
 Description	gene_ID	Symbol	Order	Pathway	module	description
-4-coumarate-CoA ligase 1	evm.TU.10.36	4CL1	4	A	5	NA
-Caffeic acid 3-O-methyltransferase	evm.TU.05.51	COMT5	6	A	5	NA
-Phenylalanine ammonia-lyase	evm.TU.02.783	PAL1	2	A	5	NA
-Phenylalanine ammonia-lyase	evm.TU.03.789	PAL4	2	A	5	NA
-4-coumarate-CoA ligase 2	evm.TU.05.144	4CL2	4	A	7	4-coumarate:coenzyme A ligase, Flavonoid biosynthesi [Source: Projected from Oryza sativa (Os02g0697400)]
 Caffeic acid 3-O-methyltransferase	evm.TU.07.1878	COMT4	6	A	7	NA
-Long chain acyl-CoA synthetase 1-like	evm.TU.01.590	LCFAL1	15	C	7	NA
 Long chain acyl-CoA synthetase 4	evm.TU.05.2034	LCFAL4	15	C	7	NA
-Phenylalanine ammonia-lyase	evm.TU.03.658	PAL3	2	A	7	NA
-trans-cinnamate 4-monooxygenase	evm.TU.06.1713	C3H	5	A	8	Cinnamate-4-hydroxylase [Source:Projected from Arabidopsis thaliana (AT2G30490) UniProtKB/TrEMBL;Acc:B1GV49]
-Phenylalanine ammonia-lyase	novel_gene_1348_5bd9a17a	PAL2	2	A	10	NA
-Phenylalanine ammonia-lyase	evm.TU.03.790	PAL5	2	A	10	NA
-Tyrosine decarboxylase	evm.TU.09.1425	TYDC2	1	A	12	NA
-Tyrosine decarboxylase	evm.TU.07.1592	TYDC3	1	A	12	NA
-Tyrosine decarboxylase 1	evm.TU.07.1595	TYDC1	1	A	12	NA
-delta(8)-fatty-acid desaturase 1	evm.TU.ctgX21.2	FAD1	16	C	40	NA
+4-coumarate-CoA ligase 1	evm.TU.10.36	4CL1	4	A	8	NA
+Phenylalanine ammonia-lyase	evm.TU.02.783	PAL1	2	A	9	NA
+Phenylalanine ammonia-lyase	evm.TU.03.789	PAL4	2	A	9	NA
+Arginine decarboxylase	evm.TU.08.1733	ADC	8	B	10	Arginine decarboxylase, Chilling stress respons [Source: Projected from Oryza sativa (Os06g0131300)]
+4-coumarate-CoA ligase 2	evm.TU.05.144	4CL2	4	A	11	4-coumarate:coenzyme A ligase, Flavonoid biosynthesi [Source: Projected from Oryza sativa (Os02g0697400)]
+Long chain acyl-CoA synthetase 1-like	evm.TU.01.590	LCFAL1	15	C	11	NA
+Phenylalanine ammonia-lyase	evm.TU.03.658	PAL3	2	A	11	NA
+Phenylalanine ammonia-lyase	novel_gene_1348_5bd9a17a	PAL2	2	A	12	NA
+Phenylalanine ammonia-lyase	evm.TU.03.790	PAL5	2	A	12	NA
+Tyrosine decarboxylase	evm.TU.09.1425	TYDC2	1	A	14	NA
+Tyrosine decarboxylase	evm.TU.07.1592	TYDC3	1	A	14	NA
+Tyrosine decarboxylase 1	evm.TU.07.1595	TYDC1	1	A	14	NA
+delta(12)-fatty-acid desaturase FAD2	evm.TU.10.481	FAD2.1	17	C	24	NA
+delta(8)-fatty-acid desaturase 1	evm.TU.ctgX21.2	FAD1	16	C	41	NA
 Acyl-lipid (9-3)-desaturase	evm.TU.01.1198	DES6	18	C	NA	NA
 Acyl-lipid omega-3 desaturase (cytochrome b5), endoplasmic	evm.model.06.1677	FAD3	18	C	NA	NA
-Agmatine deiminase	evm.TU.03.643	AIHH	9	B	NA	NA
-Arginine decarboxylase	evm.TU.08.1733	ADC	8	B	NA	NA
+Agmatine deiminase	evm.TU.03.643	AIH	9	B	NA	NA
 Caffeic acid 3-O-methyltransferase	novel_gene_524_5bd9a17a	COMT1	6	A	NA	NA
 Caffeic acid 3-O-methyltransferase	evm.TU.05.1750	COMT2	6	A	NA	NA
 Caffeic acid 3-O-methyltransferase	evm.TU.07.1877	COMT3	6	A	NA	NA
+Caffeic acid 3-O-methyltransferase	evm.TU.05.51	COMT5	6	A	NA	NA
 delta(12)-oleate desaturase-like	evm.TU.06.2116	FAD2L	17	C	NA	NA
-delta(12)-fatty-acid desaturase FAD2	evm.TU.10.481	FAD2.1	17	C	NA	NA
 delta(12)-fatty-acid desaturase FAD2	evm.TU.06.2117	FAD2.2	17	C	NA	NA
 Long chain acyl-CoA synthetase 8	evm.TU.10.1035	LCFAL8	15	C	NA	NA
 N-carbamoylputrescine amidase	evm.TU.06.64	CAP	10	B	NA	NA
 Ornithine decarboxylase	evm.TU.01.2186	ODC	19	D	NA	NA
 Spermidine Synthase I	evm.TU.04.182	SPDS1	11	B	NA	NA
 Stearoyl-[acyl-carrier-protein] 9-desaturase, chloroplastic	novel_gene_4016_5bd9a17a	STAD1	16	C	NA	NA
+trans-cinnamate 4-monooxygenase	evm.TU.06.1713	C3H	5	A	NA	NA
