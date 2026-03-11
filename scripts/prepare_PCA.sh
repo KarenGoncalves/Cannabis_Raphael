@@ -9,7 +9,8 @@ cut -f 1,2,3,5,10 metadata/metadata.txt |
   else if (tolower($5) ~ /meristem/) {tissue="Meristem"}
   else if (tolower($5) ~ /root/) {tissue="Root"}
   else if (tolower($5) ~ /stem/ || tolower($5) ~ /shoot/) {tissue="Stem"} # both stem and shoot were considered stem 
-  else if (tolower($5) ~ /leaf/ || tolower($5) ~ /petiole/) {tissue="Leaf"} # petiole samples were considered leaf
+  else if (tolower($5) ~ /leaf/) {tissue="Leaf"}
+  else if (tolower($5) ~ /petiole/) {tissue="Stem"} # petiole samples were considered stem
   else {tissue="Trichome"};
   print $1, $2, $3, $4, tissue, $5
 } ' > metadata/metadata_pca.txt
